@@ -11,14 +11,14 @@
             "id": "f0f58eeb6c36c79d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "topics/image-inpainting.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/plugins/obsidian-git/data.json",
+                "bFile": ".obsidian/plugins/obsidian-git/data.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "image-inpainting"
+              "icon": "diff",
+              "title": "Diff: data.json  (Working Tree)"
             }
           }
         ]
@@ -207,6 +207,7 @@
   },
   "active": "f0f58eeb6c36c79d",
   "lastOpenFiles": [
+    "topics/image-inpainting.md",
     "papers/2025/2025-corrfill-reference-based-inpainting/2025-corrfill-reference-based-inpainting-thumbnail.png",
     "papers/2023/2023-unipaint-multimodal-inpainting/2023-unipaint-multimodal-inpainting-thumbnail.png",
     "papers/2022/2022-smartbrush-text-shape-guided-inpainting/2022-smartbrush-text-shape-guided-inpainting-thumbnail.png",
@@ -218,7 +219,6 @@
     "topics/gaussian-splatting.md",
     "topics/image-captioning.md",
     "topics/image-generation.md",
-    "topics/image-inpainting.md",
     "topics/point-tracking.md",
     "topics/quantization.md",
     "topics/sports-analytics.md",
@@ -251,7 +251,6 @@
     "papers/2020/2020-kimera/2020-kimera.pdf",
     "clean_tags.py",
     "papers/2018/2018-sparse-3d-topological-graphs/2018-sparse-3d-topological-graphs.pdf",
-    "papers/2017/2017-playing-for-benchmarks-gta-dataset/2017-playing-for-benchmarks-gta-dataset-thumbnail.png",
-    "papers/2026/2026-vbvr-very-big-video-reasoning/2026-vbvr-very-big-video-reasoning-thumbnail.png"
+    "papers/2017/2017-playing-for-benchmarks-gta-dataset/2017-playing-for-benchmarks-gta-dataset-thumbnail.png"
   ]
 }
