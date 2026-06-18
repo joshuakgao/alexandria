@@ -1,8 +1,16 @@
 # Literature Review Index
 
-| Topic | Papers | Last updated |
-|-------|--------|--------------|
-| [[benchmarking\|Benchmarking]] | 1 | 2026-06-18 |
-| [[image-captioning\|Image Captioning]] | 1 | 2026-06-18 |
-| [[image-dataset\|Image Datasets]] | 1 | 2026-06-18 |
-| [[image-generation\|Image Generation]] | 1 | 2026-06-18 |
+```dataviewjs
+const topics = dv.pages('"topics"')
+  .where(p => p.slug)
+  .sort(p => p.topic, "asc");
+const papers = dv.pages('"papers"');
+
+dv.table(
+  ["Topic", "Papers"],
+  topics.map(t => {
+    const count = papers.where(p => p.tags && p.tags.includes(t.slug)).length;
+    return [t.file.link, count];
+  })
+);
+```
