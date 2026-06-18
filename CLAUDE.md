@@ -153,7 +153,7 @@ Triggered when the user says "ingest {number}" or similar (e.g. `ingest 3`, `ing
 2. **Download** the link with `wget`. For `.pdf` files, extract text with `pdftotext file.pdf -`.
 3. **Duplicate check** — after reading the paper, check if it already exists in `papers/` (match by title or slug). If it does, warn the user that the paper has already been ingested, delete any downloaded files, and stop.
 4. **Thumbnail** — if an image is provided in the command (e.g. `ingest 1 [Image #1]`), use it as the thumbnail.
-5. **Topic tags** — always auto-generate topic tags from the paper content. If the user also provides tags in the command (e.g. `ingest imagenet image-classification computer-vision`), merge them with the auto-generated ones. Prefer reusing existing topic slugs (check `topics/`) before creating new ones. Topic tags must only be research areas and not just concepts. 
+5. **Topic tags** — always auto-generate topic tags from the paper content. If the user also provides tags in the command (e.g. `ingest imagenet image-classification computer-vision`), merge them with the auto-generated ones. Prefer reusing existing topic slugs (check `topics/`) before creating new ones. Topic tags must only be research areas and not just concepts. **Present the proposed topic tags to the user and wait for confirmation before continuing.**
 6. **File the PDF** — move to `papers/{year}/{YYYY-paper-slug}/{YYYY-paper-slug}.pdf`.
 7. **Save thumbnail** — save as `papers/{year}/{YYYY-paper-slug}/{YYYY-paper-slug}-thumbnail.png` (or `.jpg`).
 8. **Create paper summary** — write `papers/{year}/{YYYY-paper-slug}/{YYYY-paper-slug}.md` following the paper summary format above.

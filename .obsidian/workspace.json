@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "691e413b32cdc1ac",
+        "id": "5db259aed99223d8",
         "type": "tabs",
         "children": [
           {
-            "id": "f0f58eeb6c36c79d",
+            "id": "4e926a313a8b2134",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/plugins/obsidian-git/data.json",
-                "bFile": ".obsidian/plugins/obsidian-git/data.json",
-                "aRef": ""
+                "file": "CLAUDE.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: data.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "CLAUDE"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "CLAUDE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from CLAUDE"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "CLAUDE.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of CLAUDE"
             }
           },
           {
@@ -205,8 +205,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f0f58eeb6c36c79d",
+  "active": "0ea6d65034813b20",
   "lastOpenFiles": [
+    "inbox.md",
+    "README.md",
     "topics/image-inpainting.md",
     "papers/2025/2025-corrfill-reference-based-inpainting/2025-corrfill-reference-based-inpainting-thumbnail.png",
     "papers/2023/2023-unipaint-multimodal-inpainting/2023-unipaint-multimodal-inpainting-thumbnail.png",
@@ -241,7 +243,6 @@
     "papers/2022/2022-change-detection-indoor-construction-bim/2022-change-detection-indoor-construction-bim-thumbnail.png",
     "topics/embodied-memory.md",
     "topics/dynamic-scene-graph-generation.md",
-    "topics/diffusion-models.md",
     "convert_to_dataview.py",
     "fix_final.py",
     "fix_all_authors.py",
