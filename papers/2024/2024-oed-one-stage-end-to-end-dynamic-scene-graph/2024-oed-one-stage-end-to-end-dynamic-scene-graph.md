@@ -2,6 +2,7 @@
 title: "OED: Towards One-stage End-to-End Dynamic Scene Graph Generation"
 authors: [Guan Wang, Zhimin Li, Qingchao Chen, Yang Liu]
 year: 2024
+venue: "CVPR 2024"
 tags: [dynamic-scene-graph-generation, scene-graphs, video-understanding]
 url: ""
 pdf: "[[2024-oed-one-stage-end-to-end-dynamic-scene-graph.pdf]]"

@@ -2,6 +2,7 @@
 title: "Crowd Source Scene Change Detection and Local Map Update"
 authors: [Pair Alignment, D Point Cloud, Deep Learning]
 year: 2022
+venue: "AIVR 2022"
 tags: [change-detection, autonomous-vehicles, visual-localization, 3d-scene-understanding]
 url: ""
 pdf: "[[2022-crowd-source-scene-change-detection.pdf]]"

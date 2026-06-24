@@ -2,7 +2,7 @@
 title: "Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks"
 authors: [Bin Xiao, Haiping Wu, Weijian Xu, Xiyang Dai, Houdong Hu, Yumao Lu, Michael Zeng, Ce Liu, Lu Yuan]
 year: 2024
-venue: "CVPR"
+venue: "CVPR 2024"
 tags: [vision-language-models]
 url: ""
 pdf: "[[2024-florence2-unified-vision-tasks.pdf]]"

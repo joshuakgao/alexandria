@@ -2,6 +2,7 @@
 title: "VGGT-SLAM 2.0: Real-time Dense Feed-forward Scene Reconstruction"
 authors: [Dominic Maggio, Luca Carlone]
 year: 2026
+venue: ""
 tags: [3d-scene-reconstruction, slam]
 url: ""
 pdf: "[[2026-vggt-slam-2.pdf]]"

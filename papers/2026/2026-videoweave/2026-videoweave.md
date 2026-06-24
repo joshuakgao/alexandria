@@ -2,6 +2,7 @@
 title: "VideoWeave: A Data-Centric Approach for Efficient Video Understanding"
 authors: [Zane Durante, Amandeep Singh, Tzu-Sheng Kuo, Lili Lee, Siddharth Khatua, Sumedh Agarwal, Ruohan Gao, Ehsan Adeli, Li Fei-Fei]
 year: 2026
+venue: ""
 tags: [video-understanding]
 url: ""
 pdf: "[[2026-videoweave.pdf]]"

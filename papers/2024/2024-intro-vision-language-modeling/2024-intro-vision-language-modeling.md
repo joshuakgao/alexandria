@@ -2,6 +2,7 @@
 title: "An Introduction to Vision-Language Modeling"
 authors: [Florian Bordes, Richard Yuanzhe Pang, Anurag Ajay, Alexander Li, Adrien Bardes, Suzanne Petryk, Oscar Mañas, Zhiqiu Lin, Anas Mahmoud, Bargav Jayaraman, Mark Ibrahim, Melissa Hall, Yunyang Xiong, Jonathan Lebensold, Candace Ross, Srihari Jayakumar, Chuan Guo, Diane Bouchacourt, Haider Al-Tahan, Karthik Padthe, Vasu Sharma, Hu Xu, Xiaoqing Ellen Tan, Megan Richards, Samuel Lavoie, Pietro Astolfi, Reyhane Askari Hemmat, Jun Chen, Kushal Tirumala, Ronghang Hu, Aasish Pappu, Piotr Bojanowski, Christoph Feichtenhofer, Sean Bell, Licheng Yu, Yossi Adi, Lior Wolf, Ari Morcos, Piotr Dollár, Nicolas Ballas]
 year: 2024
+venue: ""
 tags: [vision-language-models]
 url: ""
 pdf: "[[2024-intro-vision-language-modeling.pdf]]"

@@ -2,6 +2,7 @@
 title: "Visual Programming: Compositional visual reasoning without training"
 authors: [Tanmay Gupta, Aniruddha Kembhavi]
 year: 2022
+venue: "CVPR 2023"
 tags: [agentic-mllms]
 url: ""
 pdf: "[[2022-visual-programming-compositional-visual-reasoning.pdf]]"

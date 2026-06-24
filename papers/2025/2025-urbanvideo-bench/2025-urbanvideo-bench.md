@@ -2,8 +2,8 @@
 title: "UrbanVideo-Bench: Benchmarking Vision-Language Models on Embodied Intelligence with Video Data in Urban Spaces"
 authors: [Jianjie Fang, Zichao Dai, Ziyou Wang, Jirong Zha, Weichen Zhang, Chen Gao, Yue Wang, Jinqiang Cui, Xinlei Chen, Yong Li]
 year: 2025
-venue: "ACL"
-tags: [video-understanding, embodied-memory, spatial-reasoning, remote-sensing, benchmarking]
+venue: "ACL 2025"
+tags: [video-understanding, embodied-ai, spatial-reasoning, remote-sensing]
 url: ""
 pdf: "[[2025-urbanvideo-bench.pdf]]"
 date_ingested: 2026-06-18

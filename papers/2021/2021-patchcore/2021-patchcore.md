@@ -2,6 +2,7 @@
 title: "Towards Total Recall in Industrial Anomaly Detection"
 authors: [Karsten Roth, Latha Pemula, Joaquin Zepeda, Thomas Brox, Peter Gehler]
 year: 2021
+venue: "CVPR 2022"
 tags: [anomaly-detection]
 url: ""
 pdf: "[[2021-patchcore.pdf]]"

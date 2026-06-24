@@ -2,7 +2,7 @@
 title: "RePaint: Inpainting using Denoising Diffusion Probabilistic Models"
 authors: [Andreas Lugmayr, Martin Danelljan, Andres Romero, Fisher Yu, Radu Timofte, Luc Van Gool]
 year: 2022
-venue: "CVPR"
+venue: "CVPR 2022"
 tags: [image-inpainting, diffusion-models]
 url: ""
 pdf: "[[2022-repaint-inpainting-diffusion.pdf]]"

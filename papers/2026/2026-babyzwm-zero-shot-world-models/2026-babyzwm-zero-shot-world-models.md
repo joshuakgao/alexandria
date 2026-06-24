@@ -2,6 +2,7 @@
 title: "Zero-shot World Models Are Developmentally Efficient Learners"
 authors: [Kian Hao Aw, Daniel Kotar, Andrew Lee, Sunjin Kim, Khaled Jedoui, Sudhanshu Venkatesh, Chaofei Chen, Michael Frank, Daniel Yamins]
 year: 2026
+venue: ""
 tags: [cognitive-ai, world-models]
 url: ""
 pdf: "[[2026-babyzwm-zero-shot-world-models.pdf]]"

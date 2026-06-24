@@ -2,7 +2,7 @@
 title: "ImageBind-LLM: Multi-modality Instruction Tuning"
 authors: [Zhe Han, Ziyi Zhang, Shuhao Zhang]
 year: 2023
-venue: "NeurIPS"
+venue: ""
 tags: [vision-language-models]
 url: ""
 pdf: "[[2023-imagebind-llm-multimodality-instruction-tuning.pdf]]"

@@ -2,8 +2,8 @@
 title: "RoboEXP: Action-Conditioned Scene Graph via Interactive Exploration for Robotic Manipulation"
 authors: [Hanxiao Jiang, Binghao Huang, Ruihai Wu, Zhuoran Li, Shubham Garg, Hooshang Nayyeri, Shenlong Wang, Yunzhu Li]
 year: 2024
-venue: "CoRL"
-tags: [embodied-memory, scene-graphs]
+venue: "CoRL 2024"
+tags: [embodied-ai, scene-graphs]
 url: ""
 pdf: "[[2024-roboexp.pdf]]"
 date_ingested: 2026-06-18

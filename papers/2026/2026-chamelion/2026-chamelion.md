@@ -2,6 +2,7 @@
 title: "Chamelion: Reliable Change Detection for Long-Term LiDAR Mapping in Transient Environments"
 authors: [Hyungtae Jang, Jaehyun Lee, Deva Nahrendra, Hyun Myung]
 year: 2026
+venue: "RA-L 2026"
 tags: [change-detection, 3d-scene-understanding, autonomous-vehicles]
 url: ""
 pdf: "[[2026-chamelion.pdf]]"

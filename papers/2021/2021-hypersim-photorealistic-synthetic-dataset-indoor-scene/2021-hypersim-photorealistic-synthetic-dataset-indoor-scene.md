@@ -2,6 +2,7 @@
 title: "Hypersim: A Photorealistic Synthetic Dataset for Holistic Indoor Scene Understanding"
 authors: [Mike Roberts, Jason Ramapuram, Anurag Ranjan, Atulit Kumar, Miguel Angel Bautista, Nathan Paczan, Russ Webb, Joshua Susskind]
 year: 2021
+venue: "ICCV 2021"
 tags: [synthetic-datasets, 3d-scene-understanding]
 url: ""
 pdf: "[[2021-hypersim-photorealistic-synthetic-dataset-indoor-scene.pdf]]"

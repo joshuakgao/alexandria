@@ -2,6 +2,7 @@
 title: "From Coarse to Fine: Robust Hierarchical Localization at Large Scale"
 authors: [Paul-Edouard Sarlin, Cesar Cadena, Roland Siegwart, Marcin Dymczyk]
 year: 2019
+venue: "CVPR 2019"
 tags: [visual-localization]
 url: ""
 pdf: "[[2019-hierarchical-localization-at-large-scale.pdf]]"

@@ -1,0 +1,1 @@
+Maybe use a world model to "plan" the trajectory. Evaluate how similar the plan is to the actual navigation

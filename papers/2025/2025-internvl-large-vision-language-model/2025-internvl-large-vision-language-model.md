@@ -2,8 +2,8 @@
 title: "InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks"
 authors: [Zhe Chen, Jiannan Wu, Wenhai Wang, Weijie Su, Guo Chen, Sen Xing, Muyan Zhong, Qinglong Zhang, Xizhou Zhu, Lewei Lu, Bin Li, Ping Luo, Tong Lu, Yu Qiao, Jifeng Dai]
 year: 2024
-venue: "CVPR"
-tags: [vision-language-models, benchmarking]
+venue: "CVPR 2025"
+tags: [vision-language-models]
 url: ""
 pdf: "[[2025-internvl-large-vision-language-model.pdf]]"
 date_ingested: 2026-06-18

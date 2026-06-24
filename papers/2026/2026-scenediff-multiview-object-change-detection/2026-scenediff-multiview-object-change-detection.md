@@ -2,7 +2,8 @@
 title: "SceneDiff: A Benchmark and Method for Multiview Object Change Detection"
 authors: [Yuqun Wu, Chih-hao Lin, Henry Che, Aditi Tiwari, Chuhang Zou, Shenlong Wang, Derek Hoiem]
 year: 2026
-tags: [change-detection, segmentation, benchmarking, construction-monitoring]
+venue: ""
+tags: [change-detection, segmentation, construction-monitoring]
 url: ""
 pdf: "[[2026-scenediff-multiview-object-change-detection.pdf]]"
 date_ingested: 2026-06-18

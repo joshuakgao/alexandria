@@ -2,7 +2,7 @@
 title: "Depth Anything V2"
 authors: [Lihe Yang, Bingyi Kang, Zilong Huang, Zhen Zhao, Xiaogang Xu, Jiashi Feng, Hengshuang Zhao]
 year: 2024
-venue: "NeurIPS"
+venue: "NeurIPS 2024"
 tags: [depth-estimation, synthetic-datasets]
 url: ""
 pdf: "[[2024-depth-anything-v2.pdf]]"

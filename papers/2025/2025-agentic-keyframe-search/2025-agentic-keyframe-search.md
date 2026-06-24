@@ -2,6 +2,7 @@
 title: "Agentic Keyframe Search for Video Question Answering"
 authors: [Sunqi Fan, Meng-Hao Guo, Shuojin Yang]
 year: 2025
+venue: ""
 tags: [video-understanding, agentic-mllms]
 url: ""
 pdf: "[[2025-agentic-keyframe-search.pdf]]"

@@ -2,6 +2,7 @@
 title: "B³-Seg: Camera-Free, Training-Free 3DGS Segmentation via Analytic EIG and Beta–Bernoulli Bayesian Updates"
 authors: [Hiromichi Kamata, Samuel Arthur Munro, Fuminori Homma]
 year: 2026
+venue: "CVPR 2026"
 tags: [3d-scene-understanding, gaussian-splatting, segmentation, image-generation]
 url: ""
 pdf: "[[2026-b3seg-camera-free-3dgs-segmentation.pdf]]"

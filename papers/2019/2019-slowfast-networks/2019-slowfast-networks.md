@@ -2,7 +2,7 @@
 title: "SlowFast Networks for Video Recognition"
 authors: [Christoph Feichtenhofer, Haoqi Fan, Jitendra Malik, Kaiming He]
 year: 2019
-venue: "ICCV"
+venue: "ICCV 2019"
 tags: [video-understanding]
 url: ""
 pdf: "[[2019-slowfast-networks.pdf]]"

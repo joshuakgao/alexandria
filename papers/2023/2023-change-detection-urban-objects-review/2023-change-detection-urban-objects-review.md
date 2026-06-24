@@ -3,7 +3,7 @@ title: "Change detection of urban objects using 3D point clouds: A review"
 authors: [Uwe Stilla a, Yusheng Xu a]
 year: 2023
 venue: "ISPRS Journal of Photogrammetry and Remote Sensing"
-tags: [construction-monitoring, benchmarking, change-detection, point-cloud-registration]
+tags: [construction-monitoring, change-detection, point-cloud-registration]
 url: ""
 pdf: "[[2023-change-detection-urban-objects-review.pdf]]"
 date_ingested: 2026-06-18

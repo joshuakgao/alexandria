@@ -2,6 +2,7 @@
 title: "InternVideo2.5: Empowering Video MLLMs with Long and Rich Context Modeling"
 authors: [Yi Wang, Xinhao Li, Ziang Yan, Yinan He, Jiashuo Yu, Xiangyu Zeng, Chenting Wang, Changlian Ma, Haian Huang, Jianfei Gao, Min Dou, Kai Chen, Wenhai Wang, Yu Qiao, Yali Wang, Limin Wang]
 year: 2025
+venue: ""
 tags: [video-understanding]
 url: ""
 pdf: "[[2025-internvideo2.5.pdf]]"

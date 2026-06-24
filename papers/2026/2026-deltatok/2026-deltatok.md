@@ -2,6 +2,7 @@
 title: "A Frame is Worth One Token: Efficient Generative World Modeling with Delta Tokens"
 authors: [Tommie Kerssies, Gabriele Berton, Ju He, Qihang Yu, Wufei Ma, Daan de Geus, Gijs Dubbelman, Liang-Chieh Chen]
 year: 2026
+venue: "CVPR 2026"
 tags: [world-models]
 url: ""
 pdf: "[[2026-deltatok.pdf]]"

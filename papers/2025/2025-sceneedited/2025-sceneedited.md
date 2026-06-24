@@ -2,7 +2,8 @@
 title: "SceneEdited: A City-Scale Benchmark for 3D HD Map Updating via Image-Guided Change Detection"
 authors: [Chih-hao Lin, Anuj Chin, Sourabh Garg, Ben Dayoub]
 year: 2025
-tags: [autonomous-vehicles, change-detection, benchmarking]
+venue: "WACV 2026"
+tags: [autonomous-vehicles, change-detection]
 url: ""
 pdf: "[[2025-sceneedited.pdf]]"
 date_ingested: 2026-06-18

@@ -2,7 +2,7 @@
 title: "Diff-Net: Image Feature Difference based High-Definition Map Change Detection for Autonomous Driving"
 authors: [Ye He, Lingxi Jiang, Zehao Liang, He Wang, Tianjia Song]
 year: 2021
-venue: "ICRA"
+venue: "ICRA 2021"
 tags: [autonomous-vehicles, change-detection]
 url: ""
 pdf: "[[2021-diff-net.pdf]]"

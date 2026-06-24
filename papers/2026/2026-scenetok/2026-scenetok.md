@@ -2,6 +2,7 @@
 title: "SceneTok: A Compressed, Diffusable Token Space for 3D Scenes"
 authors: [Mohammad Asim, Christopher Wewer, Jan Eric Lenssen]
 year: 2026
+venue: "CVPR 2026"
 tags: [world-models, diffusion-models, image-generation]
 url: ""
 pdf: "[[2026-scenetok.pdf]]"

@@ -2,8 +2,8 @@
 title: "Re-thinking Temporal Search for Long-Form Video Understanding"
 authors: [Jinhui Ye, Zihan Wang, Haosen Sun, Keshigeyan Chandrasegaran, Zane Durante, Cristobal Eyzaguirre, Yonatan Bisk, Juan Carlos Niebles, Ehsan Adeli, Li Fei-Fei]
 year: 2025
-venue: "CVPR"
-tags: [video-understanding, benchmarking]
+venue: "CVPR 2025"
+tags: [video-understanding]
 url: ""
 pdf: "[[2025-re-thinking-temporal-search-long-form-video.pdf]]"
 date_ingested: 2026-06-18

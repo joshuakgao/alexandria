@@ -3,7 +3,7 @@ title: "MMLongBench: Benchmarking Long-Context Vision-Language Models Effectivel
 authors: [Haoning Wang, Haohan Yu, Juntao Ren, Shuai Zhang, Yuping Zhao, Divya Saxena, Jiaheng Cheng, Jianhui Wong, Caifeng See, Pasquale Minervini, Dawn Song, Mark Steedman]
 year: 2025
 venue: "NeurIPS 2025"
-tags: [vision-language-models, benchmarking]
+tags: [vision-language-models]
 url: ""
 pdf: "[[2025-mmlongbench.pdf]]"
 date_ingested: 2026-06-18

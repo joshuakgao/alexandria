@@ -2,7 +2,7 @@
 title: "Intuitive physics understanding emerges from self-supervised pretraining on natural videos"
 authors: [Nicolas Ballas, Mahmoud Assran, Adrien Bardes, Laurent Najman, Michael Rabbat, Emmanuel Dupoux, Yann LeCun]
 year: 2025
-venue: "arXiv:2502.11831"
+venue: ""
 tags: [world-models]
 url: ""
 pdf: "[[2025-intuitive-physics-self-supervised-pretraining.pdf]]"

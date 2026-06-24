@@ -2,7 +2,7 @@
 title: "ViperGPT: Visual Inference via Python Execution for Reasoning"
 authors: [Dídac Surís, Sachit Menon, Carl Vondrick]
 year: 2023
-venue: "arXiv:2303.08128"
+venue: "ICCV 2023"
 tags: [agentic-mllms]
 url: ""
 pdf: "[[2023-viper-gpt.pdf]]"

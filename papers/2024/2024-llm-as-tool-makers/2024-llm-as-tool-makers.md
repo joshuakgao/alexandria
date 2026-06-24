@@ -2,7 +2,7 @@
 title: "Large Language Models as Tool Makers"
 authors: [Tianle Cai, Xuezhi Wang, Tengyu Ma, Xinyun Chen, Denny Zhou]
 year: 2024
-venue: "ICLR"
+venue: "ICLR 2024"
 tags: [agentic-mllms]
 url: ""
 pdf: "[[2024-llm-as-tool-makers.pdf]]"

@@ -2,6 +2,7 @@
 title: "SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory"
 authors: [Cheng-Yen Yang, Hsiang-Wei Huang, Wenhao Chai, Zhongyu Jiang, Jenq-Neng Hwang]
 year: 2024
+venue: ""
 tags: [segmentation]
 url: ""
 pdf: "[[2024-samurai-motion-aware-tracking.pdf]]"

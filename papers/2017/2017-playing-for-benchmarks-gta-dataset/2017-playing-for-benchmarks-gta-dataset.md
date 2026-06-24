@@ -2,7 +2,8 @@
 title: "Playing for Benchmarks"
 authors: [Stephan Richter, Zeeshan Hayder, Vladlen Koltun]
 year: 2017
-tags: [synthetic-datasets, benchmarking]
+venue: "ICCV 2017"
+tags: [synthetic-datasets]
 url: ""
 pdf: "[[2017-playing-for-benchmarks-gta-dataset.pdf]]"
 date_ingested: 2026-06-18

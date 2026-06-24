@@ -2,8 +2,8 @@
 title: "Sparse 3D Topological Graphs for Micro-Aerial Vehicle Planning"
 authors: [Helen Oleynikova, Zachary Taylor, Roland Siegwart, Juan Nieto Autonomous Systems Lab]
 year: 2018
-venue: "IROS"
-tags: [embodied-memory]
+venue: "IROS 2018"
+tags: [embodied-ai]
 url: ""
 pdf: "[[2018-sparse-3d-topological-graphs.pdf]]"
 date_ingested: 2026-06-18

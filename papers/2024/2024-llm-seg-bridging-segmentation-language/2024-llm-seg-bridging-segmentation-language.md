@@ -2,7 +2,7 @@
 title: "LLM-Seg: Bridging Image Segmentation and Large Language Model Reasoning"
 authors: [Junchi Wang, Lei Ke, Zheng Peng, Mingyu Wang]
 year: 2024
-venue: "CVPR Workshop"
+venue: "CVPR 2024 Workshop"
 tags: [vision-language-models, segmentation, synthetic-datasets]
 url: ""
 pdf: "[[2024-llm-seg-bridging-segmentation-language.pdf]]"

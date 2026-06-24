@@ -2,6 +2,7 @@
 title: "GenRecon: Bridging Generative Priors for Multi-View 3D Scene Reconstruction"
 authors: [Katharina Schmid, Fynn von Lützow, Jiri Hladký, Angela Dai, Matthias Nießner]
 year: 2026
+venue: ""
 tags: [3d-scene-reconstruction, diffusion-models]
 url: ""
 pdf: "[[2026-genrecon.pdf]]"

@@ -2,7 +2,8 @@
 title: "Multi-Step Reasoning for Embodied Question Answering via Tool Augmentation"
 authors: [Mingliang Zhai, Hansheng Liang, Xiaomeng Fan, Zhi Gao, Chuanhao Li, Che Sun, Xu Bin, Yuwei Wu, Yunde Jia]
 year: 2025
-tags: [agentic-mllms, embodied-memory, vision-language-models]
+venue: ""
+tags: [agentic-mllms, embodied-ai, vision-language-models]
 url: ""
 pdf: "[[2025-tooleqa-embodied-question-answering.pdf]]"
 date_ingested: 2026-06-18

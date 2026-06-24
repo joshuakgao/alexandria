@@ -2,6 +2,7 @@
 title: "Keyframe-oriented Vision Token Pruning: Enhancing Efficiency of Large Vision Language Models on Long-Form Video Processing"
 authors: [Yudong Liu, Jingwei Sun, Yueqian Lin, Jianyi Zhang, Ming Yin, Qinsi Wang, Guangzhi Su, Hai Li]
 year: 2025
+venue: "ICCV 2025"
 tags: [video-understanding, vision-language-models]
 url: ""
 pdf: "[[2025-keyframe-oriented-vision-token-pruning.pdf]]"

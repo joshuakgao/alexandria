@@ -2,6 +2,7 @@
 title: "Unseen Visual Anomaly Generation"
 authors: [Han Sun, Yunkang Cao, Hao Dong, Olga Fink]
 year: 2025
+venue: "CVPR 2025"
 tags: [anomaly-detection, diffusion-models, synthetic-datasets]
 url: ""
 pdf: "[[2025-unseen-visual-anomaly-generation.pdf]]"

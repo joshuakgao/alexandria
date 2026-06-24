@@ -2,7 +2,8 @@
 title: "Enter the Mind Palace: Reasoning and Planning for Long-term Active Embodied Question Answering"
 authors: [Muhammad Fadhil Ginting, Sung-Kyun Kim, Kevin Meng, Cedric Reinke, Nikhil Krishna, Joshua Kayhani, Jesse Peltzer, David Fan, Ali Shaban, Mykel Kochenderfer, Ali-akbar Agha-mohammadi, Luca Omidshafiei]
 year: 2025
-tags: [embodied-memory, scene-graphs]
+venue: ""
+tags: [embodied-ai, scene-graphs]
 url: ""
 pdf: "[[2025-mind-palace.pdf]]"
 date_ingested: 2026-06-18

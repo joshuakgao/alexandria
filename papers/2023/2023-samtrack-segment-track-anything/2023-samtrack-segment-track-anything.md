@@ -2,6 +2,7 @@
 title: "Segment and Track Anything"
 authors: [Yangming Cheng, Liulei Li, Yuanyou Xu, Xiaodi Li, Yi Yang]
 year: 2023
+venue: ""
 tags: [segmentation, vision-language-models]
 url: ""
 pdf: "[[2023-samtrack-segment-track-anything.pdf]]"

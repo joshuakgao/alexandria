@@ -2,7 +2,7 @@
 title: "Describe Anything: Detailed Localized Image and Video Captioning"
 authors: [Long Lian, Yifan Ding, Ming-Yu Liu, Trevor Darrell]
 year: 2025
-venue: "ICCV"
+venue: "ICCV 2025"
 tags: [vision-language-models, image-captioning, video-understanding]
 url: ""
 pdf: "[[2025-describe-anything-localized-captioning.pdf]]"

@@ -2,7 +2,7 @@
 title: "VRAG: Retrieval-Augmented Video Question Answering for Long-Form Videos"
 authors: [Bao Tran Gia, Khiem Le, Tien Do, Tien-Dung Mai, Thanh Duc Ngo, Duy-Dinh Le, Shin'ichi Satoh]
 year: 2024
-venue: "CVPR Workshop"
+venue: "CVPR 2024 Workshop"
 tags: [video-understanding, vision-language-models]
 url: ""
 pdf: "[[2024-vrag-retrieval-augmented-video-qa.pdf]]"

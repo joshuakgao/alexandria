@@ -2,7 +2,7 @@
 title: "Zero-Shot Dual-Path Integration Framework for Open-Vocabulary 3D Instance Segmentation"
 authors: [Tri Ton, Ji Woo Hong, SooHwan Eom, Jun Yeop Shim, Junyeong Kim, Chang Yoo]
 year: 2024
-venue: "CVPR Workshop"
+venue: "CVPR 2024 Workshop"
 tags: [3d-scene-understanding, segmentation]
 url: ""
 pdf: "[[2024-zero-shot-dual-path-3d-instance-segmentation.pdf]]"

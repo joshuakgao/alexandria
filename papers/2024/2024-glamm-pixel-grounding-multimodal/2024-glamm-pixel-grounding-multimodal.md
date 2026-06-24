@@ -2,7 +2,7 @@
 title: "GLaMM: Pixel Grounding Large Multimodal Model"
 authors: [Hanoona Rasheed, Muhammad Maaz, Sahal Shaji Mullappilly, Abdelrahman Shaker, Salman Khan, Hisham Cholakkal, Rao Muhammad Anwer, Eric Xing, Ming-Hsuan Yang, Fahad Khan]
 year: 2024
-venue: "CVPR"
+venue: "CVPR 2024"
 tags: [vision-language-models, segmentation]
 url: ""
 pdf: "[[2024-glamm-pixel-grounding-multimodal.pdf]]"

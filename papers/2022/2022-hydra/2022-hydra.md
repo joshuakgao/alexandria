@@ -2,7 +2,7 @@
 title: "Hydra: A Real-time Spatial Perception System for 3D Scene Graph Construction and Optimization"
 authors: [Nathan Hughes, Yun Chang, Luca Carlone]
 year: 2022
-venue: "Robotics: Science and Systems (RSS)"
+venue: "RSS 2022"
 tags: [scene-graphs, slam]
 url: ""
 pdf: "[[2022-hydra.pdf]]"

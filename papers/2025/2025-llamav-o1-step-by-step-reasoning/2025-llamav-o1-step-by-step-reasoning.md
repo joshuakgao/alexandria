@@ -2,8 +2,8 @@
 title: "LlamaV-o1: Rethinking Step-by-step Visual Reasoning in LLMs"
 authors: [Omkar Thawakar, Dinura Dissanayake, Ketan More, Ritesh Thawkar, Ahmed Heakl, Yuhao Li, Fahad Khan, Salman Khan, Hisham Cholakkal]
 year: 2025
-venue: "ACL"
-tags: [vision-language-models, agentic-mllms, benchmarking]
+venue: "ACL 2025"
+tags: [vision-language-models, agentic-mllms]
 url: ""
 pdf: "[[2025-llamav-o1-step-by-step-reasoning.pdf]]"
 date_ingested: 2026-06-18

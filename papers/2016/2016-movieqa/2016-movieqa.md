@@ -2,7 +2,8 @@
 title: "MovieQA: Understanding Stories in Movies through Question-Answering"
 authors: [Makarand Tapaswi, Yukun Zhu, Rainer Stiefelhagen Antonio Torralba, Raquel Urtasun, Sanja Fidler]
 year: 2016
-tags: [video-understanding, benchmarking, vision-language-models]
+venue: "CVPR 2016"
+tags: [video-understanding, vision-language-models]
 url: ""
 pdf: "[[2016-movieqa.pdf]]"
 date_ingested: 2026-06-18

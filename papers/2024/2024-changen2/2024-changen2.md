@@ -2,6 +2,7 @@
 title: "Changen2: Multi-Temporal Remote Sensing Generative Change Foundation Model"
 authors: [Zhuo Zheng, Stefano Ermon, Dongjun Kim, Liangpei Zhang, Yanfei Zhong]
 year: 2024
+venue: "IEEE TPAMI"
 tags: [change-detection, synthetic-datasets, diffusion-models, remote-sensing]
 url: ""
 pdf: "[[2024-changen2.pdf]]"

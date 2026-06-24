@@ -2,7 +2,7 @@
 title: "OpenScene: 3D Scene Understanding with Open Vocabularies"
 authors: [Songyou Peng, Kyle Genova, Chiyu Jiang, Andrea Tagliasacchi, Marc Pollefeys, Thomas Funkhouser]
 year: 2023
-venue: "CVPR"
+venue: "CVPR 2023"
 tags: [3d-scene-understanding, segmentation, vision-backbone]
 url: ""
 pdf: "[[2023-openscene.pdf]]"
@@ -56,6 +56,6 @@ On zero-shot 3D semantic segmentation, OpenScene dramatically outperforms prior 
 
 OpenScene is the foundational per-point open-vocabulary method that OpenMask3D explicitly builds upon and addresses the limitations of. OpenMask3D's key critique is that OpenScene's per-point features produce heatmaps that cannot separate individual object instances — multiple chairs produce a single "chair" heat blob. OpenMask3D solves this by computing per-mask features instead of per-point features.
 
-Within the 3D scene understanding topic, OpenScene occupies the "semantic field" paradigm alongside LERF (NeRF-based), while Mask3D/OpenMask3D/Dual-Path represent the "instance mask" paradigm. HOV-SG (embodied-memory topic) uses a similar multi-view CLIP feature fusion strategy at the segment level rather than the point level, with DBSCAN-based filtering to address the noise that per-point approaches suffer from.
+Within the 3D scene understanding topic, OpenScene occupies the "semantic field" paradigm alongside LERF (NeRF-based), while Mask3D/OpenMask3D/Dual-Path represent the "instance mask" paradigm. HOV-SG (embodied-ai topic) uses a similar multi-view CLIP feature fusion strategy at the segment level rather than the point level, with DBSCAN-based filtering to address the noise that per-point approaches suffer from.
 
 OpenScene's strength — task-agnostic features supporting diverse query types — remains unmatched by instance-based methods, which focus primarily on object-category queries.

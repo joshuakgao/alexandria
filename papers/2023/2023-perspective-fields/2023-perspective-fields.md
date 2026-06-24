@@ -2,7 +2,7 @@
 title: "Perspective Fields for Single Image Camera Calibration"
 authors: [Linyi Jin, Jianming Zhang, Yannick Hold-Geoffroy, Oliver Wang, Kevin Blackburn-Matzen, Matthew Sticha, David Fouhey]
 year: 2023
-venue: "CVPR"
+venue: "CVPR 2023"
 tags: [camera-calibration]
 url: ""
 pdf: "[[2023-perspective-fields.pdf]]"

@@ -2,7 +2,7 @@
 title: "Three-dimensional Change Detection and Description in Complex Construction Scenarios"
 authors: [Xuming Ge, Xinjing Liu]
 year: 2024
-venue: "ISPRS"
+venue: "ISPRS Annals 2024"
 tags: [construction-monitoring, change-detection, point-cloud-registration]
 url: ""
 pdf: "[[2024-3d-change-detection-construction-scenarios.pdf]]"

@@ -2,6 +2,7 @@
 title: "Real-World Point Tracking with Verifier-Guided Pseudo-Labeling"
 authors: [Görkay Aydemir, Fatma Güney, Weidi Xie]
 year: 2026
+venue: "CVPR 2026"
 tags: [video-understanding, point-tracking]
 url: ""
 pdf: "[[2026-verifier-real-world-point-tracking.pdf]]"

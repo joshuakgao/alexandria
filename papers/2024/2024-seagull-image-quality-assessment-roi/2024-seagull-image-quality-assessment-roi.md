@@ -2,6 +2,7 @@
 title: "SEAGULL: No-reference Image Quality Assessment for Regions of Interest via Vision-Language Instruction Tuning"
 authors: [Zewen Chen, Juan Wang, Wen Wang, Sunhan Xu, Hang Xiong, Yun Zeng]
 year: 2024
+venue: ""
 tags: [vision-language-models]
 url: ""
 pdf: "[[2024-seagull-image-quality-assessment-roi.pdf]]"

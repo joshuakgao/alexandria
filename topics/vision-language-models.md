@@ -22,7 +22,7 @@ SORT year DESC
 
 # Vision-Language Models — Overview
 
-*Last updated: 2026-04-07 | Sources: 24 papers*
+*Last updated: 2026-06-19 | Sources: 25 papers*
 
 ## Current thesis
 
@@ -52,14 +52,20 @@ Vision-language models are experiencing rapid capability expansion across four d
 - **Structured understanding for 3D scenes.** [[papers/2025-spatiallm-llm-structured-indoor-modeling|SpatialLM]] applies LLMs to 3D reconstruction from scene descriptions, bridging language understanding and 3D structure.
 - **Large-scale integration.** [[papers/2025-internvl-large-vision-language-model|InternVL]] demonstrates that scaling VLM parameters and data yields consistent improvements across diverse benchmarks.
 
+**2026 — Evaluation: Active Spatial Cognition & Benchmark Integrity**
+- **Active exploration reveals new VLM limitations.** [[papers/2026/2026-theory-of-space/2026-theory-of-space|Theory of Space]] systematically evaluates foundation models (GPT-5.2, Gemini-3 Pro, Claude-4.5 Sonnet, Qwen3-VL, InternVL-3.5) on active spatial belief construction. All models show an active-passive gap — reasoning well over given observations but degrading when they must autonomously explore. Vision-based models are particularly affected by belief inertia (inability to revise spatial priors). This identifies active exploration as a fundamental capability gap beyond perception and reasoning.
+- **The mirage effect challenges benchmark validity.** [[papers/2026/2026-mirage-illusion-visual-understanding/2026-mirage-illusion-visual-understanding|Mirage]] demonstrates that frontier VLMs confidently describe and reason about images never provided — a failure mode distinct from hallucination. Models in mirage-mode retain 70–80% of benchmark accuracy without any visual input, and a 3B text-only model outperforms all frontier VLMs and radiologists on chest radiology QA. Introduces B-Clean for filtering benchmark questions answerable without vision.
+- **Quantitative physical reasoning exposes memorization over reasoning.** [[papers/2026/2026-quantiphy/2026-quantiphy|QuantiPhy]] (CVPR 2026) introduces the first benchmark for quantitative kinematic inference from video. Even the best VLM (ChatGPT-5.1, 53.1% MRA) barely matches human baselines (55.6%), and counterfactual analysis shows models ignore altered priors, anchoring predictions to memorized world knowledge rather than visual input.
+
 **Evolution summary**: Lightweight bridging (2021) → instruction-tuned generalists (2023) → spatial+domain specialization (2024) → reasoning, hallucination mitigation, and 3D understanding (2025). Each phase adds capability while maintaining parameter efficiency through adapter/mapping paradigms.
 
 ## Open problems
 
-### Hallucination and reliability
-- How to reliably detect when a VLM is hallucinating vs. reasoning from genuine visual content?
+### Hallucination, mirage behavior, and reliability
+- How to reliably detect when a VLM is hallucinating vs. reasoning from genuine visual content? Mirage (2026) shows the problem extends beyond hallucination: models construct entirely false epistemic frames, describing non-existent images with full confidence.
 - Can hallucinations be eliminated, or are they inherent to the scaling laws of LLMs?
 - How to quantify hallucination types (object, attribute, spatial, relational)?
+- The existence of distinct mirage vs. guess reasoning regimes suggests VLMs engage qualitatively different processing depending on whether they "believe" an image is present — what architectural or training interventions can address this?
 
 ### Spatial precision and grounding
 - Pixel-level grounding requires SAM or dense segmentation models; can VLMs generate fine-grained spatial understanding end-to-end without specialized modules?
@@ -85,6 +91,8 @@ Vision-language models are experiencing rapid capability expansion across four d
 - LlamaV-o1 adds reasoning steps; does intermediate reasoning improve all visual tasks or only complex/ambiguous ones?
 - How to balance reasoning depth (number of steps) with computational cost?
 - Can VLMs support true multi-step planning (e.g., tool-use sequences) like their text-only LLM counterparts?
+- ViewSuite (2026) shows frontier VLMs track local view transitions but cannot compose multi-turn spatial plans (best model 21.3% IVP success). Self-exploration with view graph distillation closes this gap for a 7B model — can similar approaches improve planning in other VLM domains?
+- Theory of Space (ICLR 2026) reveals that VLMs degrade substantially when shifting from passive reasoning to active exploration, and suffer from belief inertia (inability to revise obsolete spatial priors). Can training objectives or architectural changes address these active cognition limitations?
 
 ## Contradictions and debates
 

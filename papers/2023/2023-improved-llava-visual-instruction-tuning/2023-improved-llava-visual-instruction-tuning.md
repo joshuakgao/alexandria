@@ -2,7 +2,7 @@
 title: "Improved Baselines with Visual Instruction Tuning"
 authors: [Haotian Liu, Chunyuan Li, Yuheng Wu, Yong Jae Lee]
 year: 2023
-venue: "NeurIPS"
+venue: "CVPR 2024"
 tags: [vision-language-models]
 url: ""
 pdf: "[[2023-improved-llava-visual-instruction-tuning.pdf]]"

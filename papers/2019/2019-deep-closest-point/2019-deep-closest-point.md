@@ -2,6 +2,7 @@
 title: "Deep Closest Point: Learning Representations for Point Cloud Registration"
 authors: [Yue Wang, Justin Solomon]
 year: 2019
+venue: "ICCV 2019"
 tags: [point-cloud-registration]
 url: ""
 pdf: "[[2019-deep-closest-point.pdf]]"

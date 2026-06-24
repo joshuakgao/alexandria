@@ -2,6 +2,7 @@
 title: "Towards Effective Extraction and Evaluation of Factual Claims"
 authors: [Dasha Metropolitansky, Jonathan Larson]
 year: 2025
+venue: "ACL 2025"
 tags: [claim-extraction, vision-language-models]
 url: ""
 pdf: "[[2025-claimify-claim-extraction.pdf]]"

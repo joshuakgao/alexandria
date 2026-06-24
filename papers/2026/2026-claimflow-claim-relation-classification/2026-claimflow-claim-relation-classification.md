@@ -2,7 +2,8 @@
 title: "ClaimFlow: Tracing the Evolution of Scientific Claims in NLP"
 authors: [Aniket Pramanick, Yufang Hou, Saif Mohammad, Iryna Gurevych]
 year: 2026
-tags: [claim-relation-classification, benchmarking]
+venue: ""
+tags: [claim-relation-classification]
 url: ""
 pdf: "[[2026-claimflow-claim-relation-classification.pdf]]"
 date_ingested: 2026-06-18

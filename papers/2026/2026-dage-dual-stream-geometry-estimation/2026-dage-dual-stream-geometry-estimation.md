@@ -2,6 +2,7 @@
 title: "DAGE: Dual-Stream Architecture for Efficient and Fine-Grained Geometry Estimation"
 authors: [Tuan Duc Ngo, Jiahui Huang, Seoung Wug Oh, Kevin Blackburn-Matzen, Evangelos Kalogerakis, Chuang Gan, Leng Jia]
 year: 2026
+venue: "CVPR 2026"
 tags: [3d-scene-reconstruction, depth-estimation]
 url: ""
 pdf: "[[2026-dage-dual-stream-geometry-estimation.pdf]]"

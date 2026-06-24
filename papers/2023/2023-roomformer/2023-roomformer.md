@@ -2,7 +2,7 @@
 title: "Connecting the Dots: Floorplan Reconstruction Using Two-Level Queries"
 authors: [Yuanwen Yue, Theodora Kontogianni, Konrad Schindler, Francis Engelmann]
 year: 2023
-venue: "CVPR"
+venue: "CVPR 2023"
 tags: [floorplan-reconstruction, 3d-scene-understanding]
 url: ""
 pdf: "[[2023-roomformer.pdf]]"

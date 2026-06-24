@@ -2,6 +2,7 @@
 title: "FE2E: From Editor to Dense Geometry Estimator"
 authors: [Jiyuan Wang, Chunyu Lin, Lei Sun]
 year: 2026
+venue: "CVPR 2026"
 tags: [depth-estimation, diffusion-models]
 url: ""
 pdf: "[[2026-fe2e-from-editor-to-dense-geometry-estimator.pdf]]"

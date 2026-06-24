@@ -3,7 +3,7 @@ title: "Video Understanding With Large Language Models: A Survey"
 authors: [Yunlong Tang, Jing Bi, Siting Xu, Luchuan Song, Susan Liang, Teng Wang, Daoan Zhang, Jie An, Jingyang Lin, Rongshan Yu, Xi Yin, Ali Mian, Mubarak Shah, Feng Zheng]
 year: 2026
 venue: "IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)"
-tags: [video-understanding, benchmarking, vision-language-models]
+tags: [video-understanding, vision-language-models]
 url: ""
 pdf: "[[2026-video-understanding-large-language-models-survey.pdf]]"
 date_ingested: 2026-06-18

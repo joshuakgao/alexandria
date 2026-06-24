@@ -2,6 +2,7 @@
 title: "MegaLoc: One Retrieval to Place Them All"
 authors: [Gabriele Berton, Carlo Masone]
 year: 2025
+venue: ""
 tags: [visual-localization]
 url: ""
 pdf: "[[2025-megaloc-one-retrieval-to-place-them-all.pdf]]"

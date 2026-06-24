@@ -2,7 +2,7 @@
 title: "ImageBind: One Embedding Space To Bind Them All"
 authors: [Rohit Girdhar, Alaaeldin El-Nouby, Mannat Singh, Kalyan Vasudev Alwala, Armand Joulin, Ishan Misra]
 year: 2023
-venue: "CVPR"
+venue: "CVPR 2023"
 tags: [vision-language-models]
 url: ""
 pdf: "[[2023-imagebind-one-embedding-space.pdf]]"

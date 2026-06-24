@@ -2,7 +2,7 @@
 title: "OpenMask3D: Open-Vocabulary 3D Instance Segmentation"
 authors: [Ayça Takmaz, Elisabetta Fedele, Robert Sumner, Marc Pollefeys, Federico Tombari, Francis Engelmann]
 year: 2023
-venue: "NeurIPS"
+venue: "NeurIPS 2023"
 tags: [3d-scene-understanding, segmentation, vision-backbone]
 url: ""
 pdf: "[[2023-openmask3d.pdf]]"
@@ -58,6 +58,6 @@ On ScanNet200, OpenMask3D achieves 15.4 AP (vs. 11.7 for the best OpenScene vari
 
 OpenMask3D builds directly on Mask3D (same author Engelmann) by taking Mask3D's class-agnostic mask proposals and replacing the closed-vocabulary classifier with CLIP-based open-vocabulary features. This demonstrates the modular power of query-based 3D segmentation — the mask proposal module can be decoupled from the recognition module.
 
-Within the 3D scene understanding topic, OpenMask3D bridges Mask3D's 3D-native instance segmentation with the open-vocabulary capability that SAM3D and the Dual-Path Framework also pursue. Where SAM3D lifts 2D SAM masks to 3D and the Dual-Path Framework merges 3D and 2D proposals, OpenMask3D keeps 3D mask proposals fixed and adds open-vocabulary features via multi-view CLIP fusion. HOV-SG (in the embodied-memory topic) uses a similar weighted-sum CLIP feature fusion with DBSCAN filtering for segment-level features.
+Within the 3D scene understanding topic, OpenMask3D bridges Mask3D's 3D-native instance segmentation with the open-vocabulary capability that SAM3D and the Dual-Path Framework also pursue. Where SAM3D lifts 2D SAM masks to 3D and the Dual-Path Framework merges 3D and 2D proposals, OpenMask3D keeps 3D mask proposals fixed and adds open-vocabulary features via multi-view CLIP fusion. HOV-SG (in the embodied-ai topic) uses a similar weighted-sum CLIP feature fusion with DBSCAN filtering for segment-level features.
 
 The per-mask (instance-level) vs. per-point feature distinction is fundamental — OpenScene/LERF produce heatmaps that can't separate instances, while OpenMask3D's mask-level features enable true instance segmentation with open vocabulary.

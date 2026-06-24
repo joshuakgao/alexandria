@@ -2,7 +2,8 @@
 title: "OneDiff: A Generalist Model for Image Difference Captioning"
 authors: [Erdong Hu, Longteng Guo, Tongtian Yue, Zijia Zhao, Shuning Xue, Jing Liu]
 year: 2025
-tags: [change-detection, vision-language-models, benchmarking]
+venue: "ACCV 2024"
+tags: [change-detection, vision-language-models]
 url: ""
 pdf: "[[2025-onediff.pdf]]"
 date_ingested: 2026-06-18

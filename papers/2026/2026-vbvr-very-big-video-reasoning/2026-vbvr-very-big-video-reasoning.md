@@ -2,8 +2,8 @@
 title: "A Very Big Video Reasoning Suite"
 authors: [Maijunxian Wang, Ruisi Wang, Juyi Lin, Ran Ji, Thaddäus Wiedemer, Qingying Gao, Hokin Deng, Zhongang Cai]
 year: 2026
-venue: "arXiv:2602.20159"
-tags: [world-models, benchmarking]
+venue: ""
+tags: [world-models]
 url: ""
 pdf: "[[2026-vbvr-very-big-video-reasoning.pdf]]"
 date_ingested: 2026-06-18

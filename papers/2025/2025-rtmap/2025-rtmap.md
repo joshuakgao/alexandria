@@ -2,6 +2,7 @@
 title: "RTMap: Real-Time Recursive Mapping with Change Detection and Localization"
 authors: [Yuheng Du, Sheng Yang]
 year: 2025
+venue: "ICCV 2025"
 tags: [autonomous-vehicles, change-detection, visual-localization]
 url: ""
 pdf: "[[2025-rtmap.pdf]]"

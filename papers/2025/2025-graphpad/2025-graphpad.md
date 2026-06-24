@@ -2,7 +2,8 @@
 title: "GraphPad: Inference-Time 3D Scene Graph Updates for Embodied Question Answering"
 authors: [Muhammad Qasim Ali, Saeejith Nair, Alexander Wong]
 year: 2025
-tags: [embodied-memory, scene-graphs, agentic-mllms]
+venue: ""
+tags: [embodied-ai, scene-graphs, agentic-mllms]
 url: ""
 pdf: "[[2025-graphpad.pdf]]"
 date_ingested: 2026-06-18

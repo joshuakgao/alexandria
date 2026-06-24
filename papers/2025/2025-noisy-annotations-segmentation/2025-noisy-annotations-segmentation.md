@@ -2,7 +2,8 @@
 title: "Noisy Annotations in Semantic Segmentation"
 authors: [Moshe Kimhi, Omer Kerem, Eden Grad, Ehud Rivlin]
 year: 2025
-tags: [denoising-segmentations, segmentation, benchmarking]
+venue: ""
+tags: [denoising-segmentations, segmentation]
 url: ""
 pdf: "[[2025-noisy-annotations-segmentation.pdf]]"
 date_ingested: 2026-06-18

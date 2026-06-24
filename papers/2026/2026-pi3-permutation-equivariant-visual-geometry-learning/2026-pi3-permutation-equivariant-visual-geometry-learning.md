@@ -2,7 +2,7 @@
 title: "π³: Permutation-Equivariant Visual Geometry Learning"
 authors: [Yifan Wang, Jianjun Zhou, Haoyi Zhu, Wenzheng Chang, Yang Zhou, Zizun Li, Junyi Chen, Jiangmiao Pang, Chunhua Shen, Tong He]
 year: 2026
-venue: "ICLR"
+venue: "ICLR 2026"
 tags: [3d-scene-reconstruction, depth-estimation]
 url: ""
 pdf: "[[2026-pi3-permutation-equivariant-visual-geometry-learning.pdf]]"

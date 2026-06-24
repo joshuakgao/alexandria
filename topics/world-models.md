@@ -22,7 +22,7 @@ SORT year DESC
 
 # World Models — Overview
 
-*Last updated: 2026-06-18 | Sources: 5 papers*
+*Last updated: 2026-06-19 | Sources: 6 papers*
 
 ## Current thesis
 
@@ -48,6 +48,9 @@ World models are learnable and measurable at scale through self-supervised predi
 - **Data-efficient learning from naturalistic child video**: BabyZWM learns diverse visual-cognitive abilities (depth, motion, segmentation, intuitive physics) from just 868 hours of egocentric video. Challenges assumption that world models require massive datasets; opens path toward human-scale data efficiency.
 - **Zero-shot extraction via approximate causal inference**: BabyZWM introduces a general interface for extracting task-specific predictions from a single trained predictor by comparing counterfactual inputs. Shifts from task-specific readout training to universal zero-shot prompting.
 - **Developmental alignment and neural plausibility**: BabyZWM exhibits learning trajectories paralleling human infant development and internal representations correlating with fMRI responses. Provides evidence that architectural choices (sparse temporal factorization) capture cognitively and biologically plausible learning principles.
+- **Internet-scale behavior cloning as implicit world modeling**: NitroGen (Magne et al., CVPR 2026) trains a vision-action foundation model on 40,000 hours of gameplay across 1,000+ games via behavior cloning from internet videos with automatically extracted action labels. The flow-matching action head generates 16-action chunks conditioned on single frames, learning implicit dynamics models across diverse game environments. Unlike explicit world models (V-JEPA, DeltaWorld), the world knowledge is entirely implicit in the policy — the model cannot predict future states, only generate appropriate actions. Yet transferable motor primitives emerge (combat, navigation skills transfer to unseen games with up to 52% improvement), suggesting the model captures reusable dynamics priors.
+- **View graphs as empirical world models of view transitions**: ViewSuite (Wang et al., 2026) introduces the view graph — a compact map of how viewpoints connect across a scene, assembled entirely from the agent's on-policy self-exploration. Unlike learned latent world models (V-JEPA, DeltaWorld), the view graph is an explicit, structured representation that grows incrementally as the policy improves. Through task reformulation, any path (including from failed episodes) becomes valid planning supervision. This bridges world models and planning: the graph holds exactly what the model has experienced, and distillation turns it into internalized spatial priors that transfer to other view-understanding tasks.
+- **3D point flows as unified state-action world models for manipulation**: PointWorld (Huang et al., CVPR 2026) represents both scene state and robot actions as 3D point flows, enabling a single pre-trained model to predict full-scene dynamics across diverse embodiments, objects, and tasks. Trained on ~2M trajectories (~500 hours) from real (DROID) and simulated (BEHAVIOR-1K) data using a PTv3 backbone with frozen DINOv3 features, it achieves real-time inference (0.1s) and zero-shot MPC-based manipulation on a real robot. This is a concrete instantiation of V-JEPA's "integration with action" open problem — an action-conditioned world model operating in 3D physical space rather than learned latent space, with scaling laws (log-linear gains with data and model size) paralleling those observed in language and 2D vision.
 
 ## Open problems
 
@@ -57,8 +60,8 @@ World models are learnable and measurable at scale through self-supervised predi
 - **Counterfactual reasoning**: Current framework is passive (detecting violations); active reasoning—generating "what if?" scenarios—is not addressed
 - **Semantic grounding**: Models learn visual physics but do not integrate semantic understanding (categories, materials, agents); fusion of physics and semantics is open
 - **Scaling laws**: Study uses modest models; whether scaling to larger architectures reveals new physics behaviors is unknown
-- **Integration with action**: Models are observation-only; learning action-conditioned world models (robotics, RL) is a critical frontier
-- **Implicit vs. explicit physics**: Do learned representations capture explicit constraints (e.g., Lagrangian mechanics) or only implicit patterns? Interpretability remains open
+- **Integration with action**: PointWorld provides a first large-scale answer — action-conditioned 3D point flow prediction enables zero-shot manipulation. However, it operates on short horizons (1 second) and requires calibrated RGB-D; whether this approach extends to long-horizon planning, continuous re-observation, and RGB-only settings remains open
+- **Implicit vs. explicit physics**: Do learned representations capture explicit constraints (e.g., Lagrangian mechanics) or only implicit patterns? PointWorld shows that 3D point flow prediction implicitly captures material properties, articulation, and gravity without explicit supervision, but interpretability of what is learned remains open
 
 **World reasoning benchmarks (VBVR):**
 - **Real-world generalization**: VBVR tasks are curated/synthetic; robustness on in-the-wild video reasoning not extensively evaluated
@@ -84,6 +87,7 @@ World models are learnable and measurable at scale through self-supervised predi
 
 - **Core knowledge vs. learned emergence**: Traditional developmental psychology argues physics is innate ("core knowledge"). V-JEPA's success suggests learned emergence, but may reflect specific inductive biases of the architecture rather than true "learning from scratch."
 - **Explicit 3D vs. compressed latent representations**: SceneTok argues that unstructured tokens without 3D inductive bias outperform explicit 3D representations (Gaussians, NeRFs) for generation while maintaining NVS quality. This challenges the assumption that 3D structure is necessary for scene understanding and generation — but whether compressed tokens capture true 3D reasoning or just learn view-correlated statistics remains open.
+- **Latent-space vs. 3D-space world models**: V-JEPA and DeltaWorld operate in learned representation space; PointWorld operates directly in 3D physical space with explicit geometric structure. PointWorld's success for manipulation suggests that 3D inductive bias is valuable when physical interaction (contact, force, occlusion) matters, while latent approaches may suffice for passive understanding. Whether these can be unified — or represent fundamentally different trade-offs — is unresolved.
 
 ## Recommended reading order
 
@@ -93,6 +97,7 @@ World models are learnable and measurable at scale through self-supervised predi
    - **Alternative entry (evaluation-focused)**: Start with VBVR if interested in benchmarking rather than learning mechanisms
 4. [[papers/2026-deltatok|DeltaTok / DeltaWorld (2026)]] — delta tokenization for efficient generative forecasting; read for the temporal compression perspective — how predicting change rather than state enables 2,000× compute reduction
 5. [[papers/2026-scenetok|SceneTok (2026)]] — compressed scene tokenization for generative 3D; read for the spatial compression perspective on world models — how to compress and generate 3D environments efficiently
+6. [[papers/2026/2026-pointworld/2026-pointworld|PointWorld (CVPR 2026)]] — action-conditioned 3D world model for robotic manipulation; read for the concrete instantiation of world models in physical interaction, scaling laws in 3D, and the unified point flow state-action representation
 
 ## Trends
 

@@ -2,6 +2,7 @@
 title: "Changes in Real Time: Online Scene Change Detection with Multi-View Fusion"
 authors: [Chamuditha Jayanga Galappaththige, Jason Lai Lloyd Windrim, Donald Dansereau, Dimity Miller]
 year: 2026
+venue: "CVPR 2026"
 tags: [change-detection, gaussian-splatting]
 url: ""
 pdf: "[[2026-online-scd-multiview-fusion.pdf]]"

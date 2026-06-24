@@ -3,7 +3,7 @@ title: "Env-QA: A Video Question Answering Benchmark for Comprehensive Understan
 authors: [Daniel Gao, Howard Wang, Sai Bai, Hao Chen]
 year: 2021
 venue: "ICCV"
-tags: [embodied-memory, video-understanding, benchmarking]
+tags: [embodied-ai, video-understanding]
 url: ""
 pdf: "[[2021-env-qa.pdf]]"
 date_ingested: 2026-06-18

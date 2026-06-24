@@ -2,6 +2,7 @@
 title: "All in One Framework for Multimodal Re-identification in the Wild"
 authors: [He Li, Mang Ye, Ming Lin, Bo Du]
 year: 2024
+venue: "CVPR 2024"
 tags: [re-id, vision-language-models]
 url: ""
 pdf: "[[2024-aio-multimodal-reid.pdf]]"

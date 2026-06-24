@@ -2,7 +2,8 @@
 title: "EmbodiedLGR: Integrating Lightweight Graph Representation and Retrieval for Semantic-Spatial Memory in Robotic Agents"
 authors: [Paolo Riva, Leonardo Gargani, Matteo Frosi, Matteo Matteucci]
 year: 2026
-tags: [embodied-memory]
+venue: ""
+tags: [embodied-ai]
 url: ""
 pdf: "[[2026-embodied-lgr.pdf]]"
 date_ingested: 2026-06-18

@@ -147,19 +147,20 @@ A numbered list of links to download. Each entry may optionally include a tempor
 
 ## Ingest workflow
 
-Triggered when the user says "ingest {number}" or similar (e.g. `ingest 3`, `ingest imagenet`).
+Triggered when the user says "ingest {number}" or similar (e.g. `ingest 3`, `ingest imagenet`, or `ingest 3 CVPR 2009`).
 
 1. **Read `inbox.md`**. Find the entry by number or by temporary name.
 2. **Download** the link with `wget`. For `.pdf` files, extract text with `pdftotext file.pdf -`.
 3. **Duplicate check** — after reading the paper, check if it already exists in `papers/` (match by title or slug). If it does, warn the user that the paper has already been ingested, delete any downloaded files, and stop.
 4. **Thumbnail** — if an image is provided in the command (e.g. `ingest 1 [Image #1]`), use it as the thumbnail.
 5. **Topic tags** — always auto-generate topic tags from the paper content. If the user also provides tags in the command (e.g. `ingest imagenet image-classification computer-vision`), merge them with the auto-generated ones. Prefer reusing existing topic slugs (check `topics/`) before creating new ones. Topic tags must only be research areas and not just concepts. **Present the proposed topic tags to the user and wait for confirmation before continuing.**
-6. **File the PDF** — move to `papers/{year}/{YYYY-paper-slug}/{YYYY-paper-slug}.pdf`.
-7. **Save thumbnail** — save as `papers/{year}/{YYYY-paper-slug}/{YYYY-paper-slug}-thumbnail.png` (or `.jpg`).
-8. **Create paper summary** — write `papers/{year}/{YYYY-paper-slug}/{YYYY-paper-slug}.md` following the paper summary format above.
-9. **Update topic indexes** — for each topic tag, if `topics/{topic-slug}.md` does not exist, create it with the Dataview query template (see format above). The paper table populates automatically via Dataview; do **not** add static table rows. Revise the overview, trends, and open questions sections.
-10. **Master index** — `topics/_index.md` auto-populates via Dataview. No manual update needed. If a new topic file was created in step 9, it will appear automatically.
-11. **Remove** the ingested document from the inbox list.
+6. **Publishing venue** — determine the conference or journal where the paper was published. Check these sources in priority order: (1) the ingest command or inbox entry (e.g. `CVPR 2026`), (2) the paper text itself (headers, footnotes, or copyright notices), (3) a web search. Use the format `"Conference YYYY"` or `"Journal Name"` (e.g. `"NeurIPS 2024"`, `"ICLR 2026"`). arXiv is a preprint server, not a venue — do not use it. If no venue is found from any source, leave the `venue` field blank in the frontmatter.
+7. **File the PDF** — move to `papers/{year}/{YYYY-paper-slug}/{YYYY-paper-slug}.pdf`.
+8. **Save thumbnail** — save as `papers/{year}/{YYYY-paper-slug}/{YYYY-paper-slug}-thumbnail.png` (or `.jpg`).
+9. **Create paper summary** — write `papers/{year}/{YYYY-paper-slug}/{YYYY-paper-slug}.md` following the paper summary format above.
+10. **Update topic indexes** — for each topic tag, if `topics/{topic-slug}.md` does not exist, create it with the Dataview query template (see format above). The paper table populates automatically via Dataview; do **not** add static table rows. Revise the overview, trends, and open questions sections.
+11. **Master index** — `topics/_index.md` auto-populates via Dataview. No manual update needed. If a new topic file was created in step 9, it will appear automatically.
+12. **Remove** the ingested document from the inbox list.
 
 A single ingest typically touches 5–15 files. Do all updates in one pass.
 

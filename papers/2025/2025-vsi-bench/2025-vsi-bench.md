@@ -2,8 +2,8 @@
 title: "Thinking in Space: How Multimodal Large Language Models See, Remember, and Recall Spaces"
 authors: [Jihan Yang, Shusheng Yang, Anjali Gupta, Rilyn Han, Li Fei-Fei]
 year: 2025
-venue: "CVPR"
-tags: [spatial-reasoning, benchmarking, vision-language-models, video-understanding, cognitive-ai]
+venue: "CVPR 2025"
+tags: [spatial-reasoning, vision-language-models, video-understanding, cognitive-ai]
 url: ""
 pdf: "[[2025-vsi-bench.pdf]]"
 date_ingested: 2026-06-18

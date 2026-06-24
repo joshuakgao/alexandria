@@ -2,6 +2,7 @@
 title: "DynamicEarth: How Far are We from Open-Vocabulary Change Detection?"
 authors: [Kaiyu Li, Xiangyong Cao, Yupeng Deng, Chao Pang, Zepeng Xin, Deyu Meng, Zhi Wang]
 year: 2025
+venue: "AAAI 2026"
 tags: [change-detection, remote-sensing, vision-language-models]
 url: ""
 pdf: "[[2025-dynamicearth-open-vocabulary-change-detection.pdf]]"

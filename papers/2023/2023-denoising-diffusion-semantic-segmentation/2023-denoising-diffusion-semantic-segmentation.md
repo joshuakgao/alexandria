@@ -2,6 +2,7 @@
 title: "Denoising Diffusion Semantic Segmentation with Mask Prior Modeling"
 authors: [Zeqiang Lai, Yuchen Duan, Jifeng Dai, Ziheng Li, Ying Fu, Hongsheng Li, Yu Qiao, Wenhai Wang]
 year: 2023
+venue: ""
 tags: [denoising-segmentations, segmentation, diffusion-models]
 url: ""
 pdf: "[[2023-denoising-diffusion-semantic-segmentation.pdf]]"

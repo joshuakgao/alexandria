@@ -2,7 +2,8 @@
 title: "ESPIRE: A Diagnostic Benchmark for Embodied Spatial Reasoning of Vision-Language Models"
 authors: [Yanpeng Zhao, Wentao Ding, Hongtao Li, Baoxiong Jia, Zilong Zheng]
 year: 2026
-tags: [embodied-memory, benchmarking, spatial-reasoning, vision-language-models]
+venue: ""
+tags: [embodied-ai, spatial-reasoning, vision-language-models]
 url: ""
 pdf: "[[2026-espire.pdf]]"
 date_ingested: 2026-06-18

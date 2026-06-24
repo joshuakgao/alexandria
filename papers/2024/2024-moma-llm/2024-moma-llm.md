@@ -2,7 +2,8 @@
 title: "Language-Grounded Dynamic Scene Graphs for Interactive Object Search with Mobile Manipulation"
 authors: [Daniel Honerkamp, Martin Büchner, Fabien Despinoy, Tim Welschehold, Abhinav Valada]
 year: 2024
-tags: [embodied-memory, scene-graphs, agentic-mllms]
+venue: "IEEE RA-L"
+tags: [embodied-ai, scene-graphs, agentic-mllms]
 url: ""
 pdf: "[[2024-moma-llm.pdf]]"
 date_ingested: 2026-06-18

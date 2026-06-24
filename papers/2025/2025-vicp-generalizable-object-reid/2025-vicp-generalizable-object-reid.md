@@ -2,7 +2,7 @@
 title: "Generalizable Object Re-Identification via Visual In-Context Prompting"
 authors: [Zhizhong Huang, Xiaoming Liu]
 year: 2025
-venue: "ICCV"
+venue: "ICCV 2025"
 tags: [re-id]
 url: ""
 pdf: "[[2025-vicp-generalizable-object-reid.pdf]]"

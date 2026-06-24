@@ -2,7 +2,7 @@
 title: "LISA: Reasoning Segmentation via Large Language Model"
 authors: [Xin Lai, Zhuotao Tian, Yukang Chen, Yanwei Li, Yuhui Yuan, Shu Liu, Jiaya Jia]
 year: 2024
-venue: "ICCV"
+venue: "CVPR 2024"
 tags: [vision-language-models, segmentation]
 url: ""
 pdf: "[[2024-lisa-reasoning-segmentation.pdf]]"

@@ -2,6 +2,7 @@
 title: "VipAct: Visual-Perception Enhancement via Specialized VLM Agent Collaboration and Tool-use"
 authors: [Zhehao Zhang, Ryan Rossi, Sungchul Kim, Tong Yu, Franck Dernoncourt, Ruiyi Zhang, Jiuxiang Gu, Nedim Lipka]
 year: 2025
+venue: "AAAI 2025"
 tags: [agentic-mllms]
 url: ""
 pdf: "[[2025-vipact-visual-perception-agent.pdf]]"

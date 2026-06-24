@@ -2,6 +2,7 @@
 title: "GeoTransformer: Fast and Robust Point Cloud Registration with Geometric Transformer"
 authors: [Zheng Qin, Hao Yu, Changjian Wang, Yulan Guo, Yuxing Peng, Slobodan Ilic, Dewen Hu, Zhi Xu]
 year: 2023
+venue: "TPAMI 2023"
 tags: [point-cloud-registration]
 url: ""
 pdf: "[[2023-geotransformer.pdf]]"

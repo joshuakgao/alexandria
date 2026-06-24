@@ -2,6 +2,7 @@
 title: "From Image Hashing to Scene Change Detection"
 authors: [Anh-Kiet Duong, Marie-Claire Iatrides, Petra Gomez-Krämer, Jean-Michel Carozza]
 year: 2026
+venue: ""
 tags: [change-detection]
 url: ""
 pdf: "[[2026-hashscd.pdf]]"

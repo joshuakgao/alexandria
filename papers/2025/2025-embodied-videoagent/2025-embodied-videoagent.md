@@ -2,7 +2,8 @@
 title: "Embodied VideoAgent: Persistent Memory from Egocentric Videos and Embodied Sensors Enables Dynamic Scene Understanding"
 authors: [Qianfan Fan, Jialu Ma, Guangzhi Su, Jiming Guo, Siya Wu, Xin Chen, Hai Li]
 year: 2025
-tags: [embodied-memory]
+venue: "ICCV 2025"
+tags: [embodied-ai]
 url: ""
 pdf: "[[2025-embodied-videoagent.pdf]]"
 date_ingested: 2026-06-18

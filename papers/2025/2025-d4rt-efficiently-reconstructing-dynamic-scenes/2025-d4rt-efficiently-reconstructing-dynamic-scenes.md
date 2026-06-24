@@ -2,6 +2,7 @@
 title: "D4RT: Efficiently Reconstructing Dynamic Scenes One Query at a Time"
 authors: [Chuhan Zhang, Guillaume Le Moing, Skanda Koppula, Ignacio Rocco, Liliane Momeni, Junyu Xie, Shuyang Sun, Sadegh Aliakbarian, Fangyi Zhang, Yuki Asano, Andrea Sherrill, Cees Snoek]
 year: 2025
+venue: "CVPR 2026"
 tags: [3d-scene-reconstruction]
 url: ""
 pdf: "[[2025-d4rt-efficiently-reconstructing-dynamic-scenes.pdf]]"

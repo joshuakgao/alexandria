@@ -2,7 +2,7 @@
 title: "Reducing Hallucinations in Vision-Language Models via Latent Space Steering"
 authors: [Sheng Liu, Haotian Ye, Lei Xing, James Zou]
 year: 2024
-venue: "EMNLP"
+venue: "EMNLP 2025"
 tags: [vision-language-models]
 url: ""
 pdf: "[[2025-latent-space-steering-reduce-hallucinations.pdf]]"

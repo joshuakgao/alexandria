@@ -2,6 +2,7 @@
 title: "Spatial-Temporal Transformer for Dynamic Scene Graph Generation"
 authors: [Yuren Cong, Wentong Liao, Hanno Ackermann, Bodo Rosenhahn, Michael Ying Yang]
 year: 2021
+venue: "ICCV 2021"
 tags: [dynamic-scene-graph-generation, scene-graphs, video-understanding]
 url: ""
 pdf: "[[2021-spatial-temporal-transformer-dynamic-scene-graph.pdf]]"

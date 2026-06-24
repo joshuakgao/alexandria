@@ -3,7 +3,7 @@ title: "Change Detection Meets Visual Question Answering"
 authors: [Zhenghang Yuan, Student Member, Lichao Mou, Zhitong Xiong, Xiao Xiang Zhu]
 year: 2022
 venue: "IEEE Transactions on Geoscience and Remote Sensing"
-tags: [change-detection, remote-sensing, benchmarking]
+tags: [change-detection, remote-sensing]
 url: ""
 pdf: "[[2022-cdvqa.pdf]]"
 date_ingested: 2026-06-18

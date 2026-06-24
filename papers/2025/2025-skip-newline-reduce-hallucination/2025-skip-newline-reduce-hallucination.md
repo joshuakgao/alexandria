@@ -2,6 +2,7 @@
 title: "Skip \n: A Simple Method to Reduce Hallucination in Large Vision-Language Models"
 authors: [Zongbo Han, Zechen Bai, Haiyang Mei, Qianli Xu, Changqing Zhang, Mike Zheng Shou]
 year: 2024
+venue: ""
 tags: [vision-language-models]
 url: ""
 pdf: "[[2025-skip-newline-reduce-hallucination.pdf]]"

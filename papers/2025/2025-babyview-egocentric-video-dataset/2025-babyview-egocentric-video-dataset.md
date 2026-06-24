@@ -2,7 +2,8 @@
 title: "The BabyView dataset: High-resolution egocentric videos of infants' and young children's everyday experiences"
 authors: [Bria Long, Robert Sparks, Violet Xiang, Stefan Stojanov, Zi Yin, Grace Keene, Michael Frank]
 year: 2025
-tags: [cognitive-ai, benchmarking]
+venue: ""
+tags: [cognitive-ai]
 url: ""
 pdf: "[[2025-babyview-egocentric-video-dataset.pdf]]"
 date_ingested: 2026-06-18

@@ -2,6 +2,7 @@
 title: "ClipCap: CLIP Prefix for Image Captioning"
 authors: [Ron Mokady, Amir Hertz, Amit Bermano]
 year: 2021
+venue: ""
 tags: [vision-language-models, image-captioning, vision-backbone]
 url: ""
 pdf: "[[2021-clipcap-clip-prefix-image-captioning.pdf]]"

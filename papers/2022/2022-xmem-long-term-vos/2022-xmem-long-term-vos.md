@@ -2,6 +2,7 @@
 title: "XMem: Long-Term Video Object Segmentation with an Atkinson-Shiffrin Memory Model"
 authors: [Ho Kei Cheng, Alexander Schwing]
 year: 2022
+venue: "ECCV 2022"
 tags: [segmentation, video-understanding, cognitive-ai]
 url: ""
 pdf: "[[2022-xmem-long-term-vos.pdf]]"

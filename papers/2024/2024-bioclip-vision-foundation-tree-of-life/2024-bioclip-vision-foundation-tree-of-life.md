@@ -2,7 +2,7 @@
 title: "BioCLIP: A Vision Foundation Model for the Tree of Life"
 authors: [Samuel Stevens, Jiaman Wu, Matthew Thompson, Elizabeth Campolongo, Chan Hee Song, David Forsyth, Tanya Berger-Wolf, Wei-Lun Chao, Yu Su]
 year: 2024
-venue: "CVPR"
+venue: "CVPR 2024"
 tags: [vision-language-models]
 url: ""
 pdf: "[[2024-bioclip-vision-foundation-tree-of-life.pdf]]"

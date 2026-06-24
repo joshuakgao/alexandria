@@ -2,6 +2,7 @@
 title: "Recognize Anything: A Strong Image Tagging Model"
 authors: [Youcai Zhang, Xinyu Huang, Jinyu Ma, Zhaoyang Li, Zhaochuan Luo, Yanchun Xie, Yuzhuo Qin, Tong Luo, Yaqian Li, Shilong Liu, Yandong Guo, Lei Zhang OPPO Research Institute, International Digital Economy Academy, AI Robotics]
 year: 2023
+venue: "CVPR 2024 Workshop"
 tags: [vision-language-models, image-captioning]
 url: ""
 pdf: "[[2023-recognize-anything.pdf]]"

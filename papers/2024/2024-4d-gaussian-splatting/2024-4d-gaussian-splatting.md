@@ -2,7 +2,7 @@
 title: "4D Gaussian Splatting for Real-Time Dynamic Scene Rendering"
 authors: [Guanjun Wu, Taoran Yi, Jiemin Fang, Lingxi Xie, Xiaopeng Zhang, Wei Wei, Wenyu Liu, Qi Tian, Xinggang Wang]
 year: 2024
-venue: "CVPR"
+venue: "CVPR 2024"
 tags: [gaussian-splatting]
 url: ""
 pdf: "[[2024-4d-gaussian-splatting.pdf]]"

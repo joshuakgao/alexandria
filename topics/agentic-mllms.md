@@ -40,7 +40,10 @@ Agentic multimodal systems leverage LLMs to orchestrate diverse tools and module
 - [[papers/2025-tooleqa-embodied-question-answering|ToolEQA]]: Combines structured planning with tool-augmented reasoning for embodied QA; demonstrates tool-augmented agents navigate 3D environments more efficiently
 - [[papers/2025-vipact-visual-perception-agent|VipAct]]: Multi-agent VLM framework with orchestrator, specialized agents, and vision experts; shows systematic collaboration overcomes monolithic VLM limitations for fine-grained perception
 
-**Evolution summary**: From single-model code generation → specialized tool generation → orchestrated multi-agent systems with division of labor
+**2026 – Vision-action foundation agents**:
+- [[papers/2026-nitrogen|NitroGen]]: Shifts from LLM-as-orchestrator to end-to-end vision-action models trained via behavior cloning on 40,000 hours of internet gameplay across 1,000+ games. Demonstrates that internet-scale data with automatically extracted action labels can bootstrap generalist agents without RL or manual demonstrations. Transfers to unseen games with up to 52% relative improvement over training from scratch, though limited to reactive (system-1) behavior without planning or language conditioning.
+
+**Evolution summary**: From single-model code generation → specialized tool generation → orchestrated multi-agent systems with division of labor → end-to-end vision-action foundation models at internet scale
 
 ## Open problems
 
@@ -55,6 +58,7 @@ Agentic multimodal systems leverage LLMs to orchestrate diverse tools and module
 - **Interpretability vs. performance**: Earlier debate assumed interpretability trades off accuracy. Evidence suggests compositional approaches can exceed monolithic baselines while remaining interpretable.
 - **Specialized vs. general agents**: Should we build task-specific agents or general-purpose orchestrators? Trend shows general orchestrators with task-specific tool selection.
 - **Tool vs. module abstraction**: Should systems expose raw modules (detection, classification) or higher-level tools? Recent work suggests both are useful at different levels of abstraction.
+- **Orchestration vs. end-to-end**: NitroGen bypasses LLM reasoning and tool composition entirely, learning direct vision-to-action mapping. This trades interpretability and planning for scalability and latency. Whether end-to-end agents can eventually match the compositional reasoning of orchestrator-based systems remains open.
 
 ## Recommended reading order
 

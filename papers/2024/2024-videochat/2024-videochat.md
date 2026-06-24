@@ -2,6 +2,7 @@
 title: "VideoChat: Chat-Centric Video Understanding"
 authors: [Kunchang Li, Yinan He, Yi Wang, Yizhuo Li, Wenhai Wang Ping Luo, Yali Wang, Limin Wang, Chinese Academy of Sciences]
 year: 2024
+venue: ""
 tags: [video-understanding, vision-language-models]
 url: ""
 pdf: "[[2024-videochat.pdf]]"

@@ -2,7 +2,8 @@
 title: "Embodied-RAG: General Non-parametric Embodied Memory for Retrieval and Generation"
 authors: [Quanting Xie, So Yeon Min, Pengliang Ji, Yue Yang, Tianyi Zhang, Kedi Xu, Aarav Bajaj, Ruslan Salakhutdinov, Matthew Johnson-Roberson, Yonatan Bisk]
 year: 2025
-tags: [embodied-memory, scene-graphs]
+venue: ""
+tags: [embodied-ai, scene-graphs]
 url: ""
 pdf: "[[2025-embodied-rag.pdf]]"
 date_ingested: 2026-06-18

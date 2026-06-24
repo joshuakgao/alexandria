@@ -2,6 +2,7 @@
 title: "Boxer: Robust Lifting of Open-World 2D Bounding Boxes to 3D"
 authors: [Daniel DeTone, Wei-Chiu Shen, Zander Zhang, Fangyin Ma, Julian Straub, Richard Newcombe, Jakob Engel]
 year: 2026
+venue: ""
 tags: [3d-scene-understanding]
 url: ""
 pdf: "[[2026-boxer-lifting-2d-to-3d.pdf]]"

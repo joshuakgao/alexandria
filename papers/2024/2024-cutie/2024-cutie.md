@@ -2,6 +2,7 @@
 title: "Putting the Object Back into Video Object Segmentation"
 authors: [Ho Kei Cheng, Seoung Wug Oh, Brian Price, Joon-Young Lee, Alexander Schwing]
 year: 2024
+venue: "CVPR 2024"
 tags: [segmentation]
 url: ""
 pdf: "[[2024-cutie.pdf]]"

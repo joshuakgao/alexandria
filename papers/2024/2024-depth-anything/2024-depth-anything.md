@@ -2,6 +2,7 @@
 title: "Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data"
 authors: [Lihe Yang, Bingyi Kang, Zilong Huang, Xiaogang Xu, Jiashi Feng, Hengshuang Zhao]
 year: 2024
+venue: "CVPR 2024"
 tags: [depth-estimation]
 url: ""
 pdf: "[[2024-depth-anything.pdf]]"

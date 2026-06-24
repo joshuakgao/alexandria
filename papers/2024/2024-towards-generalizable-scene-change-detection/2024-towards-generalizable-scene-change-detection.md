@@ -2,6 +2,7 @@
 title: "Towards Generalizable Scene Change Detection"
 authors: [Jae-Woo Kim, South Korea]
 year: 2024
+venue: "CVPR 2025"
 tags: [change-detection, segmentation]
 url: ""
 pdf: "[[2024-towards-generalizable-scene-change-detection.pdf]]"

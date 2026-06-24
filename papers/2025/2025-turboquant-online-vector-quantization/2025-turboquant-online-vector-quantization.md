@@ -2,6 +2,7 @@
 title: "TurboQuant: Online Vector Quantization with Near-optimal Distortion Rate"
 authors: [Amir Zandieh, Majid Daliri]
 year: 2025
+venue: "ICLR 2026"
 tags: [quantization]
 url: ""
 pdf: "[[2025-turboquant-online-vector-quantization.pdf]]"

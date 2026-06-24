@@ -2,6 +2,7 @@
 title: "CorrFill: Enhancing Faithfulness in Reference-based Inpainting with Correspondence Guidance in Diffusion Models"
 authors: [Yuxi Liu, Jiangning Yang, Yifan Chen, Shuai Liu, Feng Lin]
 year: 2025
+venue: "WACV 2025"
 tags: [image-inpainting, diffusion-models]
 url: ""
 pdf: "[[2025-corrfill-reference-based-inpainting.pdf]]"

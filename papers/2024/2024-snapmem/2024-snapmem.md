@@ -2,7 +2,8 @@
 title: "SnapMem: Snapshot-based 3D Scene Memory for Embodied Exploration and Reasoning"
 authors: [Yuncong Yang, Peihao Chen, Yangyang Guo, Liqiang Nie, Chuang Gan]
 year: 2024
-tags: [embodied-memory, vision-language-models]
+venue: ""
+tags: [embodied-ai, vision-language-models]
 url: ""
 pdf: "[[2024-snapmem.pdf]]"
 date_ingested: 2026-06-18

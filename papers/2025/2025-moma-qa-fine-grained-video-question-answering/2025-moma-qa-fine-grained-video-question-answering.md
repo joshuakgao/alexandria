@@ -2,8 +2,8 @@
 title: "Towards Fine-Grained Video Question Answering"
 authors: [Wei Dai, Alan Luo, Zane Durante, Debadutta Dash, Arnold Milstein, Kevin Schulman, Ehsan Adeli, Li Fei-Fei]
 year: 2025
-venue: "arXiv:2503.06820"
-tags: [video-understanding, scene-graphs, benchmarking, vision-language-models]
+venue: ""
+tags: [video-understanding, scene-graphs, vision-language-models]
 url: ""
 pdf: "[[2025-moma-qa-fine-grained-video-question-answering.pdf]]"
 date_ingested: 2026-06-18

@@ -2,6 +2,7 @@
 title: "VGGT-CD: Training-Free Robust Registration for 3D Change Detection"
 authors: [Wei Zhang, Songhua Li]
 year: 2026
+venue: ""
 tags: [change-detection, point-cloud-registration]
 url: ""
 pdf: "[[2026-vggt-cd.pdf]]"
