@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox.md",
+                "file": "papers/2025/2025-flashdepth/2025-flashdepth.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "inbox"
+              "title": "2025-flashdepth"
             }
           }
         ]
@@ -186,7 +186,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -205,8 +205,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0ea6d65034813b20",
+  "active": "58a6a8af7762e822",
   "lastOpenFiles": [
+    "inbox.md",
+    "papers/2025/2025-flashdepth/2025-flashdepth.md",
+    "papers/2025/2025-flashdepth/2025-flashdepth-thumbnail.png",
+    "papers/2025/2025-flashdepth/2025-flashdepth.pdf",
+    "papers/2025/2025-flashdepth",
     "papers/2025/2025-uncertainty-aware-jersey-number/2025-uncertainty-aware-jersey-number-thumbnail.png",
     "papers/2025/2025-uncertainty-aware-jersey-number/2025-uncertainty-aware-jersey-number.md",
     "papers/2025/2025-uncertainty-aware-jersey-number/2025-uncertainty-aware-jersey-number.pdf",
@@ -220,7 +225,6 @@
     "papers/2024/2024-jersey-number-recognition/2024-jersey-number-recognition.pdf",
     "papers/2024/2024-jersey-number-recognition",
     "CLAUDE.md",
-    "inbox.md",
     "README.md",
     "papers/2018/2018-world-models/2018-world-models.md",
     "papers/2018/2018-world-models/2018-world-models-thumbnail.png",
@@ -228,8 +232,6 @@
     "papers/2018/2018-world-models",
     "papers/2025/2025-spinbench/2025-spinbench.md",
     "papers/2025/2025-spinbench/2025-spinbench-thumbnail.png",
-    "papers/2025/2025-spinbench/2025-spinbench.pdf",
-    "papers/2025/2025-spinbench",
     "papers/2025/2025-3dgs-cd/2025-3dgs-cd.md",
     "topics/change-detection.md",
     "papers/2026/2026-quantiphy/2026-quantiphy.md",
@@ -247,11 +249,9 @@
     "papers/2026/2026-theory-of-space/2026-theory-of-space-thumbnail.png",
     "ideas/Trajectory Based Spatial Reasoning.md",
     "papers/2021/2021-segformer/2021-segformer.md",
-    "papers/2021/2021-segformer/2021-segformer-thumbnail.png",
     "topics/reinforcement-learning.md",
     "topics/simulation-environments.md",
     "papers/2025/2025-gymnasium/2025-gymnasium.md",
-    "papers/2026/2026-deltatok/2026-deltatok.md",
-    "papers/2025/2025-gymnasium/2025-gymnasium-thumbnail.png"
+    "papers/2026/2026-deltatok/2026-deltatok.md"
   ]
 }
