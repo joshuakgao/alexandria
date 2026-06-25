@@ -20,7 +20,7 @@ SORT year DESC
 
 ## Overview
 
-*Last updated: 2026-05-30 | Sources: 2 papers*
+*Last updated: 2026-06-25 | Sources: 5 papers*
 
 ## Current thesis
 
@@ -34,6 +34,9 @@ Re-identification is undergoing two parallel shifts toward generalization. First
 - **Foundation model synergy**: Combining LLMs (semantic reasoning) with VFMs (visual features) bridges semantic understanding and fine-grained discrimination
 - **Missing modality synthesis**: AIO's Channel Augmentation (IR) and Lineart (sketch) enable training without complete multimodal data — synthetic bridging reduces domain gaps
 - **Dynamic visual prompting**: VICP injects task-specific prompts into frozen transformers rather than fine-tuning
+- **Re-ID as a component in downstream pipelines**: Koshkina & Elder (CVPRW 2024) use Centroid-ReID features for unsupervised main subject filtering in sports video tracklets — iterative Gaussian outlier rejection removes occluded frames without frame-level annotations, demonstrating that re-id embeddings have utility beyond identity matching as general-purpose person appearance features
+- **Jersey number as identity signal**: Liu & Bhanu (CVPRW 2019) frame jersey number recognition as a player identification problem, using a pose-guided R-CNN to detect and classify digits on jerseys. This complements appearance-based ReID — jersey numbers provide a semantically explicit identity cue that is invariant to lighting and viewpoint changes but requires number visibility
+- **Uncertainty-aware identity signals**: Grad (CVPRW 2025) adds calibrated uncertainty to jersey number predictions via Dirichlet modeling, enabling the system to abstain when numbers are not reliably visible. This is critical for ReID integration — an overconfident wrong number causes identity switches, while an honest "uncertain" allows fallback to appearance-based ReID
 
 ## Open problems
 
@@ -46,6 +49,7 @@ Re-identification is undergoing two parallel shifts toward generalization. First
 
 ## Contradictions and debates
 
+- **Appearance vs. semantic identity cues**: Appearance-based ReID (AIO, VICP) captures holistic visual similarity, while jersey number recognition (Liu & Bhanu 2019, Koshkina & Elder 2024, Grad 2025) provides explicit identity. Grad's uncertainty-aware approach enables principled fusion — use jersey numbers when confidence is high, fall back to appearance-based ReID when uncertain — but this integration remains untested
 - **Specialization vs. generalization**: Domain-specific ReID models still outperform generalizable approaches on their target domains; the question is whether flexibility justifies the accuracy trade-off
 - **Frozen vs. fine-tuned**: Both AIO and VICP freeze the backbone, but this imposes a performance ceiling. When sufficient data exists, fine-tuning may still win.
 - **Synthetic vs. real modality data**: AIO's synthetic IR/sketch bridges domain gaps but may not capture real-world noise patterns. The gap between synthetic and real multimodal evaluation remains unclear.

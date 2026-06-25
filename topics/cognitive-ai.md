@@ -22,7 +22,7 @@ SORT year DESC
 
 # Cognitive AI — Overview
 
-*Last updated: 2026-04-16 | Sources: 2 papers (BabyView, BabyZWM)*
+*Last updated: 2026-06-24 | Sources: 3 papers (BabyView, BabyZWM, SpinBench)*
 
 ## Current thesis
 
@@ -42,6 +42,10 @@ The "data gap" between human and machine learning—humans achieve sophisticated
 - **Zero-shot transfer from naturalistic data**: BabyZWM achieves diverse visual-cognitive tasks (depth, motion, segmentation, intuitive physics) zero-shot, without task-specific training. Shows that universal problem-solving interfaces emerge from self-supervised learning of world structure.
 - **Brain-aligned representations**: BabyZWM's internal activations correlate with visual cortex responses. Bridges computational modeling with neuroscience, suggesting that learning from naturalistic data induces biologically plausible representations.
 
+**2025:**
+- **Cognitive science as benchmark design principle**: SpinBench (ICLR 2026) draws on foundational cognitive science — Shepard & Metzler mental rotation experiments, imagery-based reasoning theories — to design a diagnostic benchmark for VLM spatial reasoning. Progressive task structure mirrors cognitive complexity (identity matching → perspective taking), and human response time correlates with VLM accuracy, validating that the benchmark captures shared spatial reasoning challenges. This establishes cognitively grounded evaluation as a distinct methodology for AI diagnostics.
+- **Analog spatial reasoning absent in VLMs**: SpinBench's central question — whether VLMs engage in imagery-based spatial reasoning or rely on symbolic/linguistic associations — is answered negatively: most models fail at mental rotation and perspective taking (near-chance kappa), suggesting VLMs lack the analog spatial simulation processes documented in human cognition.
+
 ## Open problems
 
 **Data and representation:**
@@ -60,11 +64,13 @@ The "data gap" between human and machine learning—humans achieve sophisticated
 - **Mechanism of innate biases**: Do architectural choices (factorization, causal inference) capture genuine inductive biases of infant cognition, or are they post-hoc engineering? Deeper cognitive science grounding needed.
 - **Social learning and interaction**: Infant learning is deeply social (learning from caregivers, joint attention, imitation). BabyView captures this in egocentric video, but models' capacity to learn from social signals (gaze direction, pointing, etc.) is largely unexplored.
 - **Motivation and affect**: Human development involves motivation, curiosity, affect. How do these drive learning in models? Role of intrinsic motivation in efficient learning is open.
+- **Imagery-based vs. symbolic spatial reasoning**: SpinBench shows VLMs fail at tasks requiring analog spatial simulation (mental rotation, perspective taking) while succeeding at tasks solvable via linguistic/symbolic pattern matching (object-relation grounding). Can architectural innovations (e.g., learned spatial simulators) endow VLMs with analog spatial reasoning?
 
 ## Recommended reading order
 
 1. [[papers/2025-babyview-egocentric-video-dataset|BabyView Dataset (2025)]] — establishes the data gap and provides the foundational dataset; read first to understand the empirical challenge and dataset infrastructure
 2. [[papers/2026-babyzwm-zero-shot-world-models|BabyZWM (2026)]] — demonstrates how cognitive-informed architectural innovations address the data gap; read after BabyView to see the cognitive-AI methodology in action
+3. [[papers/2025/2025-spinbench/2025-spinbench|SpinBench (ICLR 2026)]] — cognitive science as benchmark design; shows VLMs lack analog spatial reasoning processes documented in humans
 
 ## Trends
 

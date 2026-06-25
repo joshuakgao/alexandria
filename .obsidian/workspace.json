@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "papers/2025/2025-3dgs-cd/2025-3dgs-cd.md",
+                "file": "inbox.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-3dgs-cd"
+              "title": "inbox"
             }
           }
         ]
@@ -190,7 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5
+    "width": 458.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,51 +207,51 @@
   },
   "active": "0ea6d65034813b20",
   "lastOpenFiles": [
+    "papers/2025/2025-uncertainty-aware-jersey-number/2025-uncertainty-aware-jersey-number-thumbnail.png",
+    "papers/2025/2025-uncertainty-aware-jersey-number/2025-uncertainty-aware-jersey-number.md",
+    "papers/2025/2025-uncertainty-aware-jersey-number/2025-uncertainty-aware-jersey-number.pdf",
+    "papers/2025/2025-uncertainty-aware-jersey-number",
+    "papers/2019/2019-pose-guided-rcnn-jersey-number/2019-pose-guided-rcnn-jersey-number.md",
+    "papers/2019/2019-pose-guided-rcnn-jersey-number/2019-pose-guided-rcnn-jersey-number-thumbnail.png",
+    "papers/2019/2019-pose-guided-rcnn-jersey-number/2019-pose-guided-rcnn-jersey-number.pdf",
+    "papers/2019/2019-pose-guided-rcnn-jersey-number",
+    "papers/2024/2024-jersey-number-recognition/2024-jersey-number-recognition.md",
+    "papers/2024/2024-jersey-number-recognition/2024-jersey-number-recognition-thumbnail.png",
+    "papers/2024/2024-jersey-number-recognition/2024-jersey-number-recognition.pdf",
+    "papers/2024/2024-jersey-number-recognition",
+    "CLAUDE.md",
     "inbox.md",
+    "README.md",
+    "papers/2018/2018-world-models/2018-world-models.md",
+    "papers/2018/2018-world-models/2018-world-models-thumbnail.png",
+    "papers/2018/2018-world-models/2018-world-models.pdf",
+    "papers/2018/2018-world-models",
+    "papers/2025/2025-spinbench/2025-spinbench.md",
+    "papers/2025/2025-spinbench/2025-spinbench-thumbnail.png",
+    "papers/2025/2025-spinbench/2025-spinbench.pdf",
+    "papers/2025/2025-spinbench",
+    "papers/2025/2025-3dgs-cd/2025-3dgs-cd.md",
     "topics/change-detection.md",
     "papers/2026/2026-quantiphy/2026-quantiphy.md",
-    "CLAUDE.md",
     "topics/world-models.md",
     "papers/2026/2026-mirage-illusion-visual-understanding/2026-mirage-illusion-visual-understanding.md",
     "papers/2026/2026-nitrogen/2026-nitrogen.md",
     "topics/physical-reasoning.md",
     "papers/2026/2026-quantiphy/2026-quantiphy-thumbnail.png",
-    "papers/2026/2026-quantiphy/2026-quantiphy.pdf",
-    "papers/2026/2026-quantiphy",
     "topics/medical-ai.md",
     "papers/2026/2026-mirage-illusion-visual-understanding/2026-mirage-illusion-visual-understanding-thumbnail.png",
-    "papers/2026/2026-mirage-illusion-visual-understanding/2026-mirage-illusion-visual-understanding.pdf",
-    "papers/2026/2026-mirage-illusion-visual-understanding",
-    "README.md",
     "topics/embodied-ai.md",
     "papers/2026/2026-pointworld/2026-pointworld.md",
-    "papers/2026/2026-pointworld/2026-pointworld.pdf",
     "papers/2026/2026-pointworld/2026-pointworld-thumbnail.png",
-    "papers/2026/2026-pointworld",
     "papers/2026/2026-theory-of-space/2026-theory-of-space.md",
     "papers/2026/2026-theory-of-space/2026-theory-of-space-thumbnail.png",
-    "papers/2026/2026-theory-of-space/2026-theory-of-space.pdf",
-    "papers/2026/2026-theory-of-space",
     "ideas/Trajectory Based Spatial Reasoning.md",
     "papers/2021/2021-segformer/2021-segformer.md",
-    "papers/2021/2021-segformer/2021-segformer.pdf",
     "papers/2021/2021-segformer/2021-segformer-thumbnail.png",
-    "papers/2021/2021-segformer",
     "topics/reinforcement-learning.md",
     "topics/simulation-environments.md",
     "papers/2025/2025-gymnasium/2025-gymnasium.md",
     "papers/2026/2026-deltatok/2026-deltatok.md",
-    "topics/embodied-memory.md",
-    "papers/2025/2025-gymnasium/2025-gymnasium-thumbnail.png",
-    "papers/2026/2026-nitrogen/2026-nitrogen-thumbnail.png",
-    "ideas/Agent Multi Tasking?.md",
-    "papers/2017/2017-scannet/2017-scannet.md",
-    "papers/2017/2017-scannet/2017-scannet-thumbnail.png",
-    "papers/2026/2026-planning-with-views/2026-planning-with-views.md",
-    "papers/2026/2026-planning-with-views/2026-planning-with-views-thumbnailasdf.png",
-    "papers/2026/2026-planning-with-views/2026-planning-with-views-thumbnail.png",
-    "topics/image-inpainting.md",
-    "papers/2024/2024-3d-change-detection-construction-scenarios/2024-3d-change-detection-construction-scenarios.md",
-    "topics/construction-monitoring.md"
+    "papers/2025/2025-gymnasium/2025-gymnasium-thumbnail.png"
   ]
 }

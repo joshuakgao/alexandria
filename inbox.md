@@ -1,6 +1,5 @@
 1. https://arxiv.org/pdf/2512.22830 scar-3d
-2. https://arxiv.org/pdf/2509.25390 SpinBench ICLR 2026
-3. MindCube
+2. MindCube
 4. Theory of Space
 5. SPACE
 6. SpaceOm
