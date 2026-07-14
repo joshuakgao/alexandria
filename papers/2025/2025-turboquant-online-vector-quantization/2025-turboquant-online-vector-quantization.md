@@ -4,8 +4,7 @@ authors: [Amir Zandieh, Majid Daliri]
 year: 2025
 venue: "ICLR 2026"
 tags: [quantization]
-url: ""
-pdf: "[[2025-turboquant-online-vector-quantization.pdf]]"
+url: "https://arxiv.org/abs/2504.19874"
 date_ingested: 2026-06-18
 ---
 

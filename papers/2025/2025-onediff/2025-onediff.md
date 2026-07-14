@@ -4,8 +4,7 @@ authors: [Erdong Hu, Longteng Guo, Tongtian Yue, Zijia Zhao, Shuning Xue, Jing L
 year: 2025
 venue: "ACCV 2024"
 tags: [change-detection, vision-language-models]
-url: ""
-pdf: "[[2025-onediff.pdf]]"
+url: "https://arxiv.org/abs/2407.05645"
 date_ingested: 2026-06-18
 ---
 

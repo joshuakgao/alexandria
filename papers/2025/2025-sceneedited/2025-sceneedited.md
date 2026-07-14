@@ -4,8 +4,7 @@ authors: [Chih-hao Lin, Anuj Chin, Sourabh Garg, Ben Dayoub]
 year: 2025
 venue: "WACV 2026"
 tags: [autonomous-vehicles, change-detection]
-url: ""
-pdf: "[[2025-sceneedited.pdf]]"
+url: "https://arxiv.org/abs/2511.15153"
 date_ingested: 2026-06-18
 ---
 

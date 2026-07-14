@@ -5,7 +5,6 @@ year: 2026
 venue: "CVPR 2026"
 tags: [world-models, 3d-scene-understanding, point-tracking]
 url: "https://arxiv.org/abs/2601.03782"
-pdf: "[[2026-pointworld.pdf]]"
 date_ingested: 2026-06-19
 ---
 

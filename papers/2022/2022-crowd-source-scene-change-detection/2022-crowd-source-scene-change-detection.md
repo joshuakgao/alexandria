@@ -4,8 +4,7 @@ authors: [Pair Alignment, D Point Cloud, Deep Learning]
 year: 2022
 venue: "AIVR 2022"
 tags: [change-detection, autonomous-vehicles, visual-localization, 3d-scene-understanding]
-url: ""
-pdf: "[[2022-crowd-source-scene-change-detection.pdf]]"
+url: "https://arxiv.org/abs/2203.05205"
 date_ingested: 2026-06-18
 ---
 

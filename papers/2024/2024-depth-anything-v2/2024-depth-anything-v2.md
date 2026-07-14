@@ -4,8 +4,7 @@ authors: [Lihe Yang, Bingyi Kang, Zilong Huang, Zhen Zhao, Xiaogang Xu, Jiashi F
 year: 2024
 venue: "NeurIPS 2024"
 tags: [depth-estimation, synthetic-datasets]
-url: ""
-pdf: "[[2024-depth-anything-v2.pdf]]"
+url: "https://arxiv.org/abs/2406.09414"
 date_ingested: 2026-06-18
 ---
 

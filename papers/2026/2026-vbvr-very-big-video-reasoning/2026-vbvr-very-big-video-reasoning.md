@@ -4,8 +4,7 @@ authors: [Maijunxian Wang, Ruisi Wang, Juyi Lin, Ran Ji, Thaddäus Wiedemer, Qin
 year: 2026
 venue: ""
 tags: [world-models]
-url: ""
-pdf: "[[2026-vbvr-very-big-video-reasoning.pdf]]"
+url: "https://arxiv.org/abs/2602.20159"
 date_ingested: 2026-06-18
 ---
 

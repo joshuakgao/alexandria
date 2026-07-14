@@ -3,9 +3,8 @@ title: "Uni-paint: A Unified Framework for Multimodal Image Inpainting with Pret
 authors: [Shiyuan Yang, Xiaodong Chen, Jing Liao]
 year: 2023
 venue: "ACM MM 2023"
-tags: [image-inpainting, diffusion-models, vision-language-models]
-url: ""
-pdf: "[[2023-unipaint-multimodal-inpainting.pdf]]"
+tags: [image-inpainting, image-video-generation, vision-language-models]
+url: "https://arxiv.org/abs/2310.07222"
 date_ingested: 2026-06-18
 ---
 

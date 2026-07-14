@@ -4,8 +4,7 @@ authors: [Qianfan Fan, Jialu Ma, Guangzhi Su, Jiming Guo, Siya Wu, Xin Chen, Hai
 year: 2025
 venue: "ICCV 2025"
 tags: [embodied-ai]
-url: ""
-pdf: "[[2025-embodied-videoagent.pdf]]"
+url: "https://arxiv.org/abs/2501.00358"
 date_ingested: 2026-06-18
 ---
 

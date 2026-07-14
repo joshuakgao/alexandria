@@ -4,8 +4,7 @@ authors: [Daniel Honerkamp, Martin Büchner, Fabien Despinoy, Tim Welschehold, A
 year: 2024
 venue: "IEEE RA-L"
 tags: [embodied-ai, scene-graphs, agentic-mllms]
-url: ""
-pdf: "[[2024-moma-llm.pdf]]"
+url: "https://arxiv.org/abs/2403.08605"
 date_ingested: 2026-06-18
 ---
 

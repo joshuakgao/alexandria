@@ -1,11 +1,13 @@
 ---
 title: "BodyShapeGPT: SMPL Body Shape Manipulation with LLMs"
-authors: [Baldomero Árbol, Dan Casas]
+authors:
+  - Baldomero Árbol
+  - Dan Casas
 year: 2024
-venue: "ECCV 2024 Workshop"
-tags: [vision-language-models, image-generation]
-url: ""
-pdf: "[[2024-bodyshapegpt-3d-body-shape-manipulation.pdf]]"
+venue: ECCV 2024 Workshop
+tags:
+  - vision-language-models
+url: "https://arxiv.org/abs/2410.03556"
 date_ingested: 2026-06-18
 ---
 

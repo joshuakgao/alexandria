@@ -4,8 +4,7 @@ authors: [Samuel Looper, Javier Rodriguez-Puigvert, Roland Siegwart, Cesar Caden
 year: 2023
 venue: "ICRA 2023"
 tags: [construction-monitoring, scene-graphs, change-detection]
-url: ""
-pdf: "[[2023-3d-vsg-semantic-scene-change-prediction.pdf]]"
+url: "https://arxiv.org/abs/2209.07896"
 date_ingested: 2026-06-18
 ---
 

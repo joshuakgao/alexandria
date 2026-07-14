@@ -4,8 +4,7 @@ authors: [Ho Kei Cheng, Alexander Schwing]
 year: 2022
 venue: "ECCV 2022"
 tags: [segmentation, video-understanding, cognitive-ai]
-url: ""
-pdf: "[[2022-xmem-long-term-vos.pdf]]"
+url: "https://arxiv.org/abs/2207.07115"
 date_ingested: 2026-06-18
 ---
 

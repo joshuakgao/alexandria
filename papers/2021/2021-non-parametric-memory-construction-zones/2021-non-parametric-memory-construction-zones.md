@@ -4,8 +4,7 @@ authors: [Shenlong Wang, Kelvin Wong, Ersin Yumer Raquel Urtasun]
 year: 2021
 venue: "ICRA"
 tags: [autonomous-vehicles, construction-monitoring, 3d-scene-understanding, segmentation]
-url: ""
-pdf: "[[2021-non-parametric-memory-construction-zones.pdf]]"
+url: "https://arxiv.org/abs/2101.06865"
 date_ingested: 2026-06-18
 ---
 

@@ -4,8 +4,7 @@ authors: [Tommie Kerssies, Gabriele Berton, Ju He, Qihang Yu, Wufei Ma, Daan de 
 year: 2026
 venue: "CVPR 2026"
 tags: [world-models]
-url: ""
-pdf: "[[2026-deltatok.pdf]]"
+url: "https://arxiv.org/abs/2604.04913"
 date_ingested: 2026-06-18
 ---
 

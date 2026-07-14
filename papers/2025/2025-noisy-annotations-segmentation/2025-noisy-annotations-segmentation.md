@@ -4,8 +4,7 @@ authors: [Moshe Kimhi, Omer Kerem, Eden Grad, Ehud Rivlin]
 year: 2025
 venue: ""
 tags: [denoising-segmentations, segmentation]
-url: ""
-pdf: "[[2025-noisy-annotations-segmentation.pdf]]"
+url: "https://arxiv.org/abs/2406.10891"
 date_ingested: 2026-06-18
 ---
 

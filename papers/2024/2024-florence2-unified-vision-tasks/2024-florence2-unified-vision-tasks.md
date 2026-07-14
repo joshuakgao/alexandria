@@ -4,8 +4,7 @@ authors: [Bin Xiao, Haiping Wu, Weijian Xu, Xiyang Dai, Houdong Hu, Yumao Lu, Mi
 year: 2024
 venue: "CVPR 2024"
 tags: [vision-language-models]
-url: ""
-pdf: "[[2024-florence2-unified-vision-tasks.pdf]]"
+url: "https://arxiv.org/abs/2311.06242"
 date_ingested: 2026-06-18
 ---
 

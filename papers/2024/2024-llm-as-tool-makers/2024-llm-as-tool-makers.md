@@ -4,8 +4,7 @@ authors: [Tianle Cai, Xuezhi Wang, Tengyu Ma, Xinyun Chen, Denny Zhou]
 year: 2024
 venue: "ICLR 2024"
 tags: [agentic-mllms]
-url: ""
-pdf: "[[2024-llm-as-tool-makers.pdf]]"
+url: "https://arxiv.org/abs/2305.17126"
 date_ingested: 2026-06-18
 ---
 

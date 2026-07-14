@@ -1,11 +1,20 @@
 ---
 title: "TimeSearch-R: Adaptive Temporal Search for Long-Form Video Understanding via Self-Verification Reinforcement Learning"
-authors: [Junwen Pan, Qizhe Zhang, Rui Zhang, Ming Lu, Xin Wan, Yuan Zhang, Chang Liu, Qi She]
+authors:
+  - Junwen Pan
+  - Qizhe Zhang
+  - Rui Zhang
+  - Ming Lu
+  - Xin Wan
+  - Yuan Zhang
+  - Chang Liu
+  - Qi She
 year: 2025
 venue: ""
-tags: [video-understanding, world-models, vision-language-models]
-url: ""
-pdf: "[[2025-timesearch-r-temporal-search-video-understanding.pdf]]"
+tags:
+  - video-understanding
+  - vision-language-models
+url: "https://arxiv.org/abs/2511.05489"
 date_ingested: 2026-06-18
 ---
 

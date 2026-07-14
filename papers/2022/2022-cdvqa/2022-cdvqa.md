@@ -4,8 +4,7 @@ authors: [Zhenghang Yuan, Student Member, Lichao Mou, Zhitong Xiong, Xiao Xiang 
 year: 2022
 venue: "IEEE Transactions on Geoscience and Remote Sensing"
 tags: [change-detection, remote-sensing]
-url: ""
-pdf: "[[2022-cdvqa.pdf]]"
+url: "https://arxiv.org/abs/2112.06343"
 date_ingested: 2026-06-18
 ---
 

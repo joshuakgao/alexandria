@@ -4,8 +4,7 @@ authors: [Ye He, Lingxi Jiang, Zehao Liang, He Wang, Tianjia Song]
 year: 2021
 venue: "ICRA 2021"
 tags: [autonomous-vehicles, change-detection]
-url: ""
-pdf: "[[2021-diff-net.pdf]]"
+url: "https://arxiv.org/abs/2107.07030"
 date_ingested: 2026-06-18
 ---
 

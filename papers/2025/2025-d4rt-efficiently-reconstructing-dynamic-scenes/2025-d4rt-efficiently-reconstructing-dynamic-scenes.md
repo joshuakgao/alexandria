@@ -4,8 +4,7 @@ authors: [Chuhan Zhang, Guillaume Le Moing, Skanda Koppula, Ignacio Rocco, Lilia
 year: 2025
 venue: "CVPR 2026"
 tags: [3d-scene-reconstruction]
-url: ""
-pdf: "[[2025-d4rt-efficiently-reconstructing-dynamic-scenes.pdf]]"
+url: "https://arxiv.org/abs/2512.08924"
 date_ingested: 2026-06-18
 ---
 

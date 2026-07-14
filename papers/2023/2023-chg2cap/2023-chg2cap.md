@@ -4,8 +4,7 @@ authors: [Shizhen Chang, Pedram Ghamisi]
 year: 2023
 venue: "IEEE Transactions on Image Processing"
 tags: [change-detection, remote-sensing]
-url: ""
-pdf: "[[2023-chg2cap.pdf]]"
+url: "https://arxiv.org/abs/2304.01091"
 date_ingested: 2026-06-18
 ---
 

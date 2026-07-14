@@ -4,8 +4,7 @@ authors: [Yuncong Yang, Peihao Chen, Yangyang Guo, Liqiang Nie, Chuang Gan]
 year: 2024
 venue: ""
 tags: [embodied-ai, vision-language-models]
-url: ""
-pdf: "[[2024-snapmem.pdf]]"
+url: "https://arxiv.org/abs/2411.17735"
 date_ingested: 2026-06-18
 ---
 

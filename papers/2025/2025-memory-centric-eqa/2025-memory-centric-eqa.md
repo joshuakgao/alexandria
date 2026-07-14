@@ -4,8 +4,7 @@ authors: [Mingliang Zhai, Zhi Gao, Yuwei Wu, Yunde Jia]
 year: 2025
 venue: ""
 tags: [embodied-ai, vision-language-models]
-url: ""
-pdf: "[[2025-memory-centric-eqa.pdf]]"
+url: "https://arxiv.org/abs/2505.13948"
 date_ingested: 2026-06-18
 ---
 

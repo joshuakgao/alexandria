@@ -4,8 +4,7 @@ authors: [Yifan Wang, Jianjun Zhou, Haoyi Zhu, Wenzheng Chang, Yang Zhou, Zizun 
 year: 2026
 venue: "ICLR 2026"
 tags: [3d-scene-reconstruction, depth-estimation]
-url: ""
-pdf: "[[2026-pi3-permutation-equivariant-visual-geometry-learning.pdf]]"
+url: "https://arxiv.org/abs/2507.13347"
 date_ingested: 2026-06-18
 ---
 

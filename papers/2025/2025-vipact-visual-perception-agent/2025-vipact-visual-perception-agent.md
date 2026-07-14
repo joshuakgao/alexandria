@@ -4,8 +4,7 @@ authors: [Zhehao Zhang, Ryan Rossi, Sungchul Kim, Tong Yu, Franck Dernoncourt, R
 year: 2025
 venue: "AAAI 2025"
 tags: [agentic-mllms]
-url: ""
-pdf: "[[2025-vipact-visual-perception-agent.pdf]]"
+url: "https://arxiv.org/abs/2410.16400"
 date_ingested: 2026-06-18
 ---
 

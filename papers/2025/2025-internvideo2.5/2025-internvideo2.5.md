@@ -4,8 +4,7 @@ authors: [Yi Wang, Xinhao Li, Ziang Yan, Yinan He, Jiashuo Yu, Xiangyu Zeng, Che
 year: 2025
 venue: ""
 tags: [video-understanding]
-url: ""
-pdf: "[[2025-internvideo2.5.pdf]]"
+url: "https://arxiv.org/abs/2501.12386"
 date_ingested: 2026-06-18
 ---
 

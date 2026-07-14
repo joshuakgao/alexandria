@@ -4,8 +4,7 @@ authors: [Jihan Yang, Shusheng Yang, Anjali Gupta, Rilyn Han, Li Fei-Fei]
 year: 2025
 venue: "CVPR 2025"
 tags: [spatial-reasoning, vision-language-models, video-understanding, cognitive-ai]
-url: ""
-pdf: "[[2025-vsi-bench.pdf]]"
+url: "https://arxiv.org/abs/2412.14171"
 date_ingested: 2026-06-18
 ---
 

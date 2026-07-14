@@ -22,7 +22,7 @@ SORT year DESC
 
 # 3D Scene Reconstruction — Overview
 
-*Last updated: 2026-06-06 | Sources: 6 papers*
+*Last updated: 2026-07-08 | Sources: 7 papers*
 
 ## Current thesis
 
@@ -47,6 +47,7 @@ Visual geometry reconstruction is evolving on six complementary axes: **architec
 - **Synthetic-to-real transfer.** GenRecon trains exclusively on synthetic data (SAGE-10k, 3D-FRONT) but achieves SOTA on real-world ScanNet++ — the generative prior provides sufficient structural knowledge to bridge the domain gap, unlike regression models that often struggle with distribution shift.
 
 **2025:**
+- **3D reconstruction as memory for video world models.** Video World Models with Long-term Spatial Memory (Wu et al., NeurIPS 2025) uses CUT3R for online 4D reconstruction during autoregressive video generation, incrementally building a global static point cloud via TSDF fusion. This represents a new application of 3D reconstruction: not as an end goal but as a persistent spatial memory mechanism for generative models. The TSDF fusion naturally filters dynamic elements by suppressing voxels with inconsistent depth across frames, and CUT3R's recurrent state enables coordinate-aligned reconstruction across autoregressive generation steps. This bridges the gap between reconstruction-focused methods (π³, DAGE) and generation-focused methods (GenRecon), using 3D reconstruction as an intermediate representation for conditioning video diffusion models rather than as a final output.
 - **Efficient point querying as alternative to dense decoding.** D4RT shifts from predicting dense depth and flow maps per-frame (memory-intensive) to flexible on-demand point querying: given a spatiotemporal point, the model predicts its 3D position. This decouples prediction from exhaustive dense decoding, enabling lightweight inference and unified treatment of multiple outputs (point clouds, tracks, camera).
 - **4D reconstruction (depth + motion + camera) in one pass.** D4RT jointly estimates depth, point tracks across frames, and full camera intrinsics/extrinsics in a single feedforward pass, avoiding modular pipelines (MegaSaM's depth + flow + segmentation stack).
 - **Handling dynamic scenes as first-class problem.** Unlike π³ (which handles dynamics as a special case), D4RT explicitly targets dynamic scenes and produces 3D point trajectories. Suggests that motion prediction (point tracks) is as fundamental as geometry, complementing static-scene-focused literature.

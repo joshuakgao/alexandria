@@ -4,8 +4,7 @@ authors: [Tanmay Gupta, Aniruddha Kembhavi]
 year: 2022
 venue: "CVPR 2023"
 tags: [agentic-mllms]
-url: ""
-pdf: "[[2022-visual-programming-compositional-visual-reasoning.pdf]]"
+url: "https://arxiv.org/abs/2211.11559"
 date_ingested: 2026-06-18
 ---
 

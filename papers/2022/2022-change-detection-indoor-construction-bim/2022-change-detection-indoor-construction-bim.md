@@ -5,7 +5,6 @@ year: 2022
 venue: "Automation in Construction"
 tags: [construction-monitoring, change-detection, point-cloud-registration]
 url: ""
-pdf: "[[2022-change-detection-indoor-construction-bim.pdf]]"
 date_ingested: 2026-06-18
 ---
 

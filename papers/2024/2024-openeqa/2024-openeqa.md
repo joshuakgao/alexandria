@@ -5,7 +5,6 @@ year: 2024
 venue: "CVPR 2024"
 tags: [embodied-ai]
 url: ""
-pdf: "[[2024-openeqa.pdf]]"
 date_ingested: 2026-06-18
 ---
 

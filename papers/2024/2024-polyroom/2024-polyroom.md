@@ -4,8 +4,7 @@ authors: [Floorplan Reconstruction Yuzhou Liu, Lingjie Zhu, Xiaodong Ma, Hanqiao
 year: 2024
 venue: "ECCV"
 tags: [floorplan-reconstruction, 3d-scene-understanding]
-url: ""
-pdf: "[[2024-polyroom.pdf]]"
+url: "https://arxiv.org/abs/2407.10439"
 date_ingested: 2026-06-18
 ---
 

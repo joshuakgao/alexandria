@@ -4,8 +4,7 @@ authors: [Yuheng Du, Sheng Yang]
 year: 2025
 venue: "ICCV 2025"
 tags: [autonomous-vehicles, change-detection, visual-localization]
-url: ""
-pdf: "[[2025-rtmap.pdf]]"
+url: "https://arxiv.org/abs/2507.00980"
 date_ingested: 2026-06-18
 ---
 

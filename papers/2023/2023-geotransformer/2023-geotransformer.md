@@ -4,8 +4,7 @@ authors: [Zheng Qin, Hao Yu, Changjian Wang, Yulan Guo, Yuxing Peng, Slobodan Il
 year: 2023
 venue: "TPAMI 2023"
 tags: [point-cloud-registration]
-url: ""
-pdf: "[[2023-geotransformer.pdf]]"
+url: "https://arxiv.org/abs/2308.03768"
 date_ingested: 2026-06-18
 ---
 

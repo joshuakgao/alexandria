@@ -4,8 +4,7 @@ authors: [Helen Oleynikova, Zachary Taylor, Roland Siegwart, Juan Nieto Autonomo
 year: 2018
 venue: "IROS 2018"
 tags: [embodied-ai]
-url: ""
-pdf: "[[2018-sparse-3d-topological-graphs.pdf]]"
+url: "https://arxiv.org/abs/1803.04345"
 date_ingested: 2026-06-18
 ---
 

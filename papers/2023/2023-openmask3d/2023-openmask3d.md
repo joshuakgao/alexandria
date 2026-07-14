@@ -4,8 +4,7 @@ authors: [Ayça Takmaz, Elisabetta Fedele, Robert Sumner, Marc Pollefeys, Federi
 year: 2023
 venue: "NeurIPS 2023"
 tags: [3d-scene-understanding, segmentation, vision-backbone]
-url: ""
-pdf: "[[2023-openmask3d.pdf]]"
+url: "https://arxiv.org/abs/2306.13631"
 date_ingested: 2026-06-18
 ---
 

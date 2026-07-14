@@ -4,8 +4,7 @@ authors: [Muhammad Qasim Ali, Saeejith Nair, Alexander Wong]
 year: 2025
 venue: ""
 tags: [embodied-ai, scene-graphs, agentic-mllms]
-url: ""
-pdf: "[[2025-graphpad.pdf]]"
+url: "https://arxiv.org/abs/2506.01174"
 date_ingested: 2026-06-18
 ---
 

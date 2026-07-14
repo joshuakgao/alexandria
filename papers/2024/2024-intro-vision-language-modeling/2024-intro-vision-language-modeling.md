@@ -4,8 +4,7 @@ authors: [Florian Bordes, Richard Yuanzhe Pang, Anurag Ajay, Alexander Li, Adrie
 year: 2024
 venue: ""
 tags: [vision-language-models]
-url: ""
-pdf: "[[2024-intro-vision-language-modeling.pdf]]"
+url: "https://arxiv.org/abs/2405.17247"
 date_ingested: 2026-06-18
 ---
 

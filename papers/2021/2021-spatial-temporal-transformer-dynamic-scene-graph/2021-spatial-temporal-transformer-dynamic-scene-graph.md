@@ -4,8 +4,7 @@ authors: [Yuren Cong, Wentong Liao, Hanno Ackermann, Bodo Rosenhahn, Michael Yin
 year: 2021
 venue: "ICCV 2021"
 tags: [dynamic-scene-graph-generation, scene-graphs, video-understanding]
-url: ""
-pdf: "[[2021-spatial-temporal-transformer-dynamic-scene-graph.pdf]]"
+url: "https://arxiv.org/abs/2107.12309"
 date_ingested: 2026-06-18
 ---
 

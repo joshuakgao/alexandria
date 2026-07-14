@@ -5,7 +5,6 @@ year: 2023
 venue: "ISPRS Journal of Photogrammetry and Remote Sensing"
 tags: [construction-monitoring, change-detection, point-cloud-registration]
 url: ""
-pdf: "[[2023-change-detection-urban-objects-review.pdf]]"
 date_ingested: 2026-06-18
 ---
 

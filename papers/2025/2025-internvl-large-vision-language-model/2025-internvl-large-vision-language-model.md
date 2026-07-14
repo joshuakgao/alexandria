@@ -4,8 +4,7 @@ authors: [Zhe Chen, Jiannan Wu, Wenhai Wang, Weijie Su, Guo Chen, Sen Xing, Muya
 year: 2024
 venue: "CVPR 2025"
 tags: [vision-language-models]
-url: ""
-pdf: "[[2025-internvl-large-vision-language-model.pdf]]"
+url: "https://arxiv.org/abs/2312.14238"
 date_ingested: 2026-06-18
 ---
 

@@ -4,8 +4,7 @@ authors: [Guanjun Wu, Taoran Yi, Jiemin Fang, Lingxi Xie, Xiaopeng Zhang, Wei We
 year: 2024
 venue: "CVPR 2024"
 tags: [gaussian-splatting]
-url: ""
-pdf: "[[2024-4d-gaussian-splatting.pdf]]"
+url: "https://arxiv.org/abs/2310.08528"
 date_ingested: 2026-06-18
 ---
 

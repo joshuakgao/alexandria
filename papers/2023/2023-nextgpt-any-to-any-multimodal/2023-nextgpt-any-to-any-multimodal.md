@@ -3,9 +3,8 @@ title: "NExT-GPT: Any-to-Any Multimodal LLM"
 authors: [Shengqiong Wu, Hao Fei, Leigang Qu, Wei Ji, Tat-Seng Chua]
 year: 2023
 venue: "ICML 2024"
-tags: [vision-language-models, diffusion-models]
-url: ""
-pdf: "[[2023-nextgpt-any-to-any-multimodal.pdf]]"
+tags: [vision-language-models, image-video-generation]
+url: "https://arxiv.org/abs/2309.05519"
 date_ingested: 2026-06-18
 ---
 

@@ -4,8 +4,7 @@ authors: [Aniket Pramanick, Yufang Hou, Saif Mohammad, Iryna Gurevych]
 year: 2026
 venue: ""
 tags: [claim-relation-classification]
-url: ""
-pdf: "[[2026-claimflow-claim-relation-classification.pdf]]"
+url: "https://arxiv.org/abs/2603.16073"
 date_ingested: 2026-06-18
 ---
 

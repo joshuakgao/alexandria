@@ -4,8 +4,7 @@ authors: [Jianjie Fang, Zichao Dai, Ziyou Wang, Jirong Zha, Weichen Zhang, Chen 
 year: 2025
 venue: "ACL 2025"
 tags: [video-understanding, embodied-ai, spatial-reasoning, remote-sensing]
-url: ""
-pdf: "[[2025-urbanvideo-bench.pdf]]"
+url: "https://arxiv.org/abs/2503.06157"
 date_ingested: 2026-06-18
 ---
 

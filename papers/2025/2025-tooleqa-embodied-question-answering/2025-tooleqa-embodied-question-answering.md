@@ -4,8 +4,7 @@ authors: [Mingliang Zhai, Hansheng Liang, Xiaomeng Fan, Zhi Gao, Chuanhao Li, Ch
 year: 2025
 venue: ""
 tags: [agentic-mllms, embodied-ai, vision-language-models]
-url: ""
-pdf: "[[2025-tooleqa-embodied-question-answering.pdf]]"
+url: "https://arxiv.org/abs/2510.20310"
 date_ingested: 2026-06-18
 ---
 

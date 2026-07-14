@@ -4,8 +4,7 @@ authors: [Dominic Maggio, Luca Carlone]
 year: 2026
 venue: ""
 tags: [3d-scene-reconstruction, slam]
-url: ""
-pdf: "[[2026-vggt-slam-2.pdf]]"
+url: "https://arxiv.org/abs/2601.19887"
 date_ingested: 2026-06-18
 ---
 

@@ -3,9 +3,8 @@ title: "World Models"
 authors: [David Ha, Jürgen Schmidhuber]
 year: 2018
 venue: "NeurIPS 2018"
-tags: [world-models, reinforcement-learning, simulation-environments]
+tags: [world-models, reinforcement-learning]
 url: "https://arxiv.org/abs/1803.10122"
-pdf: "[[2018-world-models.pdf]]"
 date_ingested: 2026-06-24
 ---
 

@@ -4,8 +4,7 @@ authors: [Gabriele Berton, Carlo Masone]
 year: 2025
 venue: ""
 tags: [visual-localization]
-url: ""
-pdf: "[[2025-megaloc-one-retrieval-to-place-them-all.pdf]]"
+url: "https://arxiv.org/abs/2502.17237"
 date_ingested: 2026-06-18
 ---
 

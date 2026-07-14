@@ -1,22 +1,6 @@
-1. https://arxiv.org/pdf/2512.22830 scar-3d
-2. MindCube
-4. Theory of Space
-5. SPACE
-6. SpaceOm
-7. Spacethinker
-8. CLEVR
-9. VSI-Bench
-10. SpaCE-10
-11. SPHERE
-12. 3DSR-Bench
-13. BLINK
-14. ViewSpatial-Bench
-15. MulSeT
-16. 3D-PC
-17. OmniSpatial
-18. SpatialReasoner
-19. SSR
-20. APC
-21. MetaSpatial
-22. SpatialVLM
-23. SVQA-R1
+
+2. https://arxiv.org/pdf/2507.05244 TALENTS
+3. https://arxiv.org/pdf/2411.13934 GAMMA
+4. https://arxiv.org/pdf/2602.22208 Solaris
+6. https://arxiv.org/pdf/2404.10775 COMBO
+7. https://arxiv.org/pdf/2412.05255 TeamCraft

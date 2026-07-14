@@ -4,8 +4,7 @@ authors: [Linyi Jin, Jianming Zhang, Yannick Hold-Geoffroy, Oliver Wang, Kevin B
 year: 2023
 venue: "CVPR 2023"
 tags: [camera-calibration]
-url: ""
-pdf: "[[2023-perspective-fields.pdf]]"
+url: "https://arxiv.org/abs/2212.03239"
 date_ingested: 2026-06-18
 ---
 

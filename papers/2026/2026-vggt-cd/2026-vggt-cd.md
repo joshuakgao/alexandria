@@ -4,8 +4,7 @@ authors: [Wei Zhang, Songhua Li]
 year: 2026
 venue: ""
 tags: [change-detection, point-cloud-registration]
-url: ""
-pdf: "[[2026-vggt-cd.pdf]]"
+url: "https://arxiv.org/abs/2605.16859"
 date_ingested: 2026-06-18
 ---
 

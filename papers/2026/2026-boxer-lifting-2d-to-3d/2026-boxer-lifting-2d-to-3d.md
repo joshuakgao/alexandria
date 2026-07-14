@@ -4,8 +4,7 @@ authors: [Daniel DeTone, Wei-Chiu Shen, Zander Zhang, Fangyin Ma, Julian Straub,
 year: 2026
 venue: ""
 tags: [3d-scene-understanding]
-url: ""
-pdf: "[[2026-boxer-lifting-2d-to-3d.pdf]]"
+url: "https://arxiv.org/abs/2604.05212"
 date_ingested: 2026-06-18
 ---
 

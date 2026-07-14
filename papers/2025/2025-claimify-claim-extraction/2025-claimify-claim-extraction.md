@@ -4,8 +4,7 @@ authors: [Dasha Metropolitansky, Jonathan Larson]
 year: 2025
 venue: "ACL 2025"
 tags: [claim-extraction, vision-language-models]
-url: ""
-pdf: "[[2025-claimify-claim-extraction.pdf]]"
+url: "https://arxiv.org/abs/2502.10855"
 date_ingested: 2026-06-18
 ---
 

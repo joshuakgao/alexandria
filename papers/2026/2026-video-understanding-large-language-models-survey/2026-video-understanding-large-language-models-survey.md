@@ -4,8 +4,7 @@ authors: [Yunlong Tang, Jing Bi, Siting Xu, Luchuan Song, Susan Liang, Teng Wang
 year: 2026
 venue: "IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)"
 tags: [video-understanding, vision-language-models]
-url: ""
-pdf: "[[2026-video-understanding-large-language-models-survey.pdf]]"
+url: "https://arxiv.org/abs/2312.17432"
 date_ingested: 2026-06-18
 ---
 

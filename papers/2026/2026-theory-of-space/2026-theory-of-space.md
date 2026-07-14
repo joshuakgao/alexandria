@@ -3,9 +3,8 @@ title: "Theory of Space: Can Foundation Models Construct Spatial Beliefs through
 authors: [Pingyue Zhang, Zihan Huang, Yue Wang, Jieyu Zhang, Letian Xue, Zihan Wang, Qineng Wang, Keshigeyan Chandrasegaran, Ruohan Zhang, Yejin Choi, Ranjay Krishna, Jiajun Wu, Li Fei-Fei, Manling Li]
 year: 2026
 venue: "ICLR 2026"
-tags: [spatial-reasoning, embodied-ai, vision-language-models, simulation-environments]
+tags: [spatial-reasoning, embodied-ai, vision-language-models]
 url: "https://openreview.net/forum?id=8iPwqr6Adk"
-pdf: "[[2026-theory-of-space.pdf]]"
 date_ingested: 2026-06-19
 ---
 

@@ -4,8 +4,7 @@ authors: [Sheng Liu, Haotian Ye, Lei Xing, James Zou]
 year: 2024
 venue: "EMNLP 2025"
 tags: [vision-language-models]
-url: ""
-pdf: "[[2025-latent-space-steering-reduce-hallucinations.pdf]]"
+url: "https://arxiv.org/abs/2410.15778"
 date_ingested: 2026-06-18
 ---
 

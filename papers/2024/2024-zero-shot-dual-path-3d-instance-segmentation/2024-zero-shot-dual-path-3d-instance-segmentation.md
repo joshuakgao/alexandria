@@ -4,8 +4,7 @@ authors: [Tri Ton, Ji Woo Hong, SooHwan Eom, Jun Yeop Shim, Junyeong Kim, Chang 
 year: 2024
 venue: "CVPR 2024 Workshop"
 tags: [3d-scene-understanding, segmentation]
-url: ""
-pdf: "[[2024-zero-shot-dual-path-3d-instance-segmentation.pdf]]"
+url: "https://arxiv.org/abs/2408.08591"
 date_ingested: 2026-06-18
 ---
 

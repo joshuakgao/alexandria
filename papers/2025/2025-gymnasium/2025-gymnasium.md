@@ -3,9 +3,8 @@ title: "Gymnasium: A Standard Interface for Reinforcement Learning Environments"
 authors: [Mark Towers, Ariel Kwiatkowski, Jordan Terry, John U. Balis, Gianluca De Cola, Tristan Deleu, Manuel Goulão, Andreas Kallinteris, Markus Krimmel, Arjun KG, Rodrigo Perez-Vicente, Andrea Pierré, Sander Schulhoff, Jun Jet Tai, Hannah Tan, Omar G. Younis]
 year: 2025
 venue: "NeurIPS 2025"
-tags: [simulation-environments, reinforcement-learning]
+tags: [reinforcement-learning]
 url: "https://arxiv.org/abs/2407.17032"
-pdf: "[[2025-gymnasium.pdf]]"
 date_ingested: 2026-06-18
 ---
 

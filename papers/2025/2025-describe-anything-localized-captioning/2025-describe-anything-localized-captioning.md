@@ -4,8 +4,7 @@ authors: [Long Lian, Yifan Ding, Ming-Yu Liu, Trevor Darrell]
 year: 2025
 venue: "ICCV 2025"
 tags: [vision-language-models, image-captioning, video-understanding]
-url: ""
-pdf: "[[2025-describe-anything-localized-captioning.pdf]]"
+url: "https://arxiv.org/abs/2504.16072"
 date_ingested: 2026-06-18
 ---
 

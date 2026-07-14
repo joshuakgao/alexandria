@@ -4,8 +4,7 @@ authors: [Omkar Thawakar, Dinura Dissanayake, Ketan More, Ritesh Thawkar, Ahmed 
 year: 2025
 venue: "ACL 2025"
 tags: [vision-language-models, agentic-mllms]
-url: ""
-pdf: "[[2025-llamav-o1-step-by-step-reasoning.pdf]]"
+url: "https://arxiv.org/abs/2501.06186"
 date_ingested: 2026-06-18
 ---
 

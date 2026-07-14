@@ -4,8 +4,7 @@ authors: [Zhizhong Huang, Xiaoming Liu]
 year: 2025
 venue: "ICCV 2025"
 tags: [re-id]
-url: ""
-pdf: "[[2025-vicp-generalizable-object-reid.pdf]]"
+url: "https://arxiv.org/abs/2508.21222"
 date_ingested: 2026-06-18
 ---
 

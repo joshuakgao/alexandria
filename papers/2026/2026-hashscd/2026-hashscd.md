@@ -5,7 +5,6 @@ year: 2026
 venue: ""
 tags: [change-detection]
 url: ""
-pdf: "[[2026-hashscd.pdf]]"
 date_ingested: 2026-06-18
 ---
 

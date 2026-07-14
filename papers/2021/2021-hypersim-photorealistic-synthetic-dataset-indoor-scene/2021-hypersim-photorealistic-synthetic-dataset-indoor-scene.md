@@ -4,8 +4,7 @@ authors: [Mike Roberts, Jason Ramapuram, Anurag Ranjan, Atulit Kumar, Miguel Ang
 year: 2021
 venue: "ICCV 2021"
 tags: [synthetic-datasets, 3d-scene-understanding]
-url: ""
-pdf: "[[2021-hypersim-photorealistic-synthetic-dataset-indoor-scene.pdf]]"
+url: "https://arxiv.org/abs/2011.02523"
 date_ingested: 2026-06-18
 ---
 

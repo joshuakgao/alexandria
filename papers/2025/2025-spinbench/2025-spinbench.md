@@ -5,7 +5,6 @@ year: 2025
 venue: "ICLR 2026"
 tags: [spatial-reasoning, vision-language-models, cognitive-ai]
 url: "https://arxiv.org/abs/2509.25390"
-pdf: "[[2025-spinbench.pdf]]"
 date_ingested: 2026-06-24
 ---
 

@@ -5,7 +5,6 @@ year: 2025
 venue: "IC2NC 2025 (IEEE International Conference on NexGen Networks and Cybernetics)"
 tags: [sports-analytics]
 url: ""
-pdf: "[[2025-realtime-volleyball-movement-classification-lda.pdf]]"
 date_ingested: 2026-06-18
 ---
 

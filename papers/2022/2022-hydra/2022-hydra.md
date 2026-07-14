@@ -4,8 +4,7 @@ authors: [Nathan Hughes, Yun Chang, Luca Carlone]
 year: 2022
 venue: "RSS 2022"
 tags: [scene-graphs, slam]
-url: ""
-pdf: "[[2022-hydra.pdf]]"
+url: "https://arxiv.org/abs/2201.13360"
 date_ingested: 2026-06-18
 ---
 

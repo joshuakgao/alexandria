@@ -5,7 +5,6 @@ year: 2021
 venue: "NeurIPS 2021"
 tags: [segmentation]
 url: "https://arxiv.org/abs/2105.15203"
-pdf: "[[2021-segformer.pdf]]"
 date_ingested: 2026-06-18
 ---
 

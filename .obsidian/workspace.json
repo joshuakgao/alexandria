@@ -4,24 +4,82 @@
     "type": "split",
     "children": [
       {
-        "id": "5d7be22f4fc341b6",
-        "type": "tabs",
+        "id": "167ef1fb5af668ef",
+        "type": "split",
         "children": [
           {
-            "id": "58a6a8af7762e822",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "papers/2025/2025-flashdepth/2025-flashdepth.md",
-                "mode": "source",
-                "source": false
+            "id": "480a37e4865127b5",
+            "type": "tabs",
+            "dimension": 29.88929889298893,
+            "children": [
+              {
+                "id": "98c03d039a89ebe0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "inbox.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "inbox"
+                }
+              }
+            ]
+          },
+          {
+            "id": "356af5a4450e590a",
+            "type": "tabs",
+            "dimension": 70.11070110701108,
+            "children": [
+              {
+                "id": "dc5e6c8076a393da",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "papers/2024/2024-sima/2024-sima.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2024-sima"
+                }
               },
-              "icon": "lucide-file",
-              "title": "2025-flashdepth"
-            }
+              {
+                "id": "731fa6cb04337e2f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "papers/2026/2026-memory-over-maps/2026-memory-over-maps.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2026-memory-over-maps"
+                }
+              },
+              {
+                "id": "44568f85cdc3b4fb",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "papers/2026/2026-espire/2026-espire.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2026-espire"
+                }
+              }
+            ],
+            "currentTab": 2
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -186,7 +244,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -205,53 +263,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "58a6a8af7762e822",
+  "active": "0ea6d65034813b20",
   "lastOpenFiles": [
-    "inbox.md",
-    "papers/2025/2025-flashdepth/2025-flashdepth.md",
-    "papers/2025/2025-flashdepth/2025-flashdepth-thumbnail.png",
-    "papers/2025/2025-flashdepth/2025-flashdepth.pdf",
-    "papers/2025/2025-flashdepth",
-    "papers/2025/2025-uncertainty-aware-jersey-number/2025-uncertainty-aware-jersey-number-thumbnail.png",
-    "papers/2025/2025-uncertainty-aware-jersey-number/2025-uncertainty-aware-jersey-number.md",
-    "papers/2025/2025-uncertainty-aware-jersey-number/2025-uncertainty-aware-jersey-number.pdf",
-    "papers/2025/2025-uncertainty-aware-jersey-number",
-    "papers/2019/2019-pose-guided-rcnn-jersey-number/2019-pose-guided-rcnn-jersey-number.md",
-    "papers/2019/2019-pose-guided-rcnn-jersey-number/2019-pose-guided-rcnn-jersey-number-thumbnail.png",
-    "papers/2019/2019-pose-guided-rcnn-jersey-number/2019-pose-guided-rcnn-jersey-number.pdf",
-    "papers/2019/2019-pose-guided-rcnn-jersey-number",
-    "papers/2024/2024-jersey-number-recognition/2024-jersey-number-recognition.md",
-    "papers/2024/2024-jersey-number-recognition/2024-jersey-number-recognition-thumbnail.png",
-    "papers/2024/2024-jersey-number-recognition/2024-jersey-number-recognition.pdf",
-    "papers/2024/2024-jersey-number-recognition",
-    "CLAUDE.md",
-    "README.md",
-    "papers/2018/2018-world-models/2018-world-models.md",
-    "papers/2018/2018-world-models/2018-world-models-thumbnail.png",
-    "papers/2018/2018-world-models/2018-world-models.pdf",
-    "papers/2018/2018-world-models",
-    "papers/2025/2025-spinbench/2025-spinbench.md",
-    "papers/2025/2025-spinbench/2025-spinbench-thumbnail.png",
+    "topics/vision-language-action.md",
+    "papers/2025/2025-dexvla-vision-language-diffusion-expert/2025-dexvla-vision-language-diffusion-expert.md",
+    "papers/2025/2025-dexvla-vision-language-diffusion-expert/2025-dexvla-vision-language-diffusion-expert-thumbnail.png",
+    "papers/2025/2025-dexvla-vision-language-diffusion-expert",
+    "papers/2026/2026-espire/2026-espire.md",
+    "papers/2026/2026-deltatok/2026-deltatok.md",
     "papers/2025/2025-3dgs-cd/2025-3dgs-cd.md",
-    "topics/change-detection.md",
-    "papers/2026/2026-quantiphy/2026-quantiphy.md",
+    "papers/2026/2026-memory-over-maps/2026-memory-over-maps.md",
+    "papers/2026/2026-chamelion/2026-chamelion.md",
+    "topics/slam.md",
+    "papers/2025/2025-unseen-visual-anomaly-generation/2025-unseen-visual-anomaly-generation.md",
+    "topics/synthetic-datasets.md",
+    "papers/2026/2026-scenetok/2026-scenetok.md",
     "topics/world-models.md",
-    "papers/2026/2026-mirage-illusion-visual-understanding/2026-mirage-illusion-visual-understanding.md",
-    "papers/2026/2026-nitrogen/2026-nitrogen.md",
-    "topics/physical-reasoning.md",
-    "papers/2026/2026-quantiphy/2026-quantiphy-thumbnail.png",
-    "topics/medical-ai.md",
-    "papers/2026/2026-mirage-illusion-visual-understanding/2026-mirage-illusion-visual-understanding-thumbnail.png",
-    "topics/embodied-ai.md",
     "papers/2026/2026-pointworld/2026-pointworld.md",
-    "papers/2026/2026-pointworld/2026-pointworld-thumbnail.png",
-    "papers/2026/2026-theory-of-space/2026-theory-of-space.md",
-    "papers/2026/2026-theory-of-space/2026-theory-of-space-thumbnail.png",
-    "ideas/Trajectory Based Spatial Reasoning.md",
-    "papers/2021/2021-segformer/2021-segformer.md",
-    "topics/reinforcement-learning.md",
-    "topics/simulation-environments.md",
-    "papers/2025/2025-gymnasium/2025-gymnasium.md",
-    "papers/2026/2026-deltatok/2026-deltatok.md"
+    "papers/2026/2026-babyzwm-zero-shot-world-models/2026-babyzwm-zero-shot-world-models.md",
+    "topics/spatial-reasoning.md",
+    "papers/2024/2024-v-jepa/2024-v-jepa-thumbnail.png",
+    "papers/2024/2024-v-jepa/2024-v-jepa.md",
+    "papers/2024/2024-snapmem/2024-snapmem.md",
+    "papers/2024/2024-videochat/2024-videochat.md",
+    "CLAUDE.md",
+    "papers/2021/2021-mindcraft-theory-of-mind-situated-dialogue/2021-mindcraft-theory-of-mind-situated-dialogue.md",
+    "papers/2024/2024-proagent-proactive-cooperative-agents-llms/2024-proagent-proactive-cooperative-agents-llms.md",
+    "papers/2024/2024-proagent-proactive-cooperative-agents-llms/2024-proagent-proactive-cooperative-agents-llms.pdf",
+    "papers/2024/2024-proagent-proactive-cooperative-agents-llms/2024-proagent-proactive-cooperative-agents-llms-thumbnail.png",
+    "papers/2024/2024-proagent-proactive-cooperative-agents-llms",
+    "topics/multi-agent.md",
+    "inbox.md",
+    "papers/2024/2024-complexity-theory-of-mind-discrete-world-models/2024-complexity-theory-of-mind-discrete-world-models.md",
+    "papers/2024/2024-complexity-theory-of-mind-discrete-world-models/2024-complexity-theory-of-mind-discrete-world-models.pdf",
+    "papers/2024/2024-complexity-theory-of-mind-discrete-world-models/2024-complexity-theory-of-mind-discrete-world-models-thumbnail.png",
+    "papers/2024/2024-complexity-theory-of-mind-discrete-world-models",
+    "papers/2024/2024-embodied-llm-agents-organized-teams/2024-embodied-llm-agents-organized-teams.md",
+    "papers/2024/2024-embodied-llm-agents-organized-teams/2024-embodied-llm-agents-organized-teams.pdf",
+    "papers/2024/2024-embodied-llm-agents-organized-teams/2024-embodied-llm-agents-organized-teams-thumbnail.png",
+    "papers/2024/2024-embodied-llm-agents-organized-teams",
+    "papers/2023/2023-tom-multi-agent-collaboration-llms/2023-tom-multi-agent-collaboration-llms.md",
+    "papers/2023/2023-tom-multi-agent-collaboration-llms/2023-tom-multi-agent-collaboration-llms.pdf",
+    "papers/2023/2023-tom-multi-agent-collaboration-llms/2023-tom-multi-agent-collaboration-llms-thumbnail.png",
+    "papers/2023/2023-tom-multi-agent-collaboration-llms",
+    "papers/2021/2021-mindcraft-theory-of-mind-situated-dialogue/2021-mindcraft-theory-of-mind-situated-dialogue-thumbnail.png",
+    "papers/2021/2021-mindcraft-theory-of-mind-situated-dialogue/2021-mindcraft-theory-of-mind-situated-dialogue.pdf",
+    "papers/2018/2018-machine-theory-of-mind/2018-machine-theory-of-mind-thumbnail.png",
+    "papers/2025/2025-dreamgen/2025-dreamgen-thumbnail.png",
+    "papers/2026/2026-multigen-multiplayer-diffusion-game-engines/2026-multigen-multiplayer-diffusion-game-engines-thumbnail.png"
   ]
 }

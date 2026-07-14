@@ -4,8 +4,7 @@ authors: [Jae-Woo Kim, South Korea]
 year: 2024
 venue: "CVPR 2025"
 tags: [change-detection, segmentation]
-url: ""
-pdf: "[[2024-towards-generalizable-scene-change-detection.pdf]]"
+url: "https://arxiv.org/abs/2409.06214"
 date_ingested: 2026-06-18
 ---
 

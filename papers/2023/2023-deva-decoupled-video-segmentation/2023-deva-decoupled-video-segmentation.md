@@ -4,8 +4,7 @@ authors: [Ho Kei Cheng, Seoung Wug Oh, Brian Price, Alexander Schwing, Joon-Youn
 year: 2023
 venue: "ICCV 2023"
 tags: [segmentation, video-understanding]
-url: ""
-pdf: "[[2023-deva-decoupled-video-segmentation.pdf]]"
+url: "https://arxiv.org/abs/2309.03903"
 date_ingested: 2026-06-18
 ---
 

@@ -4,8 +4,7 @@ authors: [Yongsen Mao, Junhao Zhong, Chuan Fang, Jia Zheng, Rui Tang, Hao Zhu, P
 year: 2025
 venue: "NeurIPS 2025"
 tags: [3d-scene-understanding, vision-language-models, floorplan-reconstruction, spatial-reasoning]
-url: ""
-pdf: "[[2025-spatiallm-structured-indoor-modeling.pdf]]"
+url: "https://arxiv.org/abs/2506.07491"
 date_ingested: 2026-06-18
 ---
 

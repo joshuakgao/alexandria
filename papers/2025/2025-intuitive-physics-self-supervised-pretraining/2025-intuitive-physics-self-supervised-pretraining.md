@@ -4,8 +4,7 @@ authors: [Nicolas Ballas, Mahmoud Assran, Adrien Bardes, Laurent Najman, Michael
 year: 2025
 venue: ""
 tags: [world-models]
-url: ""
-pdf: "[[2025-intuitive-physics-self-supervised-pretraining.pdf]]"
+url: "https://arxiv.org/abs/2502.11831"
 date_ingested: 2026-06-18
 ---
 

@@ -5,7 +5,6 @@ year: 2021
 venue: "ICCV"
 tags: [embodied-ai, video-understanding]
 url: ""
-pdf: "[[2021-env-qa.pdf]]"
 date_ingested: 2026-06-18
 ---
 

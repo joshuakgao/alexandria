@@ -4,8 +4,7 @@ authors: [Chamuditha Jayanga Galappaththige, Jason Lai Lloyd Windrim, Donald Dan
 year: 2026
 venue: "CVPR 2026"
 tags: [change-detection, gaussian-splatting]
-url: ""
-pdf: "[[2026-online-scd-multiview-fusion.pdf]]"
+url: "https://arxiv.org/abs/2511.12370"
 date_ingested: 2026-06-18
 ---
 

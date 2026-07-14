@@ -4,8 +4,7 @@ authors: [Kaiyu Li, Xiangyong Cao, Yupeng Deng, Chao Pang, Zepeng Xin, Deyu Meng
 year: 2025
 venue: "AAAI 2026"
 tags: [change-detection, remote-sensing, vision-language-models]
-url: ""
-pdf: "[[2025-dynamicearth-open-vocabulary-change-detection.pdf]]"
+url: "https://arxiv.org/abs/2501.12931"
 date_ingested: 2026-06-18
 ---
 

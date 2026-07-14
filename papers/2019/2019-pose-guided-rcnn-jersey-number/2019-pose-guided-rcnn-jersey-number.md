@@ -4,8 +4,7 @@ authors: [Hengyue Liu, Bir Bhanu]
 year: 2019
 venue: "CVPRW 2019"
 tags: [sports-analytics, re-id]
-url: "https://openaccess.thecvf.com/content_CVPRW_2019/papers/CVSports/Liu_Pose-Guided_R-CNN_for_Jersey_Number_Recognition_in_Sports_CVPRW_2019_paper.pdf"
-pdf: "[[2019-pose-guided-rcnn-jersey-number.pdf]]"
+url: "https://openaccess.thecvf.com/content_CVPRW_2019/html/CVSports/Liu_Pose-Guided_R-CNN_for_Jersey_Number_Recognition_in_Sports_CVPRW_2019_paper.html"
 date_ingested: 2026-06-25
 ---
 

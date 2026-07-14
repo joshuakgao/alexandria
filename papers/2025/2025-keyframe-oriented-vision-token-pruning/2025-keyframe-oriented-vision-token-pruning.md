@@ -4,8 +4,7 @@ authors: [Yudong Liu, Jingwei Sun, Yueqian Lin, Jianyi Zhang, Ming Yin, Qinsi Wa
 year: 2025
 venue: "ICCV 2025"
 tags: [video-understanding, vision-language-models]
-url: ""
-pdf: "[[2025-keyframe-oriented-vision-token-pruning.pdf]]"
+url: "https://arxiv.org/abs/2503.10742"
 date_ingested: 2026-06-18
 ---
 

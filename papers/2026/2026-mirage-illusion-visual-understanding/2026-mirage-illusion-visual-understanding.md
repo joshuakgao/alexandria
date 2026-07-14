@@ -5,7 +5,6 @@ year: 2026
 venue: ""
 tags: [vision-language-models, medical-ai]
 url: "https://arxiv.org/abs/2603.21687"
-pdf: "[[2026-mirage-illusion-visual-understanding.pdf]]"
 date_ingested: 2026-06-20
 ---
 

@@ -4,8 +4,7 @@ authors: [Zhijie Yan, Shufei Li, Zuoxu Wang, Lixiu Wu, Han Wang, Jun Zhu, Lijian
 year: 2025
 venue: "IEEE RA-L"
 tags: [embodied-ai, scene-graphs]
-url: ""
-pdf: "[[2025-dovsg.pdf]]"
+url: "https://arxiv.org/abs/2410.11989"
 date_ingested: 2026-06-18
 ---
 

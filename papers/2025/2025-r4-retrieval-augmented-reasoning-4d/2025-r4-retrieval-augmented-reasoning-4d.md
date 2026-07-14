@@ -4,8 +4,7 @@ authors: [Kihyun Sohn, Kurt Dillitzer, Jason Corso, Alexander Sax]
 year: 2025
 venue: ""
 tags: [embodied-ai, vision-language-models, slam]
-url: ""
-pdf: "[[2025-r4-retrieval-augmented-reasoning-4d.pdf]]"
+url: "https://arxiv.org/abs/2512.15940"
 date_ingested: 2026-06-18
 ---
 

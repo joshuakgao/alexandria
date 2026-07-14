@@ -5,7 +5,6 @@ year: 2022
 venue: "Automation in Construction"
 tags: [construction-monitoring, change-detection, segmentation, remote-sensing]
 url: ""
-pdf: "[[2022-semantics-aided-3d-change-detection-construction.pdf]]"
 date_ingested: 2026-06-18
 ---
 

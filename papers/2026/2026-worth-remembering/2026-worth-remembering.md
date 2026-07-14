@@ -4,8 +4,7 @@ authors: [Nicolas Gorlo, Derek Wise, Alberto Speranzon, Luca Carlone]
 year: 2026
 venue: ""
 tags: [embodied-ai, scene-graphs]
-url: ""
-pdf: "[[2026-worth-remembering.pdf]]"
+url: "https://arxiv.org/abs/2606.03787"
 date_ingested: 2026-06-18
 ---
 

@@ -5,7 +5,6 @@ year: 2022
 venue: "Biosensors"
 tags: [sports-analytics]
 url: ""
-pdf: "[[2022-self-powered-wearable-motion-sensor-volleyball.pdf]]"
 date_ingested: 2026-06-18
 ---
 

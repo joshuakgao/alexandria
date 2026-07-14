@@ -4,8 +4,7 @@ authors: [Hyungtae Jang, Jaehyun Lee, Deva Nahrendra, Hyun Myung]
 year: 2026
 venue: "RA-L 2026"
 tags: [change-detection, 3d-scene-understanding, autonomous-vehicles]
-url: ""
-pdf: "[[2026-chamelion.pdf]]"
+url: "https://arxiv.org/abs/2602.08189"
 date_ingested: 2026-06-18
 ---
 

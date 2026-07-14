@@ -4,8 +4,7 @@ authors: [Zewen Chen, Juan Wang, Wen Wang, Sunhan Xu, Hang Xiong, Yun Zeng]
 year: 2024
 venue: ""
 tags: [vision-language-models]
-url: ""
-pdf: "[[2024-seagull-image-quality-assessment-roi.pdf]]"
+url: "https://arxiv.org/abs/2411.10161"
 date_ingested: 2026-06-18
 ---
 

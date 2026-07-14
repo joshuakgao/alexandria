@@ -4,8 +4,7 @@ authors: [Zhe Han, Ziyi Zhang, Shuhao Zhang]
 year: 2023
 venue: ""
 tags: [vision-language-models]
-url: ""
-pdf: "[[2023-imagebind-llm-multimodality-instruction-tuning.pdf]]"
+url: "https://arxiv.org/abs/2309.03905"
 date_ingested: 2026-06-18
 ---
 

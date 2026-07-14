@@ -4,8 +4,7 @@ authors: [Yangming Cheng, Liulei Li, Yuanyou Xu, Xiaodi Li, Yi Yang]
 year: 2023
 venue: ""
 tags: [segmentation, vision-language-models]
-url: ""
-pdf: "[[2023-samtrack-segment-track-anything.pdf]]"
+url: "https://arxiv.org/abs/2305.06558"
 date_ingested: 2026-06-18
 ---
 

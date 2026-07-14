@@ -4,8 +4,7 @@ authors: [Jingyi Zhang, Jiaxing Huang, Sheng Jin, Shijian Lu]
 year: 2023
 venue: "IEEE TPAMI"
 tags: [vision-language-models]
-url: ""
-pdf: "[[2023-vision-language-models-vision-tasks-survey.pdf]]"
+url: "https://arxiv.org/abs/2304.00685"
 date_ingested: 2026-06-18
 ---
 

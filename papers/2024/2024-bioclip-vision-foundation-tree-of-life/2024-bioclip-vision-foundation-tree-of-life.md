@@ -4,8 +4,7 @@ authors: [Samuel Stevens, Jiaman Wu, Matthew Thompson, Elizabeth Campolongo, Cha
 year: 2024
 venue: "CVPR 2024"
 tags: [vision-language-models]
-url: ""
-pdf: "[[2024-bioclip-vision-foundation-tree-of-life.pdf]]"
+url: "https://arxiv.org/abs/2311.18803"
 date_ingested: 2026-06-18
 ---
 

@@ -4,8 +4,7 @@ authors: [Christoph Feichtenhofer, Haoqi Fan, Jitendra Malik, Kaiming He]
 year: 2019
 venue: "ICCV 2019"
 tags: [video-understanding]
-url: ""
-pdf: "[[2019-slowfast-networks.pdf]]"
+url: "https://arxiv.org/abs/1812.03982"
 date_ingested: 2026-06-18
 ---
 

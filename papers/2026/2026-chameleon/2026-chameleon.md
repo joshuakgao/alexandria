@@ -4,8 +4,7 @@ authors: [Robotic Manipulation Xinying Guo, Chenxi Jiang, Hyun Bin Kim, Ying Sun
 year: 2026
 venue: ""
 tags: [embodied-ai]
-url: ""
-pdf: "[[2026-chameleon.pdf]]"
+url: "https://arxiv.org/abs/2603.24576"
 date_ingested: 2026-06-18
 ---
 

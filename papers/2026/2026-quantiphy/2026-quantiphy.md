@@ -5,7 +5,6 @@ year: 2026
 venue: "CVPR 2026"
 tags: [vision-language-models, spatial-reasoning, physical-reasoning]
 url: "https://arxiv.org/abs/2506.quantiphy"
-pdf: "[[2026-quantiphy.pdf]]"
 date_ingested: 2026-06-20
 ---
 

@@ -4,8 +4,7 @@ authors: [Lukasz Grad]
 year: 2025
 venue: "CVPRW 2025"
 tags: [sports-analytics, re-id]
-url: "https://openaccess.thecvf.com/content/CVPR2025W/CVSPORTS/papers/Grad_Single-Stage_Uncertainty-Aware_Jersey_Number_Recognition_in_Soccer_CVPRW_2025_paper.pdf"
-pdf: "[[2025-uncertainty-aware-jersey-number.pdf]]"
+url: "https://openaccess.thecvf.com/content/CVPR2025W/CVSPORTS/html/Grad_Single-Stage_Uncertainty-Aware_Jersey_Number_Recognition_in_Soccer_CVPRW_2025_paper.html"
 date_ingested: 2026-06-25
 ---
 

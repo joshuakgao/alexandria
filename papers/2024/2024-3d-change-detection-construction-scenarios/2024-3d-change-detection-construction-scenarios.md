@@ -5,7 +5,6 @@ year: 2024
 venue: "ISPRS Annals 2024"
 tags: [construction-monitoring, change-detection, point-cloud-registration]
 url: ""
-pdf: "[[2024-3d-change-detection-construction-scenarios.pdf]]"
 date_ingested: 2026-06-18
 ---
 

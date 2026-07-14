@@ -4,8 +4,7 @@ authors: [Ron Mokady, Amir Hertz, Amit Bermano]
 year: 2021
 venue: ""
 tags: [vision-language-models, image-captioning, vision-backbone]
-url: ""
-pdf: "[[2021-clipcap-clip-prefix-image-captioning.pdf]]"
+url: "https://arxiv.org/abs/2111.09734"
 date_ingested: 2026-06-18
 ---
 

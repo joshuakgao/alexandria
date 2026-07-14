@@ -4,8 +4,7 @@ authors: [Rohit Girdhar, Alaaeldin El-Nouby, Mannat Singh, Kalyan Vasudev Alwala
 year: 2023
 venue: "CVPR 2023"
 tags: [vision-language-models]
-url: ""
-pdf: "[[2023-imagebind-one-embedding-space.pdf]]"
+url: "https://arxiv.org/abs/2305.05665"
 date_ingested: 2026-06-18
 ---
 

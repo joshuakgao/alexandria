@@ -4,8 +4,7 @@ authors: [Zongbo Han, Zechen Bai, Haiyang Mei, Qianli Xu, Changqing Zhang, Mike 
 year: 2024
 venue: ""
 tags: [vision-language-models]
-url: ""
-pdf: "[[2025-skip-newline-reduce-hallucination.pdf]]"
+url: "https://arxiv.org/abs/2402.01345"
 date_ingested: 2026-06-18
 ---
 

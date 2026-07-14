@@ -4,8 +4,7 @@ authors: [Youcai Zhang, Xinyu Huang, Jinyu Ma, Zhaoyang Li, Zhaochuan Luo, Yanch
 year: 2023
 venue: "CVPR 2024 Workshop"
 tags: [vision-language-models, image-captioning]
-url: ""
-pdf: "[[2023-recognize-anything.pdf]]"
+url: "https://arxiv.org/abs/2306.03514"
 date_ingested: 2026-06-18
 ---
 

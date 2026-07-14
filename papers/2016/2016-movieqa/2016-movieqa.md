@@ -4,8 +4,7 @@ authors: [Makarand Tapaswi, Yukun Zhu, Rainer Stiefelhagen Antonio Torralba, Raq
 year: 2016
 venue: "CVPR 2016"
 tags: [video-understanding, vision-language-models]
-url: ""
-pdf: "[[2016-movieqa.pdf]]"
+url: "https://arxiv.org/abs/1512.02902"
 date_ingested: 2026-06-18
 ---
 

@@ -3,9 +3,8 @@ title: "GenArtist: Multimodal LLM as an Agent for Unified Image Generation and E
 authors: [Zhenyu Wang, Aoxue Li, Zhenguo Li, Xihui Liu]
 year: 2024
 venue: "NeurIPS 2024"
-tags: [vision-language-models, image-generation, agentic-mllms]
-url: ""
-pdf: "[[2024-genartist-multimodal-llm-generation-editing.pdf]]"
+tags: [vision-language-models, image-video-generation, agentic-mllms]
+url: "https://arxiv.org/abs/2407.05600"
 date_ingested: 2026-06-18
 ---
 

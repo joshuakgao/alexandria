@@ -5,7 +5,6 @@ year: 2025
 venue: "CVPR 2025"
 tags: [depth-estimation]
 url: "https://arxiv.org/abs/2504.07093"
-pdf: "[[2025-flashdepth.pdf]]"
 date_ingested: 2026-06-25
 ---
 

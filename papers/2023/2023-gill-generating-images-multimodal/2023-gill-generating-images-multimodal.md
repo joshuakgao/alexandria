@@ -3,9 +3,8 @@ title: "Generating Images with Multimodal Language Models"
 authors: [Jing Yu Koh, Daniel Fried, Ruslan Salakhutdinov]
 year: 2023
 venue: "NeurIPS 2023"
-tags: [vision-language-models, image-generation]
-url: ""
-pdf: "[[2023-gill-generating-images-multimodal.pdf]]"
+tags: [vision-language-models, image-video-generation]
+url: "https://arxiv.org/abs/2305.17216"
 date_ingested: 2026-06-18
 ---
 

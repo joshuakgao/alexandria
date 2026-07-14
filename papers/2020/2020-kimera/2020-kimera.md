@@ -4,8 +4,7 @@ authors: [Antoni Rosinol, Marcus Abate, Yun Chang, Luca Carlone]
 year: 2020
 venue: "ICRA 2020"
 tags: [embodied-ai, slam, 3d-scene-reconstruction]
-url: ""
-pdf: "[[2020-kimera.pdf]]"
+url: "https://arxiv.org/abs/1910.02490"
 date_ingested: 2026-06-18
 ---
 

@@ -4,8 +4,7 @@ authors: [Subin Varghese, Joshua Gao, Vedhus Hoskere]
 year: 2025
 venue: ""
 tags: [change-detection, synthetic-datasets]
-url: ""
-pdf: "[[2025-viewdelta.pdf]]"
+url: "https://arxiv.org/abs/2412.07612"
 date_ingested: 2026-06-18
 ---
 

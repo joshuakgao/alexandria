@@ -4,8 +4,7 @@ authors: [Priyanka Udugama, George Vosselman, Francesco Nex]
 year: 2024
 venue: "ISPRS Geospatial Week 2023"
 tags: [embodied-ai, scene-graphs, slam, depth-estimation]
-url: ""
-pdf: "[[2024-mono-hydra.pdf]]"
+url: "https://arxiv.org/abs/2308.05515"
 date_ingested: 2026-06-18
 ---
 

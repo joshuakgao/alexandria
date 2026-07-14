@@ -5,7 +5,6 @@ year: 2026
 venue: "CVPR 2026"
 tags: [agentic-mllms, world-models, embodied-ai]
 url: "https://arxiv.org/abs/2601.02427"
-pdf: "[[2026-nitrogen.pdf]]"
 date_ingested: 2026-06-18
 ---
 

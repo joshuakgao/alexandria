@@ -4,8 +4,7 @@ authors: [Kian Hao Aw, Daniel Kotar, Andrew Lee, Sunjin Kim, Khaled Jedoui, Sudh
 year: 2026
 venue: ""
 tags: [cognitive-ai, world-models]
-url: ""
-pdf: "[[2026-babyzwm-zero-shot-world-models.pdf]]"
+url: "https://arxiv.org/abs/2604.10333"
 date_ingested: 2026-06-18
 ---
 

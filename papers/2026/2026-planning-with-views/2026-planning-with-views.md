@@ -1,11 +1,24 @@
 ---
-title: "Planning with the Views"
-authors: [Kangrui Wang, Linjie Li, Zhengyuan Yang, Shiqi Chen, Zihan Wang, Li Fei-Fei, Jiajun Wu, Leonidas Guibas, Lijuan Wang, Manling Li]
+title: Planning with the Views
+authors:
+  - Kangrui Wang
+  - Linjie Li
+  - Zhengyuan Yang
+  - Shiqi Chen
+  - Zihan Wang
+  - Li Fei-Fei
+  - Jiajun Wu
+  - Leonidas Guibas
+  - Lijuan Wang
+  - Manling Li
 year: 2026
 venue: ""
-tags: [spatial-reasoning, vision-language-models, embodied-ai, 3d-scene-understanding, world-models]
-url: "https://arxiv.org/abs/2605.29563"
-pdf: "[[2026-planning-with-views.pdf]]"
+tags:
+  - spatial-reasoning
+  - vision-language-models
+  - embodied-ai
+  - 3d-scene-understanding
+url: https://arxiv.org/abs/2605.29563
 date_ingested: 2026-06-18
 ---
 

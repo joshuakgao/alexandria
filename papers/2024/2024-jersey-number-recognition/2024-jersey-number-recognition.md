@@ -4,8 +4,7 @@ authors: [Maria Koshkina, James H. Elder]
 year: 2024
 venue: "CVPRW 2024"
 tags: [sports-analytics, re-id]
-url: "https://openaccess.thecvf.com/content/CVPR2024W/CVsports/papers/Koshkina_A_General_Framework_for_Jersey_Number_Recognition_in_Sports_Video_CVPRW_2024_paper.pdf"
-pdf: "[[2024-jersey-number-recognition.pdf]]"
+url: "https://openaccess.thecvf.com/content/CVPR2024W/CVsports/html/Koshkina_A_General_Framework_for_Jersey_Number_Recognition_in_Sports_Video_CVPRW_2024_paper.html"
 date_ingested: 2026-06-25
 ---
 

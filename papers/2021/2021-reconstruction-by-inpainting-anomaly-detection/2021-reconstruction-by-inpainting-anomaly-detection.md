@@ -5,7 +5,6 @@ year: 2021
 venue: "Pattern Recognition"
 tags: [anomaly-detection]
 url: ""
-pdf: "[[2021-reconstruction-by-inpainting-anomaly-detection.pdf]]"
 date_ingested: 2026-06-18
 ---
 

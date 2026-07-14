@@ -4,8 +4,7 @@ authors: [Subin Varghese, Joshua Gao, Asad Ur Rahman, Vedhus Hoskere]
 year: 2026
 venue: ""
 tags: [embodied-ai, construction-monitoring, scene-graphs]
-url: ""
-pdf: "[[2026-bridgeeqa.pdf]]"
+url: "https://arxiv.org/abs/2511.12676"
 date_ingested: 2026-06-18
 ---
 

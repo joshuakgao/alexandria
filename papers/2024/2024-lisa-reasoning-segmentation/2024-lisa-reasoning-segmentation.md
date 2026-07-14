@@ -4,8 +4,7 @@ authors: [Xin Lai, Zhuotao Tian, Yukang Chen, Yanwei Li, Yuhui Yuan, Shu Liu, Ji
 year: 2024
 venue: "CVPR 2024"
 tags: [vision-language-models, segmentation]
-url: ""
-pdf: "[[2024-lisa-reasoning-segmentation.pdf]]"
+url: "https://arxiv.org/abs/2308.00692"
 date_ingested: 2026-06-18
 ---
 

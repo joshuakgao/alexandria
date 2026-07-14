@@ -4,8 +4,7 @@ authors: [Haoning Wang, Haohan Yu, Juntao Ren, Shuai Zhang, Yuping Zhao, Divya S
 year: 2025
 venue: "NeurIPS 2025"
 tags: [vision-language-models]
-url: ""
-pdf: "[[2025-mmlongbench.pdf]]"
+url: "https://arxiv.org/abs/2505.10610"
 date_ingested: 2026-06-18
 ---
 

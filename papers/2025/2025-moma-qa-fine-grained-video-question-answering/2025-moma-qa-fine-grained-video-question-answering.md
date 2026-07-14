@@ -4,8 +4,7 @@ authors: [Wei Dai, Alan Luo, Zane Durante, Debadutta Dash, Arnold Milstein, Kevi
 year: 2025
 venue: ""
 tags: [video-understanding, scene-graphs, vision-language-models]
-url: ""
-pdf: "[[2025-moma-qa-fine-grained-video-question-answering.pdf]]"
+url: "https://arxiv.org/abs/2503.06820"
 date_ingested: 2026-06-18
 ---
 

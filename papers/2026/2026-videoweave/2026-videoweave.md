@@ -4,8 +4,7 @@ authors: [Zane Durante, Amandeep Singh, Tzu-Sheng Kuo, Lili Lee, Siddharth Khatu
 year: 2026
 venue: ""
 tags: [video-understanding]
-url: ""
-pdf: "[[2026-videoweave.pdf]]"
+url: "https://arxiv.org/abs/2601.06309"
 date_ingested: 2026-06-18
 ---
 

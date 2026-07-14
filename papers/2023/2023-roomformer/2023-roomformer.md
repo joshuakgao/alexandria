@@ -4,8 +4,7 @@ authors: [Yuanwen Yue, Theodora Kontogianni, Konrad Schindler, Francis Engelmann
 year: 2023
 venue: "CVPR 2023"
 tags: [floorplan-reconstruction, 3d-scene-understanding]
-url: ""
-pdf: "[[2023-roomformer.pdf]]"
+url: "https://arxiv.org/abs/2211.15658"
 date_ingested: 2026-06-18
 ---
 

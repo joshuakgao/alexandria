@@ -4,8 +4,7 @@ authors: [Jinhui Ye, Zihan Wang, Haosen Sun, Keshigeyan Chandrasegaran, Zane Dur
 year: 2025
 venue: "CVPR 2025"
 tags: [video-understanding]
-url: ""
-pdf: "[[2025-re-thinking-temporal-search-long-form-video.pdf]]"
+url: "https://arxiv.org/abs/2504.02259"
 date_ingested: 2026-06-18
 ---
 

@@ -4,8 +4,7 @@ authors: [Guan Wang, Zhimin Li, Qingchao Chen, Yang Liu]
 year: 2024
 venue: "CVPR 2024"
 tags: [dynamic-scene-graph-generation, scene-graphs, video-understanding]
-url: ""
-pdf: "[[2024-oed-one-stage-end-to-end-dynamic-scene-graph.pdf]]"
+url: "https://arxiv.org/abs/2405.16925"
 date_ingested: 2026-06-18
 ---
 

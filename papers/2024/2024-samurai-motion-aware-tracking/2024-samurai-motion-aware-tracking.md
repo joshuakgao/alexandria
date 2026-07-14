@@ -4,8 +4,7 @@ authors: [Cheng-Yen Yang, Hsiang-Wei Huang, Wenhao Chai, Zhongyu Jiang, Jenq-Nen
 year: 2024
 venue: ""
 tags: [segmentation]
-url: ""
-pdf: "[[2024-samurai-motion-aware-tracking.pdf]]"
+url: "https://arxiv.org/abs/2411.11922"
 date_ingested: 2026-06-18
 ---
 

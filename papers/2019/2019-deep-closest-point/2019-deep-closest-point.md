@@ -4,8 +4,7 @@ authors: [Yue Wang, Justin Solomon]
 year: 2019
 venue: "ICCV 2019"
 tags: [point-cloud-registration]
-url: ""
-pdf: "[[2019-deep-closest-point.pdf]]"
+url: "https://arxiv.org/abs/1905.03304"
 date_ingested: 2026-06-18
 ---
 

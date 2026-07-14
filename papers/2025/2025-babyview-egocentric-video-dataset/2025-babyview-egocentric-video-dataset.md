@@ -4,8 +4,7 @@ authors: [Bria Long, Robert Sparks, Violet Xiang, Stefan Stojanov, Zi Yin, Grace
 year: 2025
 venue: ""
 tags: [cognitive-ai]
-url: ""
-pdf: "[[2025-babyview-egocentric-video-dataset.pdf]]"
+url: "https://arxiv.org/abs/2406.10447"
 date_ingested: 2026-06-18
 ---
 

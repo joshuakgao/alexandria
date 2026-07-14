@@ -5,7 +5,6 @@ year: 2017
 venue: "CVPR 2017"
 tags: [3d-scene-understanding, synthetic-datasets]
 url: "https://arxiv.org/abs/1702.04405"
-pdf: "[[2017-scannet.pdf]]"
 date_ingested: 2026-06-18
 ---
 

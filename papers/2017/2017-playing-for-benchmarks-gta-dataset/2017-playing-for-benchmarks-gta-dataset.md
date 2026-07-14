@@ -4,8 +4,7 @@ authors: [Stephan Richter, Zeeshan Hayder, Vladlen Koltun]
 year: 2017
 venue: "ICCV 2017"
 tags: [synthetic-datasets]
-url: ""
-pdf: "[[2017-playing-for-benchmarks-gta-dataset.pdf]]"
+url: "https://arxiv.org/abs/1709.07322"
 date_ingested: 2026-06-18
 ---
 

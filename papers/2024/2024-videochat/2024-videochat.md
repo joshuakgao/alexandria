@@ -4,8 +4,7 @@ authors: [Kunchang Li, Yinan He, Yi Wang, Yizhuo Li, Wenhai Wang Ping Luo, Yali 
 year: 2024
 venue: ""
 tags: [video-understanding, vision-language-models]
-url: ""
-pdf: "[[2024-videochat.pdf]]"
+url: "https://arxiv.org/abs/2305.06355"
 date_ingested: 2026-06-18
 ---
 

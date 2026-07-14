@@ -4,8 +4,7 @@ authors: [Abrar Anwar, John Welsh, Joydeep Biswas, Soha Pouya, Yan Chang]
 year: 2024
 venue: "CoRL 2024"
 tags: [embodied-ai, video-understanding, agentic-mllms]
-url: ""
-pdf: "[[2024-remembr.pdf]]"
+url: "https://arxiv.org/abs/2409.13682"
 date_ingested: 2026-06-18
 ---
 

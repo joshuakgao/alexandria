@@ -4,8 +4,7 @@ authors: [Songyou Peng, Kyle Genova, Chiyu Jiang, Andrea Tagliasacchi, Marc Poll
 year: 2023
 venue: "CVPR 2023"
 tags: [3d-scene-understanding, segmentation, vision-backbone]
-url: ""
-pdf: "[[2023-openscene.pdf]]"
+url: "https://arxiv.org/abs/2211.15654"
 date_ingested: 2026-06-18
 ---
 

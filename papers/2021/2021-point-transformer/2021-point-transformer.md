@@ -4,8 +4,7 @@ authors: [Hengshuang Zhao, Li Jiang, Jiaya Jia, Philip Torr, Vladlen Koltun]
 year: 2021
 venue: "ICCV"
 tags: [3d-scene-understanding, vision-backbone, segmentation]
-url: ""
-pdf: "[[2021-point-transformer.pdf]]"
+url: "https://arxiv.org/abs/2012.09164"
 date_ingested: 2026-06-18
 ---
 

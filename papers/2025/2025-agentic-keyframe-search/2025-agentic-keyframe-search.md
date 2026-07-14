@@ -4,8 +4,7 @@ authors: [Sunqi Fan, Meng-Hao Guo, Shuojin Yang]
 year: 2025
 venue: ""
 tags: [video-understanding, agentic-mllms]
-url: ""
-pdf: "[[2025-agentic-keyframe-search.pdf]]"
+url: "https://arxiv.org/abs/2503.16032"
 date_ingested: 2026-06-18
 ---
 

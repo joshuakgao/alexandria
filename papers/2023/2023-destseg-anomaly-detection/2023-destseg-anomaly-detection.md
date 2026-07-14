@@ -4,8 +4,7 @@ authors: [Xuan Zhang, Shiyu Li, Xi Li, Ping Huang, Jiulong Shan]
 year: 2023
 venue: "CVPR 2023"
 tags: [anomaly-detection, segmentation]
-url: ""
-pdf: "[[2023-destseg-anomaly-detection.pdf]]"
+url: "https://arxiv.org/abs/2211.11317"
 date_ingested: 2026-06-18
 ---
 

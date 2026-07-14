@@ -4,8 +4,7 @@ authors: [Muhammad Fadhil Ginting, Sung-Kyun Kim, Kevin Meng, Cedric Reinke, Nik
 year: 2025
 venue: ""
 tags: [embodied-ai, scene-graphs]
-url: ""
-pdf: "[[2025-mind-palace.pdf]]"
+url: "https://arxiv.org/abs/2507.12846"
 date_ingested: 2026-06-18
 ---
 

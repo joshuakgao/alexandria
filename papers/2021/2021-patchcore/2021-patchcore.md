@@ -4,8 +4,7 @@ authors: [Karsten Roth, Latha Pemula, Joaquin Zepeda, Thomas Brox, Peter Gehler]
 year: 2021
 venue: "CVPR 2022"
 tags: [anomaly-detection]
-url: ""
-pdf: "[[2021-patchcore.pdf]]"
+url: "https://arxiv.org/abs/2106.08265"
 date_ingested: 2026-06-18
 ---
 

@@ -4,8 +4,7 @@ authors: [Abdelrhman Werby, Chenguang Huang, Martin Büchner, Abhinav Valada, Wo
 year: 2024
 venue: "RSS 2024"
 tags: [embodied-ai, scene-graphs, 3d-scene-understanding]
-url: ""
-pdf: "[[2024-hov-sg.pdf]]"
+url: "https://arxiv.org/abs/2403.17846"
 date_ingested: 2026-06-18
 ---
 

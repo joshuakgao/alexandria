@@ -4,8 +4,7 @@ authors: [Tuan Duc Ngo, Jiahui Huang, Seoung Wug Oh, Kevin Blackburn-Matzen, Eva
 year: 2026
 venue: "CVPR 2026"
 tags: [3d-scene-reconstruction, depth-estimation]
-url: ""
-pdf: "[[2026-dage-dual-stream-geometry-estimation.pdf]]"
+url: "https://arxiv.org/abs/2603.03744"
 date_ingested: 2026-06-18
 ---
 

@@ -4,8 +4,7 @@ authors: [Haotian Liu, Chunyuan Li, Yuheng Wu, Yong Jae Lee]
 year: 2023
 venue: "CVPR 2024"
 tags: [vision-language-models]
-url: ""
-pdf: "[[2023-improved-llava-visual-instruction-tuning.pdf]]"
+url: "https://arxiv.org/abs/2310.03744"
 date_ingested: 2026-06-18
 ---
 

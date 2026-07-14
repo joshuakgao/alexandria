@@ -4,8 +4,7 @@ authors: [Ho Kei Cheng, Seoung Wug Oh, Brian Price, Joon-Young Lee, Alexander Sc
 year: 2024
 venue: "CVPR 2024"
 tags: [segmentation]
-url: ""
-pdf: "[[2024-cutie.pdf]]"
+url: "https://arxiv.org/abs/2310.12982"
 date_ingested: 2026-06-18
 ---
 

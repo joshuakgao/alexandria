@@ -4,8 +4,7 @@ authors: [Hanoona Rasheed, Muhammad Maaz, Sahal Shaji Mullappilly, Abdelrahman S
 year: 2024
 venue: "CVPR 2024"
 tags: [vision-language-models, segmentation]
-url: ""
-pdf: "[[2024-glamm-pixel-grounding-multimodal.pdf]]"
+url: "https://arxiv.org/abs/2311.03356"
 date_ingested: 2026-06-18
 ---
 

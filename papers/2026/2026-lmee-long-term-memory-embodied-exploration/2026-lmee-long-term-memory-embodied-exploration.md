@@ -1,11 +1,15 @@
 ---
 title: "Explore with Long-term Memory: A Benchmark and Multimodal LLM-based Reinforcement Learning Framework for Embodied Exploration"
-authors: [Sen Wang, Bangwei Liu, Zhenkun Gao, Lizhuang Ma]
+authors:
+  - Sen Wang
+  - Bangwei Liu
+  - Zhenkun Gao
+  - Lizhuang Ma
 year: 2026
-venue: "CVPR 2026"
-tags: [embodied-ai, world-models]
-url: ""
-pdf: "[[2026-lmee-long-term-memory-embodied-exploration.pdf]]"
+venue: CVPR 2026
+tags:
+  - embodied-ai
+url: "https://arxiv.org/abs/2601.10744"
 date_ingested: 2026-06-18
 ---
 

@@ -5,7 +5,6 @@ year: 2019
 venue: "eNTERFACE'19"
 tags: [sports-analytics, video-understanding]
 url: ""
-pdf: "[[2019-volleyball-action-modelling-imu-feedback.pdf]]"
 date_ingested: 2026-06-18
 ---
 

@@ -4,8 +4,7 @@ authors: [Dídac Surís, Sachit Menon, Carl Vondrick]
 year: 2023
 venue: "ICCV 2023"
 tags: [agentic-mllms]
-url: ""
-pdf: "[[2023-viper-gpt.pdf]]"
+url: "https://arxiv.org/abs/2303.08128"
 date_ingested: 2026-06-18
 ---
 

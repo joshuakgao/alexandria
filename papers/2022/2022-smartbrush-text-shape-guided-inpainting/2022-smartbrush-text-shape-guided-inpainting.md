@@ -3,9 +3,8 @@ title: "SmartBrush: Text and Shape Guided Object Inpainting with Diffusion Model
 authors: [Shaoan Xie, Zhifei Zhang, Zhe Lin, Tobias Hinz, Kun Zhang]
 year: 2022
 venue: "CVPR 2023"
-tags: [image-inpainting, diffusion-models, vision-language-models]
-url: ""
-pdf: "[[2022-smartbrush-text-shape-guided-inpainting.pdf]]"
+tags: [image-inpainting, image-video-generation, vision-language-models]
+url: "https://arxiv.org/abs/2212.05034"
 date_ingested: 2026-06-18
 ---
 

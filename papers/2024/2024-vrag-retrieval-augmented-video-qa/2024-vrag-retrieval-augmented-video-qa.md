@@ -5,7 +5,6 @@ year: 2024
 venue: "CVPR 2024 Workshop"
 tags: [video-understanding, vision-language-models]
 url: ""
-pdf: "[[2024-vrag-retrieval-augmented-video-qa.pdf]]"
 date_ingested: 2026-06-18
 ---
 

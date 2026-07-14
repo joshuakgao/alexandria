@@ -4,8 +4,7 @@ authors: [Yanpeng Zhao, Wentao Ding, Hongtao Li, Baoxiong Jia, Zilong Zheng]
 year: 2026
 venue: ""
 tags: [embodied-ai, spatial-reasoning, vision-language-models]
-url: ""
-pdf: "[[2026-espire.pdf]]"
+url: "https://arxiv.org/abs/2603.13033"
 date_ingested: 2026-06-18
 ---
 

@@ -4,8 +4,7 @@ authors: [Yuqun Wu, Chih-hao Lin, Henry Che, Aditi Tiwari, Chuhang Zou, Shenlong
 year: 2026
 venue: ""
 tags: [change-detection, segmentation, construction-monitoring]
-url: ""
-pdf: "[[2026-scenediff-multiview-object-change-detection.pdf]]"
+url: "https://arxiv.org/abs/2512.16908"
 date_ingested: 2026-06-18
 ---
 

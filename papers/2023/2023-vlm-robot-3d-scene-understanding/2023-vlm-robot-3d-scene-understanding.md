@@ -4,8 +4,7 @@ authors: [William Chen, Siyi Hu, Rajat Talak, Luca Carlone]
 year: 2023
 venue: ""
 tags: [embodied-ai, vision-language-models, scene-graphs]
-url: ""
-pdf: "[[2023-vlm-robot-3d-scene-understanding.pdf]]"
+url: "https://arxiv.org/abs/2209.05629"
 date_ingested: 2026-06-18
 ---
 

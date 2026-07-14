@@ -4,8 +4,7 @@ authors: [Quanting Xie, So Yeon Min, Pengliang Ji, Yue Yang, Tianyi Zhang, Kedi 
 year: 2025
 venue: ""
 tags: [embodied-ai, scene-graphs]
-url: ""
-pdf: "[[2025-embodied-rag.pdf]]"
+url: "https://arxiv.org/abs/2409.18313"
 date_ingested: 2026-06-18
 ---
 
