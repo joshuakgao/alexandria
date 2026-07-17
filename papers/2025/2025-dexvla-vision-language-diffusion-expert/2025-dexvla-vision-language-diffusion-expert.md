@@ -1,13 +1,20 @@
 ---
 title: "DexVLA: Vision-Language Model with Plug-In Diffusion Expert for General Robot Control"
-authors: [Junjie Wen, Yichen Zhu, Jinming Li, Zhibin Tang, Chaomin Shen, Feifei Feng]
+authors:
+  - Junjie Wen
+  - Jinming Li
+  - Zhibin Tang
+  - Chaomin Shen
+  - Feifei Feng
 year: 2025
-venue: "CoRL 2025"
-tags: [embodied-ai, vision-language-action]
-url: "https://arxiv.org/abs/2502.05855"
+venue: CoRL 2025
+tags:
+  - embodied-ai
+  - vision-language-action
+url: https://arxiv.org/abs/2502.05855
 date_ingested: 2026-07-14
 ---
-
+**
 # DexVLA: Vision-Language Model with Plug-In Diffusion Expert for General Robot Control
 
 ![[2025-dexvla-vision-language-diffusion-expert-thumbnail.png]]

@@ -158,6 +158,7 @@ Triggered when the user says "ingest {number}" or similar (e.g. `ingest 3`, `ing
 9. **Update topic indexes** — for each topic tag, if `topics/{topic-slug}.md` does not exist, create it with the Dataview query template (see format above). The paper table populates automatically via Dataview; do **not** add static table rows. Revise the overview, trends, and open questions sections.
 10. **Master index** — `topics/_index.md` auto-populates via Dataview. No manual update needed. If a new topic file was created in step 9, it will appear automatically.
 11. **Remove** the ingested document from the inbox list.
+12. **Delete** the thumbnail at "~/Desktop/Screenshot".
 
 A single ingest typically touches 5–15 files. Do all updates in one pass.
 
