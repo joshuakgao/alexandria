@@ -10,7 +10,7 @@
           {
             "id": "480a37e4865127b5",
             "type": "tabs",
-            "dimension": 29.889298892988926,
+            "dimension": 41.14391143911439,
             "children": [
               {
                 "id": "98c03d039a89ebe0",
@@ -31,34 +31,20 @@
           {
             "id": "356af5a4450e590a",
             "type": "tabs",
-            "dimension": 70.11070110701107,
+            "dimension": 58.85608856088561,
             "children": [
-              {
-                "id": "dc5e6c8076a393da",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "papers/2024/2024-sima/2024-sima.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "2024-sima"
-                }
-              },
               {
                 "id": "731fa6cb04337e2f",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "papers/2026/2026-memory-over-maps/2026-memory-over-maps.md",
+                    "file": "CLAUDE.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "2026-memory-over-maps"
+                  "title": "CLAUDE"
                 }
               },
               {
@@ -81,16 +67,15 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "CLAUDE.md",
+                    "file": "papers/2022/2022-minedojo/2022-minedojo.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "CLAUDE"
+                  "title": "2022-minedojo"
                 }
               }
-            ],
-            "currentTab": 3
+            ]
           }
         ],
         "direction": "horizontal"
@@ -150,7 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5
+    "width": 396.5
   },
   "right": {
     "id": "9b0bc0e65ddb98b8",
@@ -262,7 +247,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354.5
+    "width": 331.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -279,51 +264,50 @@
   },
   "active": "0ea6d65034813b20",
   "lastOpenFiles": [
-    "papers/2019/2019-collaborative-dialogue-minecraft/2019-collaborative-dialogue-minecraft.md",
+    "papers/2025/2025-groot-n1-humanoid-foundation-model/2025-groot-n1-humanoid-foundation-model.md",
+    "topics/vision-language-action.md",
+    "World models.md",
+    "topics/multi-agent.md",
+    "papers/2024/2024-proagent-proactive-cooperative-agents-llms/2024-proagent-proactive-cooperative-agents-llms.md",
+    "papers/2024/2024-embodied-llm-agents-organized-teams/2024-embodied-llm-agents-organized-teams.md",
+    "papers/2024/2024-mineland/2024-mineland.md",
+    "papers/2024/2024-mineland/2024-mineland-thumbnail.png",
+    "papers/2019/2019-craftassist/2019-craftassist.md",
+    "papers/2021/2021-mindcraft-theory-of-mind-situated-dialogue/2021-mindcraft-theory-of-mind-situated-dialogue.md",
+    "papers/2020/2020-learning-execute-instructions-minecraft/2020-learning-execute-instructions-minecraft.md",
+    "papers/2020/2020-learning-execute-instructions-minecraft/2020-learning-execute-instructions-minecraft-thumbnail.png",
+    "papers/2025/2025-bap-v2/2025-bap-v2.md",
     "inbox.md",
-    "papers/2019/2019-collaborative-dialogue-minecraft/2019-collaborative-dialogue-minecraft-thumbnail.png",
+    "papers/2025/2025-jarvis-vla/2025-jarvis-vla.md",
+    "papers/2025/2025-bap-v2/2025-bap-v2-thumbnail.png",
+    "papers/2023/2023-voyager/2023-voyager.md",
+    "papers/2024/2024-omnijarvis/2024-omnijarvis.md",
+    "papers/2024/2024-mineland",
+    "CLAUDE.md",
+    "papers/2025/2025-bap-v2",
+    "papers/2020/2020-learning-execute-instructions-minecraft",
+    "papers/2024/2024-omnijarvis/2024-omnijarvis-thumbnail.png",
+    "papers/2024/2024-omnijarvis",
+    "papers/2023/2023-voyager/2023-voyager-thumbnail.png",
+    "papers/2023/2023-voyager",
+    "papers/2026/2026-memory-over-maps/2026-memory-over-maps.md",
+    "papers/2025/2025-jarvis-vla/2025-jarvis-vla-thumbnail.png",
+    "papers/2025/2025-jarvis-vla",
+    "papers/2024/2024-sima/2024-sima.md",
+    "papers/2020/2020-dreamer/2020-dreamer.md",
+    "papers/2019/2019-craftassist/2019-craftassist-thumbnail.png",
+    "papers/2019/2019-craftassist",
+    "papers/2022/2022-minedojo/2022-minedojo.md",
+    "papers/2022/2022-minedojo/2022-minedojo-thumbnail.png",
+    "papers/2022/2022-minedojo",
+    "papers/2019/2019-minerl/2019-minerl.md",
+    "papers/2019/2019-minerl/2019-minerl-thumbnail.png",
+    "papers/2019/2019-minerl",
+    "papers/2019/2019-collaborative-dialogue-minecraft/2019-collaborative-dialogue-minecraft.md",
     "papers/2019/2019-collaborative-dialogue-minecraft",
     "papers/2025/2025-chatvla-unified-multimodal-understanding-robot-control/2025-chatvla-unified-multimodal-understanding-robot-control.md",
-    "papers/2025/2025-chatvla-unified-multimodal-understanding-robot-control/2025-chatvla-unified-multimodal-understanding-robot-control-thumbnail.png",
-    "papers/2025/2025-chatvla-unified-multimodal-understanding-robot-control",
     "papers/2025/2025-chatvla-2-open-world-embodied-reasoning/2025-chatvla-2-open-world-embodied-reasoning.md",
-    "papers/2025/2025-chatvla-2-open-world-embodied-reasoning/2025-chatvla-2-open-world-embodied-reasoning-thumbnail.png",
-    "papers/2025/2025-chatvla-2-open-world-embodied-reasoning",
-    "papers/2025/2025-groot-n1-humanoid-foundation-model/2025-groot-n1-humanoid-foundation-model.md",
     "papers/2025/2025-dexvla-vision-language-diffusion-expert/2025-dexvla-vision-language-diffusion-expert.md",
-    "papers/2025/2025-groot-n1-humanoid-foundation-model/2025-groot-n1-humanoid-foundation-model-thumbnail.png",
-    "papers/2025/2025-groot-n1-humanoid-foundation-model",
-    "papers/2023/2023-rt-2-vision-language-action/2023-rt-2-vision-language-action.md",
-    "topics/vision-language-action.md",
-    "papers/2023/2023-rt-2-vision-language-action/2023-rt-2-vision-language-action-thumbnail.png",
-    "papers/2023/2023-rt-2-vision-language-action",
-    "papers/2026/2026-espire/2026-espire.md",
-    "papers/2025/2025-dexvla-vision-language-diffusion-expert/2025-dexvla-vision-language-diffusion-expert-thumbnail.png",
-    "papers/2025/2025-dexvla-vision-language-diffusion-expert",
-    "papers/2026/2026-deltatok/2026-deltatok.md",
-    "papers/2025/2025-3dgs-cd/2025-3dgs-cd.md",
-    "papers/2026/2026-memory-over-maps/2026-memory-over-maps.md",
-    "papers/2026/2026-chamelion/2026-chamelion.md",
-    "topics/slam.md",
-    "papers/2025/2025-unseen-visual-anomaly-generation/2025-unseen-visual-anomaly-generation.md",
-    "topics/synthetic-datasets.md",
-    "papers/2026/2026-scenetok/2026-scenetok.md",
-    "topics/world-models.md",
-    "papers/2026/2026-pointworld/2026-pointworld.md",
-    "papers/2026/2026-babyzwm-zero-shot-world-models/2026-babyzwm-zero-shot-world-models.md",
-    "topics/spatial-reasoning.md",
-    "papers/2024/2024-v-jepa/2024-v-jepa-thumbnail.png",
-    "papers/2024/2024-v-jepa/2024-v-jepa.md",
-    "papers/2024/2024-snapmem/2024-snapmem.md",
-    "papers/2024/2024-videochat/2024-videochat.md",
-    "CLAUDE.md",
-    "papers/2021/2021-mindcraft-theory-of-mind-situated-dialogue/2021-mindcraft-theory-of-mind-situated-dialogue.md",
-    "papers/2024/2024-proagent-proactive-cooperative-agents-llms/2024-proagent-proactive-cooperative-agents-llms.pdf",
-    "papers/2024/2024-proagent-proactive-cooperative-agents-llms/2024-proagent-proactive-cooperative-agents-llms-thumbnail.png",
-    "papers/2024/2024-proagent-proactive-cooperative-agents-llms",
-    "papers/2024/2024-complexity-theory-of-mind-discrete-world-models/2024-complexity-theory-of-mind-discrete-world-models.pdf",
-    "papers/2024/2024-complexity-theory-of-mind-discrete-world-models/2024-complexity-theory-of-mind-discrete-world-models-thumbnail.png",
-    "papers/2024/2024-complexity-theory-of-mind-discrete-world-models",
-    "papers/2024/2024-embodied-llm-agents-organized-teams/2024-embodied-llm-agents-organized-teams-thumbnail.png"
+    "papers/2023/2023-rt-2-vision-language-action/2023-rt-2-vision-language-action.md"
   ]
 }
