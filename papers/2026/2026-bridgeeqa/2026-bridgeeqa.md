@@ -1,10 +1,17 @@
 ---
 title: "BridgeEQA: Virtual Embodied Agents for Real Bridge Inspections"
-authors: [Subin Varghese, Joshua Gao, Asad Ur Rahman, Vedhus Hoskere]
+authors:
+  - Subin Varghese
+  - Joshua Gao
+  - Asad Ur Rahman
+  - Vedhus Hoskere
 year: 2026
 venue: ""
-tags: [embodied-ai, construction-monitoring, scene-graphs]
-url: "https://arxiv.org/abs/2511.12676"
+tags:
+  - embodied-ai
+  - scene-graphs
+  - built-environment
+url: https://arxiv.org/abs/2511.12676
 date_ingested: 2026-06-18
 ---
 

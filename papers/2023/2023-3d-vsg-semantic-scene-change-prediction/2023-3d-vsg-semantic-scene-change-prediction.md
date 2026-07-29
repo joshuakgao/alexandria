@@ -1,10 +1,16 @@
 ---
 title: "3D VSG: Long-term Semantic Scene Change Prediction through 3D Variable Scene Graphs"
-authors: [Samuel Looper, Javier Rodriguez-Puigvert, Roland Siegwart, Cesar Cadena, Lukas Schmid]
+authors:
+  - Samuel Looper
+  - Javier Rodriguez-Puigvert
+  - Roland Siegwart
+  - Cesar Cadena
+  - Lukas Schmid
 year: 2023
-venue: "ICRA 2023"
-tags: [construction-monitoring, scene-graphs, change-detection]
-url: "https://arxiv.org/abs/2209.07896"
+venue: ICRA 2023
+tags:
+  - change-detection
+url: https://arxiv.org/abs/2209.07896
 date_ingested: 2026-06-18
 ---
 

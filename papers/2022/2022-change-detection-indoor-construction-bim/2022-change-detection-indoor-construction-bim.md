@@ -3,7 +3,7 @@ title: "Change detection for indoor construction progress monitoring based on BI
 authors: [uncertainties Theresa Meyer a, Ansgar Brunn b, Uwe Stilla a]
 year: 2022
 venue: "Automation in Construction"
-tags: [construction-monitoring, change-detection, point-cloud-registration]
+tags: [built-environment, change-detection, point-cloud-registration]
 url: ""
 date_ingested: 2026-06-18
 ---

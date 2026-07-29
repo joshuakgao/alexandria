@@ -1,10 +1,15 @@
 ---
-title: "Non-parametric Memory for Spatio-Temporal Segmentation of Construction Zones for Self-Driving"
-authors: [Shenlong Wang, Kelvin Wong, Ersin Yumer Raquel Urtasun]
+title: Non-parametric Memory for Spatio-Temporal Segmentation of Construction Zones for Self-Driving
+authors:
+  - Shenlong Wang
+  - Kelvin Wong
+  - Ersin Yumer Raquel Urtasun
 year: 2021
-venue: "ICRA"
-tags: [autonomous-vehicles, construction-monitoring, 3d-scene-understanding, segmentation]
-url: "https://arxiv.org/abs/2101.06865"
+venue: ICRA
+tags:
+  - autonomous-vehicles
+  - 3d-scene-understanding
+url: https://arxiv.org/abs/2101.06865
 date_ingested: 2026-06-18
 ---
 

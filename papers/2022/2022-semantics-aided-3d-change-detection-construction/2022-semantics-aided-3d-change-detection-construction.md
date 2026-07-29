@@ -3,7 +3,7 @@ title: "Semantics-aided 3D change detection on construction sites using UAV-base
 authors: [Rong Huang, Dong Xu, Ludwig Hoegner, Uwe Stilla]
 year: 2022
 venue: "Automation in Construction"
-tags: [construction-monitoring, change-detection, segmentation, remote-sensing]
+tags: [built-environment, change-detection, segmentation, remote-sensing]
 url: ""
 date_ingested: 2026-06-18
 ---

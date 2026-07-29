@@ -4,81 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "167ef1fb5af668ef",
-        "type": "split",
+        "id": "2fbacfa108683224",
+        "type": "tabs",
         "children": [
           {
-            "id": "480a37e4865127b5",
-            "type": "tabs",
-            "dimension": 41.14391143911439,
-            "children": [
-              {
-                "id": "98c03d039a89ebe0",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "inbox.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "inbox"
-                }
-              }
-            ]
+            "id": "edd7dbbbec6c734f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "inbox"
+            }
           },
           {
-            "id": "356af5a4450e590a",
-            "type": "tabs",
-            "dimension": 58.85608856088561,
-            "children": [
-              {
-                "id": "731fa6cb04337e2f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "CLAUDE.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "CLAUDE"
-                }
+            "id": "8d837788c49dc86f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "topics/physical-reasoning.md",
+                "mode": "source",
+                "source": false
               },
-              {
-                "id": "44568f85cdc3b4fb",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "papers/2025/2025-groot-n1-humanoid-foundation-model/2025-groot-n1-humanoid-foundation-model.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "2025-groot-n1-humanoid-foundation-model"
-                }
-              },
-              {
-                "id": "a4bd9b244dd0a681",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "papers/2022/2022-minedojo/2022-minedojo.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "2022-minedojo"
-                }
-              }
-            ]
+              "icon": "lucide-file",
+              "title": "physical-reasoning"
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -223,16 +183,6 @@
             }
           },
           {
-            "id": "8036d9d07ee667d9",
-            "type": "leaf",
-            "state": {
-              "type": "claudian-view",
-              "state": {},
-              "icon": "bot",
-              "title": "Claudian"
-            }
-          },
-          {
             "id": "0ea6d65034813b20",
             "type": "leaf",
             "state": {
@@ -241,9 +191,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "8036d9d07ee667d9",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -264,50 +224,51 @@
   },
   "active": "0ea6d65034813b20",
   "lastOpenFiles": [
-    "papers/2025/2025-groot-n1-humanoid-foundation-model/2025-groot-n1-humanoid-foundation-model.md",
-    "topics/vision-language-action.md",
-    "World models.md",
-    "topics/multi-agent.md",
-    "papers/2024/2024-proagent-proactive-cooperative-agents-llms/2024-proagent-proactive-cooperative-agents-llms.md",
-    "papers/2024/2024-embodied-llm-agents-organized-teams/2024-embodied-llm-agents-organized-teams.md",
-    "papers/2024/2024-mineland/2024-mineland.md",
-    "papers/2024/2024-mineland/2024-mineland-thumbnail.png",
-    "papers/2019/2019-craftassist/2019-craftassist.md",
-    "papers/2021/2021-mindcraft-theory-of-mind-situated-dialogue/2021-mindcraft-theory-of-mind-situated-dialogue.md",
-    "papers/2020/2020-learning-execute-instructions-minecraft/2020-learning-execute-instructions-minecraft.md",
-    "papers/2020/2020-learning-execute-instructions-minecraft/2020-learning-execute-instructions-minecraft-thumbnail.png",
-    "papers/2025/2025-bap-v2/2025-bap-v2.md",
+    "papers/2026/2026-physeditworld/2026-physeditworld.md",
+    "papers/2026/2026-physeditworld",
     "inbox.md",
-    "papers/2025/2025-jarvis-vla/2025-jarvis-vla.md",
-    "papers/2025/2025-bap-v2/2025-bap-v2-thumbnail.png",
-    "papers/2023/2023-voyager/2023-voyager.md",
-    "papers/2024/2024-omnijarvis/2024-omnijarvis.md",
-    "papers/2024/2024-mineland",
+    "papers/2026/2026-cosmos-3-omnimodal-world-models/2026-cosmos-3-omnimodal-world-models.md",
+    "papers/2026/2026-cosmos-3-omnimodal-world-models/2026-cosmos-3-omnimodal-world-models-thumbnail.png",
+    "papers/2026/2026-cosmos-3-omnimodal-world-models",
+    "papers/2026/2026-dreamdojo/2026-dreamdojo.md",
+    "papers/2026/2026-dreamdojo/2026-dreamdojo-thumbnail.png",
+    "papers/2026/2026-dreamdojo",
+    "papers/2025/2025-vitra/2025-vitra.md",
+    "papers/2025/2025-vitra/2025-vitra-thumbnail.png",
+    "papers/2025/2025-vitra",
+    "papers/2024/2024-latent-action-pretraining-videos/2024-latent-action-pretraining-videos.md",
+    "papers/2024/2024-latent-action-pretraining-videos/2024-latent-action-pretraining-videos-thumbnail.png",
+    "papers/2024/2024-latent-action-pretraining-videos",
+    "papers/2025/2025-humanoid-robots-construction/2025-humanoid-robots-construction.md",
+    "topics/built-environment.md",
+    "papers/2021/2021-non-parametric-memory-construction-zones/2021-non-parametric-memory-construction-zones.md",
+    "papers/2026/2026-scenediff-multiview-object-change-detection/2026-scenediff-multiview-object-change-detection.md",
+    "papers/2023/2023-3d-vsg-semantic-scene-change-prediction/2023-3d-vsg-semantic-scene-change-prediction.md",
+    "papers/2023/2023-change-detection-urban-objects-review/2023-change-detection-urban-objects-review.md",
+    "papers/2026/2026-bridgeeqa/2026-bridgeeqa.md",
     "CLAUDE.md",
-    "papers/2025/2025-bap-v2",
-    "papers/2020/2020-learning-execute-instructions-minecraft",
-    "papers/2024/2024-omnijarvis/2024-omnijarvis-thumbnail.png",
-    "papers/2024/2024-omnijarvis",
-    "papers/2023/2023-voyager/2023-voyager-thumbnail.png",
-    "papers/2023/2023-voyager",
-    "papers/2026/2026-memory-over-maps/2026-memory-over-maps.md",
-    "papers/2025/2025-jarvis-vla/2025-jarvis-vla-thumbnail.png",
-    "papers/2025/2025-jarvis-vla",
-    "papers/2024/2024-sima/2024-sima.md",
-    "papers/2020/2020-dreamer/2020-dreamer.md",
-    "papers/2019/2019-craftassist/2019-craftassist-thumbnail.png",
-    "papers/2019/2019-craftassist",
+    "1-s2.0-S1093968726030938-main.pdf",
+    "papers/2026/2026-perception-action-humanoid-construction/2026-perception-action-humanoid-construction.md",
+    "topics/autonomous-vehicles.md",
+    "archive.md",
     "papers/2022/2022-minedojo/2022-minedojo.md",
-    "papers/2022/2022-minedojo/2022-minedojo-thumbnail.png",
-    "papers/2022/2022-minedojo",
-    "papers/2019/2019-minerl/2019-minerl.md",
-    "papers/2019/2019-minerl/2019-minerl-thumbnail.png",
-    "papers/2019/2019-minerl",
-    "papers/2019/2019-collaborative-dialogue-minecraft/2019-collaborative-dialogue-minecraft.md",
-    "papers/2019/2019-collaborative-dialogue-minecraft",
-    "papers/2025/2025-chatvla-unified-multimodal-understanding-robot-control/2025-chatvla-unified-multimodal-understanding-robot-control.md",
-    "papers/2025/2025-chatvla-2-open-world-embodied-reasoning/2025-chatvla-2-open-world-embodied-reasoning.md",
-    "papers/2025/2025-dexvla-vision-language-diffusion-expert/2025-dexvla-vision-language-diffusion-expert.md",
-    "papers/2023/2023-rt-2-vision-language-action/2023-rt-2-vision-language-action.md"
+    "papers/2025/2025-groot-n1-humanoid-foundation-model/2025-groot-n1-humanoid-foundation-model.md",
+    "papers/2022/2022-vpt-learning-to-act-watching-videos/2022-vpt-learning-to-act-watching-videos.md",
+    "papers/2026/2026-perception-action-humanoid-construction/2026-perception-action-humanoid-construction-thumbnail.png",
+    "papers/2026/2026-perception-action-humanoid-construction",
+    "World models.md",
+    "papers/2025/2025-humanoid-robots-construction/2025-humanoid-robots-construction-thumbnail.png",
+    "papers/2025/2025-humanoid-robots-construction",
+    "topics/world-models.md",
+    "papers/2025/2025-worldgym/2025-worldgym.md",
+    "papers/2025/2025-worldgym/2025-worldgym-thumbnail.png",
+    "papers/2025/2025-worldgym",
+    "papers/2026/2026-nitrogen/2026-nitrogen.md",
+    "papers/2025/2025-jarvis-vla/2025-jarvis-vla.md",
+    "papers/2023/2023-jarvis-1/2023-jarvis-1.md",
+    "papers/2023/2023-jarvis-1/2023-jarvis-1-thumbnail.png",
+    "papers/2023/2023-jarvis-1",
+    "papers/2024/2024-teamcraft/2024-teamcraft-thumbnail.png",
+    "papers/2024/2024-mineland/2024-mineland-thumbnail.png"
   ]
 }

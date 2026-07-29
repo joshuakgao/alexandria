@@ -1,10 +1,26 @@
 ---
 title: "NitroGen: An Open Foundation Model for Generalist Gaming Agents"
-authors: [Loïc Magne, Anas Awadalla, Guanzhi Wang, Yinzhen Xu, Joshua Belofsky, Fengyuan Hu, Joohwan Kim, Ludwig Schmidt, Georgia Gkioxari, Jan Kautz, Yisong Yue, Yejin Choi, Yuke Zhu, Linxi Fan]
+authors:
+  - Loïc Magne
+  - Anas Awadalla
+  - Guanzhi Wang
+  - Yinzhen Xu
+  - Joshua Belofsky
+  - Fengyuan Hu
+  - Joohwan Kim
+  - Ludwig Schmidt
+  - Georgia Gkioxari
+  - Jan Kautz
+  - Yisong Yue
+  - Yejin Choi
+  - Yuke Zhu
+  - Linxi Fan
 year: 2026
-venue: "CVPR 2026"
-tags: [agentic-mllms, world-models, embodied-ai]
-url: "https://arxiv.org/abs/2601.02427"
+venue: CVPR 2026
+tags:
+  - agentic-mllms
+  - embodied-ai
+url: https://arxiv.org/abs/2601.02427
 date_ingested: 2026-06-18
 ---
 

@@ -3,7 +3,7 @@ title: "Three-dimensional Change Detection and Description in Complex Constructi
 authors: [Xuming Ge, Xinjing Liu]
 year: 2024
 venue: "ISPRS Annals 2024"
-tags: [construction-monitoring, change-detection, point-cloud-registration]
+tags: [built-environment, change-detection, point-cloud-registration]
 url: ""
 date_ingested: 2026-06-18
 ---

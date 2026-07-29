@@ -26,6 +26,7 @@ Physical reasoning in AI concerns whether models can understand and predict the 
 - Frontier VLMs achieve near-human performance on aggregate metrics but fail counterfactual tests — when provided priors are altered, predictions remain anchored to memorized real-world magnitudes rather than tracking the inputs.
 - Model scale improves quantitative reasoning (especially for dynamic/temporal tasks) but does not close the gap to input-faithful physical reasoning.
 - Chain-of-thought prompting is largely ineffective for quantitative physical tasks, as decomposition amplifies early numerical errors.
+- Matched-intervention datasets (PhysEditWorld) are emerging that fix all non-physical variables and vary only specific physical parameters, enabling causal evaluation of whether models genuinely respond to physics edits rather than relying on implicit correlations.
 
 ## Open questions
 - Can VLMs be trained to perform input-faithful quantitative reasoning rather than relying on parametric priors?

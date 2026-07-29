@@ -92,6 +92,7 @@ Vision-language models are experiencing rapid capability expansion across four d
 - LlamaV-o1 adds reasoning steps; does intermediate reasoning improve all visual tasks or only complex/ambiguous ones?
 - How to balance reasoning depth (number of steps) with computational cost?
 - Can VLMs support true multi-step planning (e.g., tool-use sequences) like their text-only LLM counterparts?
+- TeamCraft (2024) reveals that VLM-based multi-agent systems struggle to generalize across novel goals, unseen agent counts, and new visual backgrounds — is the bottleneck in visual reasoning, multi-agent coordination, or their combination?
 - ViewSuite (2026) shows frontier VLMs track local view transitions but cannot compose multi-turn spatial plans (best model 21.3% IVP success). Self-exploration with view graph distillation closes this gap for a 7B model — can similar approaches improve planning in other VLM domains?
 - Theory of Space (ICLR 2026) reveals that VLMs degrade substantially when shifting from passive reasoning to active exploration, and suffer from belief inertia (inability to revise obsolete spatial priors). Can training objectives or architectural changes address these active cognition limitations?
 
