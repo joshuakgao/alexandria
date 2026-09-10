@@ -20,7 +20,7 @@ SORT year DESC
 
 ## Overview
 
-*Last updated: 2026-06-19 | Sources: 11 papers*
+*Last updated: 2026-08-01 | Sources: 12 papers*
 
 ## Current thesis
 
@@ -38,6 +38,7 @@ SORT year DESC
 - **Zero-shot, model-agnostic design**: Both SAM3D and the Dual-Path Framework use pre-trained models without fine-tuning, allowing plug-and-play component upgrades
 - **Conditional merging over naive fusion**: Simply combining all proposals from both modalities hurts precision; intelligent IoU-based merging balances recall and precision
 - **View planning as active 3D reasoning**: ViewSuite (Wang et al., 2026) introduces a new paradigm where VLMs must actively plan camera movements through real 3D scenes (ScanNet) with full 6-DoF control to localize unseen target views. This shifts 3D scene understanding from passive recognition to active perception — the agent must reason about how camera actions change its view of the scene and compose multi-step plans through view space
+- **Real-time relational scene graphs at scale**: FARM (He et al., 2026) builds compact, open-vocabulary, object-level scene graphs online at 5–10 Hz from RGB-D streams, scaling from 15 m² rooms to 15,000 m² outdoor environments under one fixed configuration. Each object is a single 3D Gaussian with multi-embedding descriptors (text caption + SigLIP2 + Qwen3-VL) and viewpoint evidence. Relational retrieval via executable spatial predicates over object Gaussians outperforms both end-to-end VLM reasoning and embedding-only similarity on 44k queries across 67 scenes, improving R@10 by 224% over prior scene-graph methods (BBQ). This extends the open-vocabulary scene graph trend beyond recognition to relational instance retrieval at large scales
 - **Full-scene 3D dynamics from point clouds**: PointWorld (Huang et al., CVPR 2026) extends 3D scene understanding from static recognition to action-conditioned dynamics prediction. Given a single RGB-D capture, it predicts per-point 3D displacements for the entire scene in response to robot actions, implicitly learning object segmentation, material properties, articulation, and contact dynamics. The use of frozen DINOv3 features on scene points provides objectness priors without explicit segmentation, and the PTv3 backbone processes heterogeneous scene+robot point clouds in a unified framework
 
 ## Open problems

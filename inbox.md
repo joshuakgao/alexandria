@@ -10,3 +10,11 @@
 9. https://arxiv.org/pdf/2309.09971 MindAgent
 10. https://arxiv.org/pdf/2604.15483 pi0.7
 11. https://arxiv.org/pdf/2406.09246 OpenVLA
+12. https://ladderman-robot.github.io/static/images/LadderMan.pdf
+13. https://arxiv.org/pdf/2403.10506 HumanoidBench
+14. https://arxiv.org/pdf/2606.05160 GRAIL
+15. https://arxiv.org/pdf/2410.21229 HOVER
+
+
+NVIDIA GEAR: https://research.nvidia.com/labs/gear/publications/
+

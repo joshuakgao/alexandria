@@ -24,21 +24,35 @@
             }
           },
           {
-            "id": "8d837788c49dc86f",
+            "id": "c71e024c3ccdcf38",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "topics/physical-reasoning.md",
+                "file": "log.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "physical-reasoning"
+              "title": "log"
+            }
+          },
+          {
+            "id": "9339f38eadb4b4ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "log.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "log"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -58,7 +72,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -95,7 +111,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 396.5
+    "width": 352.5
   },
   "right": {
     "id": "9b0bc0e65ddb98b8",
@@ -224,51 +240,51 @@
   },
   "active": "0ea6d65034813b20",
   "lastOpenFiles": [
-    "papers/2026/2026-physeditworld/2026-physeditworld.md",
-    "papers/2026/2026-physeditworld",
-    "inbox.md",
-    "papers/2026/2026-cosmos-3-omnimodal-world-models/2026-cosmos-3-omnimodal-world-models.md",
-    "papers/2026/2026-cosmos-3-omnimodal-world-models/2026-cosmos-3-omnimodal-world-models-thumbnail.png",
-    "papers/2026/2026-cosmos-3-omnimodal-world-models",
-    "papers/2026/2026-dreamdojo/2026-dreamdojo.md",
-    "papers/2026/2026-dreamdojo/2026-dreamdojo-thumbnail.png",
-    "papers/2026/2026-dreamdojo",
-    "papers/2025/2025-vitra/2025-vitra.md",
-    "papers/2025/2025-vitra/2025-vitra-thumbnail.png",
-    "papers/2025/2025-vitra",
-    "papers/2024/2024-latent-action-pretraining-videos/2024-latent-action-pretraining-videos.md",
-    "papers/2024/2024-latent-action-pretraining-videos/2024-latent-action-pretraining-videos-thumbnail.png",
-    "papers/2024/2024-latent-action-pretraining-videos",
-    "papers/2025/2025-humanoid-robots-construction/2025-humanoid-robots-construction.md",
-    "topics/built-environment.md",
-    "papers/2021/2021-non-parametric-memory-construction-zones/2021-non-parametric-memory-construction-zones.md",
-    "papers/2026/2026-scenediff-multiview-object-change-detection/2026-scenediff-multiview-object-change-detection.md",
-    "papers/2023/2023-3d-vsg-semantic-scene-change-prediction/2023-3d-vsg-semantic-scene-change-prediction.md",
-    "papers/2023/2023-change-detection-urban-objects-review/2023-change-detection-urban-objects-review.md",
-    "papers/2026/2026-bridgeeqa/2026-bridgeeqa.md",
+    "papers/2025/2025-edgetam/2025-edgetam.md",
+    "papers/2025/2025-edgetam",
+    "papers/2024/2024-efficient-track-anything/2024-efficient-track-anything.md",
+    "papers/2024/2024-efficient-track-anything/2024-efficient-track-anything-thumbnail.png",
+    "papers/2024/2024-efficient-track-anything",
+    "papers/2020/2020-learning-agile-robotic-locomotion-imitating-animals/2020-learning-agile-robotic-locomotion-imitating-animals.md",
+    "papers/2020/2020-learning-agile-robotic-locomotion-imitating-animals/2020-learning-agile-robotic-locomotion-imitating-animals-thumbnail.png",
+    "papers/2020/2020-learning-agile-robotic-locomotion-imitating-animals",
+    "papers/2022/2022-jersey-number-detection-synthetic-data/2022-jersey-number-detection-synthetic-data.md",
+    "papers/2022/2022-jersey-number-detection-synthetic-data",
     "CLAUDE.md",
-    "1-s2.0-S1093968726030938-main.pdf",
-    "papers/2026/2026-perception-action-humanoid-construction/2026-perception-action-humanoid-construction.md",
-    "topics/autonomous-vehicles.md",
-    "archive.md",
-    "papers/2022/2022-minedojo/2022-minedojo.md",
+    "README.md",
+    "papers/2025/2025-uncertainty-aware-jersey-number/2025-uncertainty-aware-jersey-number.md",
+    "inbox.md",
+    "papers/2025/2025-humanoid-whole-body-badminton/2025-humanoid-whole-body-badminton-thumbnail.png",
+    "papers/2025/2025-humanoid-whole-body-badminton/2025-humanoid-whole-body-badminton.md",
+    "papers/2025/2025-humanoid-whole-body-badminton",
+    "papers/2026/2026-dense-metric-depth-completion-sparse-dtof/2026-dense-metric-depth-completion-sparse-dtof.md",
+    "log.md",
+    "topics/remote-sensing.md",
+    "papers/2026/2026-dreamdojo/2026-dreamdojo.md",
+    "papers/2025/2025-viral-visual-sim-to-real-humanoid/2025-viral-visual-sim-to-real-humanoid.md",
+    "papers/2025/2025-whole-body-vla/2025-whole-body-vla-thumbnail.png",
+    "papers/2025/2025-whole-body-vla/2025-whole-body-vla.md",
+    "papers/2025/2025-whole-body-vla",
+    "papers/2025/2025-viral-visual-sim-to-real-humanoid/2025-viral-visual-sim-to-real-humanoid-thumbnail.png",
+    "papers/2025/2025-viral-visual-sim-to-real-humanoid",
+    "topics/robotics.md",
+    "papers/2026/2026-sonic-supersizing-motion-tracking-humanoid/2026-sonic-supersizing-motion-tracking-humanoid.md",
+    "papers/2026/2026-sonic-supersizing-motion-tracking-humanoid/2026-sonic-supersizing-motion-tracking-humanoid-thumbnail.png",
+    "papers/2026/2026-sonic-supersizing-motion-tracking-humanoid",
     "papers/2025/2025-groot-n1-humanoid-foundation-model/2025-groot-n1-humanoid-foundation-model.md",
-    "papers/2022/2022-vpt-learning-to-act-watching-videos/2022-vpt-learning-to-act-watching-videos.md",
-    "papers/2026/2026-perception-action-humanoid-construction/2026-perception-action-humanoid-construction-thumbnail.png",
-    "papers/2026/2026-perception-action-humanoid-construction",
-    "World models.md",
-    "papers/2025/2025-humanoid-robots-construction/2025-humanoid-robots-construction-thumbnail.png",
-    "papers/2025/2025-humanoid-robots-construction",
-    "topics/world-models.md",
-    "papers/2025/2025-worldgym/2025-worldgym.md",
-    "papers/2025/2025-worldgym/2025-worldgym-thumbnail.png",
-    "papers/2025/2025-worldgym",
-    "papers/2026/2026-nitrogen/2026-nitrogen.md",
-    "papers/2025/2025-jarvis-vla/2025-jarvis-vla.md",
-    "papers/2023/2023-jarvis-1/2023-jarvis-1.md",
-    "papers/2023/2023-jarvis-1/2023-jarvis-1-thumbnail.png",
-    "papers/2023/2023-jarvis-1",
-    "papers/2024/2024-teamcraft/2024-teamcraft-thumbnail.png",
-    "papers/2024/2024-mineland/2024-mineland-thumbnail.png"
+    "papers/2026/2026-dense-metric-depth-completion-sparse-dtof",
+    "topics/object-detection.md",
+    "papers/2026/2026-rf-detr/2026-rf-detr.md",
+    "papers/2026/2026-rf-detr/2026-rf-detr-thumbnail.png",
+    "papers/2026/2026-rf-detr",
+    "papers/2023/2023-rtmpose/2023-rtmpose.md",
+    "papers/2023/2023-rtmpose/2023-rtmpose-thumbnail.png",
+    "papers/2026/2026-farm-find-anything-relational-spatial-memory/2026-farm-find-anything-relational-spatial-memory.md",
+    "papers/2026/2026-farm-find-anything-relational-spatial-memory/2026-farm-find-anything-relational-spatial-memory-thumbnail.png",
+    "papers/2018/2018-spatial-temporal-graph-convolutional-networks/2018-spatial-temporal-graph-convolutional-networks.md",
+    "papers/2018/2018-spatial-temporal-graph-convolutional-networks/2018-spatial-temporal-graph-convolutional-networks-thumbnail.png",
+    "papers/2023/2023-sam3d/2023-sam3d.md",
+    "topics/pose-estimation.md",
+    "papers/2026/2026-sam-3d-body/2026-sam-3d-body.md"
   ]
 }

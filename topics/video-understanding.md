@@ -22,7 +22,7 @@ SORT year DESC
 
 # Video Understanding — Overview
 
-*Last updated: 2026-04-09 | Sources: 13 papers*
+*Last updated: 2026-08-01 | Sources: 14 papers*
 
 ## Current thesis
 

@@ -20,7 +20,7 @@ SORT year DESC
 
 ## Overview
 
-*Last updated: 2026-06-25 | Sources: 3 papers*
+*Last updated: 2026-08-09 | Sources: 4 papers*
 
 ## Current thesis
 
@@ -36,6 +36,7 @@ The field has evolved through increasingly sophisticated approaches to data leve
 4. **Generative priors (FE2E, 2026)**: Pre-trained image editing models provide alternative geometric priors; achieve state-of-the-art with minimal training data
 5. **Unifying insight**: Across V1→V2→FE2E, the evolution shows that any source of high-quality supervision (synthetic data, large unlabeled data, or generative priors) can drive state-of-the-art performance if properly leveraged via scaled training and data engineering
 6. **Real-time streaming video depth (FlashDepth, 2025)**: Rather than training expensive video diffusion models, FlashDepth adds a lightweight Mamba recurrent module to DAv2 for temporal consistency and uses a hybrid dual-resolution design (ViT-S at 2K for sharp boundaries, ViT-L at 518px for accuracy, fused via cross-attention). This achieves 24 FPS at 2K on a single A100 — demonstrating that the single-image-to-video gap can be bridged with minimal additional components when the base model is strong
+7. **Sensor-generalizable depth completion (Kim et al., 2026)**: Rather than designing for a specific sensor, a single model trained entirely on synthetic dToF simulations generalizes zero-shot across flash, sub-VGA, and rotating LiDAR sensors. Masked joint attention enables asymmetric cross-modal fusion where depth guides RGB but not vice versa, achieving near-SOTA accuracy at 34ms — showing that sensor simulation and directional fusion can replace both real paired data and expensive iterative/diffusion methods
 
 ## Open problems
 
@@ -48,6 +49,8 @@ The field has evolved through increasingly sophisticated approaches to data leve
 - Can lightweight recurrent consistency (FlashDepth's Mamba approach) generalize to other dense prediction tasks (optical flow, normals) or does temporal alignment require task-specific design?
 - How does FlashDepth's affine-invariant depth interact with downstream tasks requiring metric depth (robotics, AR)? Can metric scale be recovered cheaply from sparse signals (IMU, single LiDAR point)?
 - What is the upper bound on sequence length before recurrent hidden state drift degrades consistency?
+- Can synthetic sensor simulation fully replace real paired data for depth completion, or are there real-world artifacts that remain out-of-distribution? What is the ceiling of sim-to-real transfer for dToF depth?
+- Can asymmetric attention (directional masking between modalities) generalize as a fusion principle beyond depth — e.g., fusing noisy radar with camera, or sparse annotations with dense predictions?
 
 ## Contradictions and debates
 

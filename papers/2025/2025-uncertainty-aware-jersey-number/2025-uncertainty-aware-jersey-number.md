@@ -1,10 +1,12 @@
 ---
-title: "Single-Stage Uncertainty-Aware Jersey Number Recognition in Soccer"
-authors: [Lukasz Grad]
+title: Single-Stage Uncertainty-Aware Jersey Number Recognition in Soccer
+authors:
+  - Lukasz Grad
 year: 2025
-venue: "CVPRW 2025"
-tags: [sports-analytics, re-id]
-url: "https://openaccess.thecvf.com/content/CVPR2025W/CVSPORTS/html/Grad_Single-Stage_Uncertainty-Aware_Jersey_Number_Recognition_in_Soccer_CVPRW_2025_paper.html"
+venue: CVPRW 2025
+tags:
+  - sports-analytics
+url: https://openaccess.thecvf.com/content/CVPR2025W/CVSPORTS/html/Grad_Single-Stage_Uncertainty-Aware_Jersey_Number_Recognition_in_Soccer_CVPRW_2025_paper.html
 date_ingested: 2026-06-25
 ---
 
