@@ -43,12 +43,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "topics/robotics.md",
+                "file": "CLAUDE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "robotics"
+              "title": "CLAUDE"
             }
           }
         ],
@@ -219,7 +219,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -238,8 +238,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0ea6d65034813b20",
+  "active": "9339f38eadb4b4ac",
   "lastOpenFiles": [
+    "topics/robotics.md",
     "log.md",
     "papers/2026/2026-deximit/2026-deximit.md",
     "papers/2026/2026-deximit/2026-deximit-thumbnail.png",
@@ -276,7 +277,6 @@
     "papers/2025/2025-whole-body-vla",
     "papers/2025/2025-viral-visual-sim-to-real-humanoid/2025-viral-visual-sim-to-real-humanoid-thumbnail.png",
     "papers/2025/2025-viral-visual-sim-to-real-humanoid",
-    "topics/robotics.md",
     "papers/2026/2026-sonic-supersizing-motion-tracking-humanoid/2026-sonic-supersizing-motion-tracking-humanoid.md",
     "papers/2026/2026-sonic-supersizing-motion-tracking-humanoid/2026-sonic-supersizing-motion-tracking-humanoid-thumbnail.png",
     "papers/2025/2025-groot-n1-humanoid-foundation-model/2025-groot-n1-humanoid-foundation-model.md",

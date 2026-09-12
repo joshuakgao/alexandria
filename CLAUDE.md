@@ -51,6 +51,7 @@ authors: [Firstname Lastname, Firstname Lastname, ...]   # Always use "Firstname
 year: 2024
 venue: "NeurIPS 2024"           # Only include if specified in ingest command (e.g. "venue: CVPR 2026"). Omit otherwise.
 tags: [topic-slug-1, topic-slug-2]
+depth: skimmed                     # How deeply the paper was read: "glanced", "skimmed", or "read". Defaults to "read" if not specified.
 url: "https://arxiv.org/abs/..."   # Download URL, or the DOI / publisher page for a local PDF. Omit if unknown.
 date_ingested: 2026-06-18
 ---
@@ -97,7 +98,8 @@ TABLE WITHOUT ID
   year as Year,
   embed(link(file.name + "-thumbnail.png")) as Thumbnail,
   link(file.name, title) as Paper,
-  default(venue, "") as Venue
+  default(venue, "") as Venue,
+  default(depth, "") as Depth
 FROM "papers"
 WHERE contains(tags, "topic-slug")
 SORT year DESC
@@ -161,16 +163,17 @@ An append-only, reverse-chronological record of every ingested paper. Newest ent
 ```markdown
 # Ingest Log
 
-| Date | Paper | Year | Venue | Topics | Source |
-|------|-------|------|-------|--------|--------|
-| 2026-06-18 | [[2024-viewdelta]] | 2024 | WACV 2025 | change-detection, vision-language-models | https://arxiv.org/pdf/2412.07612 |
-| 2026-06-17 | [[2026-example-paper]] | 2026 | Expert Systems with Applications | multi-agent-systems | 1-s2.0-S1093968726030938-main.pdf (local) |
+| Date | Paper | Year | Venue | Depth | Topics | Source |
+|------|-------|------|-------|-------|--------|--------|
+| 2026-06-18 | [[2024-viewdelta]] | 2024 | WACV 2025 | skimmed | change-detection, vision-language-models | https://arxiv.org/pdf/2412.07612 |
+| 2026-06-17 | [[2026-example-paper]] | 2026 | Expert Systems with Applications | read | multi-agent-systems | 1-s2.0-S1093968726030938-main.pdf (local) |
 ```
 
 - **Date** — the ingest date (same value as `date_ingested` in the paper frontmatter).
 - **Paper** — wikilink to the paper slug.
 - **Year** — publication year.
 - **Venue** — the resolved venue, or blank if none was found.
+- **Depth** — how deeply the paper was read (`glanced`, `skimmed`, or `read`).
 - **Topics** — comma-separated topic slugs assigned to the paper.
 - **Source** — the URL the paper was downloaded from. For a local PDF, record the filename as it appeared in `inbox.md` followed by `(local)`; if a DOI or publisher URL was resolved during ingest, record that instead, followed by `(local)`.
 
@@ -180,7 +183,9 @@ If `log.md` does not exist, create it with the header shown above before appendi
 
 ## Ingest workflow
 
-Triggered when the user says "ingest {number}" or similar (e.g. `ingest 3`, `ingest imagenet`, or `ingest 3 CVPR 2009`).
+Triggered when the user says "ingest {number}" or similar (e.g. `ingest 3`, `ingest imagenet`, `ingest 3 CVPR 2009`, or `ingest 3 skimmed`).
+
+The command may include a **depth** keyword — `glanced`, `skimmed`, or `read` — indicating how deeply the user has read the paper. If no depth is specified, default to `glanced`.
 
 1. **Read `inbox.md`**. Find the entry by number or by temporary name.
 2. **Obtain the PDF text**, depending on the entry type:
