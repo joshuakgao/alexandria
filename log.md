@@ -2,6 +2,9 @@
 
 | Date | Paper | Year | Venue | Topics | Source |
 |------|-------|------|-------|--------|--------|
+| 2026-09-10 | [[2026-deximit]] | 2026 | RSS 2026 | robotics, embodied-ai | https://www.roboticsproceedings.org/rss22/p003.pdf |
+| 2026-09-10 | [[2018-dexterous-manipulation-drl-demonstrations]] | 2018 | RSS 2018 | robotics | https://arxiv.org/abs/1709.10087 |
+| 2026-09-10 | [[2025-change3d]] | 2025 | CVPR 2025 | change-detection, remote-sensing | https://openaccess.thecvf.com/content/CVPR2025/papers/Zhu_Change3D_Revisiting_Change_Detection_and_Captioning_from_A_Video_Modeling_CVPR_2025_paper.pdf |
 | 2026-09-03 | [[2025-edgetam]] | 2025 | CVPR 2025 | segmentation | https://arxiv.org/pdf/2501.07256 |
 | 2026-09-03 | [[2024-efficient-track-anything]] | 2024 | ICCV 2025 | segmentation | https://arxiv.org/pdf/2411.18933 |
 | 2026-08-27 | [[2020-learning-agile-robotic-locomotion-imitating-animals]] | 2020 | RSS 2020 | robotics | https://xbpeng.github.io/projects/Robotic_Imitation/Robotic_Imitation_2020.pdf |

@@ -219,7 +219,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -238,8 +238,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0ea6d65034813b20",
+  "active": "8036d9d07ee667d9",
   "lastOpenFiles": [
+    "papers/2026/2026-deximit/2026-deximit.md",
+    "papers/2026/2026-deximit/2026-deximit-thumbnail.png",
+    "papers/2026/2026-deximit",
+    "papers/2018/2018-dexterous-manipulation-drl-demonstrations/2018-dexterous-manipulation-drl-demonstrations.md",
+    "papers/2018/2018-dexterous-manipulation-drl-demonstrations/2018-dexterous-manipulation-drl-demonstrations-thumbnail.png",
+    "papers/2018/2018-dexterous-manipulation-drl-demonstrations",
+    "papers/2025/2025-change3d/2025-change3d.md",
+    "papers/2025/2025-change3d/2025-change3d-thumbnail.png",
+    "papers/2025/2025-change3d",
     "papers/2025/2025-edgetam/2025-edgetam.md",
     "papers/2025/2025-edgetam",
     "papers/2024/2024-efficient-track-anything/2024-efficient-track-anything.md",
@@ -270,21 +279,12 @@
     "topics/robotics.md",
     "papers/2026/2026-sonic-supersizing-motion-tracking-humanoid/2026-sonic-supersizing-motion-tracking-humanoid.md",
     "papers/2026/2026-sonic-supersizing-motion-tracking-humanoid/2026-sonic-supersizing-motion-tracking-humanoid-thumbnail.png",
-    "papers/2026/2026-sonic-supersizing-motion-tracking-humanoid",
     "papers/2025/2025-groot-n1-humanoid-foundation-model/2025-groot-n1-humanoid-foundation-model.md",
-    "papers/2026/2026-dense-metric-depth-completion-sparse-dtof",
     "topics/object-detection.md",
     "papers/2026/2026-rf-detr/2026-rf-detr.md",
     "papers/2026/2026-rf-detr/2026-rf-detr-thumbnail.png",
-    "papers/2026/2026-rf-detr",
     "papers/2023/2023-rtmpose/2023-rtmpose.md",
-    "papers/2023/2023-rtmpose/2023-rtmpose-thumbnail.png",
     "papers/2026/2026-farm-find-anything-relational-spatial-memory/2026-farm-find-anything-relational-spatial-memory.md",
-    "papers/2026/2026-farm-find-anything-relational-spatial-memory/2026-farm-find-anything-relational-spatial-memory-thumbnail.png",
-    "papers/2018/2018-spatial-temporal-graph-convolutional-networks/2018-spatial-temporal-graph-convolutional-networks.md",
-    "papers/2018/2018-spatial-temporal-graph-convolutional-networks/2018-spatial-temporal-graph-convolutional-networks-thumbnail.png",
-    "papers/2023/2023-sam3d/2023-sam3d.md",
-    "topics/pose-estimation.md",
-    "papers/2026/2026-sam-3d-body/2026-sam-3d-body.md"
+    "papers/2018/2018-spatial-temporal-graph-convolutional-networks/2018-spatial-temporal-graph-convolutional-networks.md"
   ]
 }
