@@ -3,7 +3,7 @@ title: "Mono-Hydra: Real-time 3D Scene Graph Construction from Monocular Camera 
 authors: [Priyanka Udugama, George Vosselman, Francesco Nex]
 year: 2024
 venue: "ISPRS Geospatial Week 2023"
-tags: [embodied-ai, scene-graphs, slam, depth-estimation]
+tags: [robotics, scene-graphs, slam, depth-estimation]
 url: "https://arxiv.org/abs/2308.05515"
 date_ingested: 2026-06-18
 ---

@@ -8,7 +8,7 @@ authors:
 year: 2026
 venue: ""
 tags:
-  - embodied-ai
+  - robotics
   - scene-graphs
   - built-environment
 url: https://arxiv.org/abs/2511.12676

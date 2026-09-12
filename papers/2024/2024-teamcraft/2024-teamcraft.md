@@ -2,7 +2,7 @@
 title: "TeamCraft: A Benchmark for Multi-Modal Multi-Agent Systems in Minecraft"
 authors: [Qian Long, Zhi Li, Ran Gong, Ying Nian Wu, Demetri Terzopoulos, Xiaofeng Gao]
 year: 2024
-tags: [multi-agent, embodied-ai, vision-language-models]
+tags: [multi-agent, robotics, vision-language-models]
 url: "https://arxiv.org/abs/2412.05255"
 date_ingested: 2026-07-19
 ---

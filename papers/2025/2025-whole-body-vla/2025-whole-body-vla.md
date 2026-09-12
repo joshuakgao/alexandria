@@ -3,7 +3,7 @@ title: "WholeBodyVLA: Towards Unified Latent VLA for Whole-Body Loco-Manipulatio
 authors: [Haoran Jiang, Jin Chen, Qingwen Bu, Li Chen, Modi Shi, Yanjie Zhang, Delong Li, Chuanzhe Suo, Chuang Wang, Zhihui Peng, Hongyang Li]
 year: 2025
 venue: "ICLR 2026"
-tags: [embodied-ai, robotics]
+tags: [robotics]
 url: "https://arxiv.org/abs/2512.11047"
 date_ingested: 2026-08-19
 ---

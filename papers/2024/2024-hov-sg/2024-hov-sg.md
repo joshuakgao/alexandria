@@ -3,7 +3,7 @@ title: "HOV-SG: Hierarchical Open-Vocabulary 3D Scene Graphs for Language-Ground
 authors: [Abdelrhman Werby, Chenguang Huang, Martin Büchner, Abhinav Valada, Wolfram Burgard]
 year: 2024
 venue: "RSS 2024"
-tags: [embodied-ai, scene-graphs, 3d-scene-understanding]
+tags: [robotics, scene-graphs, 3d-scene-understanding]
 url: "https://arxiv.org/abs/2403.17846"
 date_ingested: 2026-06-18
 ---

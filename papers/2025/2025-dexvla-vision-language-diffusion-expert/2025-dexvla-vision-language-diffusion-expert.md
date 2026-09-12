@@ -9,7 +9,7 @@ authors:
 year: 2025
 venue: CoRL 2025
 tags:
-  - embodied-ai
+  - robotics
   - vision-language-action
 url: https://arxiv.org/abs/2502.05855
 date_ingested: 2026-07-14

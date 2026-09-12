@@ -2,7 +2,7 @@
 title: "Cosmos 3: Omnimodal World Models for Physical AI"
 authors: [NVIDIA]
 year: 2026
-tags: [world-models, embodied-ai, image-video-generation]
+tags: [world-models, robotics, image-video-generation]
 url: "https://arxiv.org/abs/2606.02800"
 date_ingested: 2026-07-29
 ---

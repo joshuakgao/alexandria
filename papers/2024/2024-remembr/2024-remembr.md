@@ -3,7 +3,7 @@ title: "ReMEmbR: Building and Reasoning Over Long-Horizon Spatio-Temporal Memory
 authors: [Abrar Anwar, John Welsh, Joydeep Biswas, Soha Pouya, Yan Chang]
 year: 2024
 venue: "CoRL 2024"
-tags: [embodied-ai, video-understanding, agentic-mllms]
+tags: [robotics, video-understanding, agentic-mllms]
 url: "https://arxiv.org/abs/2409.13682"
 date_ingested: 2026-06-18
 ---

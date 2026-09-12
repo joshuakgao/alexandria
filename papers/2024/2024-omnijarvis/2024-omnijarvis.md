@@ -3,7 +3,7 @@ title: "OmniJARVIS: Unified Vision-Language-Action Tokenization Enables Open-Wor
 authors: [Zihao Wang, Shaofei Cai, Zhancun Mu, Haowei Lin, Ceyao Zhang, Xuejie Liu, Qing Li, Anji Liu, Xiaojian Ma, Yitao Liang]
 year: 2024
 venue: "NeurIPS 2024"
-tags: [vision-language-action, embodied-ai]
+tags: [vision-language-action, robotics]
 url: "https://arxiv.org/abs/2407.00114"
 date_ingested: 2026-07-18
 ---

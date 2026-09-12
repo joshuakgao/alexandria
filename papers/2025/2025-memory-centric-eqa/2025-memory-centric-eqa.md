@@ -3,7 +3,7 @@ title: "Memory-Centric Embodied Question Answering"
 authors: [Mingliang Zhai, Zhi Gao, Yuwei Wu, Yunde Jia]
 year: 2025
 venue: ""
-tags: [embodied-ai, vision-language-models]
+tags: [robotics, vision-language-models]
 url: "https://arxiv.org/abs/2505.13948"
 date_ingested: 2026-06-18
 ---

@@ -3,7 +3,7 @@ title: "Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Vi
 authors: [Bowen Baker, Ilge Akkaya, Peter Zhokhov, Joost Huizinga, Jie Tang, Adrien Ecoffet, Brandon Houghton, Raul Sampedro, Jeff Clune]
 year: 2022
 venue: "NeurIPS 2022"
-tags: [reinforcement-learning, world-models, embodied-ai]
+tags: [reinforcement-learning, world-models, robotics]
 url: "https://arxiv.org/abs/2206.11795"
 date_ingested: 2026-07-04
 ---

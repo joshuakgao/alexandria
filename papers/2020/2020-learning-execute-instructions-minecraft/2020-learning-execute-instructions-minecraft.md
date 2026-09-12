@@ -3,7 +3,7 @@ title: "Learning to Execute Instructions in a Minecraft Dialogue"
 authors: [Prashant Jayannavar, Anjali Narayan-Chen, Julia Hockenmaier]
 year: 2020
 venue: "ACL 2020"
-tags: [embodied-ai, multi-agent, human-ai-collaboration]
+tags: [robotics, multi-agent, human-ai-collaboration]
 url: "https://aclanthology.org/2020.acl-main.232/"
 date_ingested: 2026-07-18
 ---

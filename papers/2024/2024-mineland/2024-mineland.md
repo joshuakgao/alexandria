@@ -2,7 +2,7 @@
 title: "MineLand: Simulating Large-Scale Multi-Agent Interactions with Limited Multimodal Senses and Physical Needs"
 authors: [Xianhao Yu, Jiaqi Fu, Renjia Deng, Wenjuan Han]
 year: 2024
-tags: [multi-agent, embodied-ai]
+tags: [multi-agent, robotics]
 url: "https://arxiv.org/abs/2403.19267"
 date_ingested: 2026-07-19
 ---

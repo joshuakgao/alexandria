@@ -2,7 +2,7 @@
 title: "DreamGen: Unlocking Generalization in Robot Learning through Video World Models"
 authors: [Joel Jang, Seonghyeon Ye, Zongyu Lin, Jiannan Xiang, Johan Bjorck, Yu Fang, Fengyuan Hu, Spencer Huang, Kaushil Kundalia, Lin Yen-Chen, Loic Magne, Ajay Mandlekar, Avnish Narayan, You Liang Tan, Guanzhi Wang, Jing Wang, Qi Wang, Yinzhen Xu, Xiaohui Zeng, Kaiyuan Zheng, Ruijie Zheng, Ming-Yu Liu, Luke Zettlemoyer, Dieter Fox, Jan Kautz, Scott Reed, Yuke Zhu, Linxi Fan]
 year: 2025
-tags: [world-models, embodied-ai, image-video-generation]
+tags: [world-models, robotics, image-video-generation]
 url: "https://arxiv.org/abs/2505.12705"
 date_ingested: 2026-07-10
 ---

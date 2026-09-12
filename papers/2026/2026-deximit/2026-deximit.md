@@ -3,7 +3,7 @@ title: "DexImit: Learning Bimanual Dexterous Manipulation from Monocular Human V
 authors: [Juncheng Mu, Sizhe Yang, Yiming Bao, Hojin Bae, Tianming Wei, Linning Xu, Boyi Li, Huazhe Xu, Jiangmiao Pang]
 year: 2026
 venue: "RSS 2026"
-tags: [robotics, embodied-ai]
+tags: [robotics]
 url: "https://www.roboticsproceedings.org/rss22/p003.pdf"
 date_ingested: 2026-09-10
 ---

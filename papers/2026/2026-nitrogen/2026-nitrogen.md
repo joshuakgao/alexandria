@@ -19,7 +19,7 @@ year: 2026
 venue: CVPR 2026
 tags:
   - agentic-mllms
-  - embodied-ai
+  - robotics
 url: https://arxiv.org/abs/2601.02427
 date_ingested: 2026-06-18
 ---

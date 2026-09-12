@@ -14,7 +14,7 @@ authors:
 year: 2022
 venue: NeurIPS 2022
 tags:
-  - embodied-ai
+  - robotics
   - synthetic-datasets
   - reinforcement-learning
 url: https://arxiv.org/abs/2206.08853

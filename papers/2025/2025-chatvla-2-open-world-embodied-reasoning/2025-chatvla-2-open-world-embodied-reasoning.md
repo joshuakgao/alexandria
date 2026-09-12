@@ -9,7 +9,7 @@ authors:
 year: 2025
 venue: ""
 tags:
-  - embodied-ai
+  - robotics
   - vision-language-action
 url: "https://arxiv.org/abs/2505.21906"
 date_ingested: 2026-07-14

@@ -3,7 +3,7 @@ title: "Dynamic Open-Vocabulary 3D Scene Graphs for Long-term Language-Guided Mo
 authors: [Zhijie Yan, Shufei Li, Zuoxu Wang, Lixiu Wu, Han Wang, Jun Zhu, Lijiang Chen, Bangyan Liu]
 year: 2025
 venue: "IEEE RA-L"
-tags: [embodied-ai, scene-graphs]
+tags: [robotics, scene-graphs]
 url: "https://arxiv.org/abs/2410.11989"
 date_ingested: 2026-06-18
 ---

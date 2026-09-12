@@ -2,7 +2,7 @@
 title: "RoboScape: Physics-informed Embodied World Model"
 authors: [Yu Shang, Xin Zhang, Yinzhou Tang, Lei Jin, Chen Gao, Wei Wu, Yong Li]
 year: 2025
-tags: [world-models, embodied-ai]
+tags: [world-models, robotics]
 url: "https://arxiv.org/abs/2506.23135"
 date_ingested: 2026-07-29
 ---

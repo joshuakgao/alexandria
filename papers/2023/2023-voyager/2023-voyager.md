@@ -3,7 +3,7 @@ title: "Voyager: An Open-Ended Embodied Agent with Large Language Models"
 authors: [Guanzhi Wang, Yuqi Xie, Yunfan Jiang, Ajay Mandlekar, Chaowei Xiao, Yuke Zhu, Linxi Fan, Anima Anandkumar]
 year: 2023
 venue: "TMLR 2024"
-tags: [embodied-ai]
+tags: [robotics]
 url: "https://arxiv.org/abs/2305.16291"
 date_ingested: 2026-07-18
 ---

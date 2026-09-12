@@ -3,7 +3,7 @@ title: "R⁴: Retrieval-Augmented Reasoning for Vision-Language Models in 4D Spa
 authors: [Kihyun Sohn, Kurt Dillitzer, Jason Corso, Alexander Sax]
 year: 2025
 venue: ""
-tags: [embodied-ai, vision-language-models, slam]
+tags: [robotics, vision-language-models, slam]
 url: "https://arxiv.org/abs/2512.15940"
 date_ingested: 2026-06-18
 ---

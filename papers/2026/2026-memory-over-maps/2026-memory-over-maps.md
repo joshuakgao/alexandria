@@ -3,7 +3,7 @@ title: "Memory Over Maps: 3D Object Localization Without Reconstruction"
 authors: [Xander Yap, Jianwen Cao, Allison Lau, Boyang Sun, Marc Pollefeys]
 year: 2026
 venue: ""
-tags: [embodied-ai]
+tags: [robotics]
 url: "https://arxiv.org/abs/2603.20530"
 date_ingested: 2026-06-18
 ---

@@ -8,7 +8,7 @@ authors:
 year: 2026
 venue: CVPR 2026
 tags:
-  - embodied-ai
+  - robotics
 url: "https://arxiv.org/abs/2601.10744"
 date_ingested: 2026-06-18
 ---

@@ -3,7 +3,7 @@ title: "VIRAL: Visual Sim-to-Real at Scale for Humanoid Loco-Manipulation"
 authors: [Tairan He, Zi Wang, Haoru Xue, Qingwei Ben, Zhengyi Luo, Wenli Xiao, Ye Yuan, Xingye Da, Fernando Castañeda, Shankar Sastry, Changliu Liu, Guanya Shi, Linxi Fan, Yuke Zhu]
 year: 2025
 venue: "CVPR 2026"
-tags: [embodied-ai, robotics]
+tags: [robotics]
 url: "https://arxiv.org/abs/2511.15200"
 date_ingested: 2026-08-15
 ---

@@ -3,7 +3,7 @@ title: "DreamDojo: A Generalist Robot World Model from Large-Scale Human Videos"
 authors: [Shenyuan Gao, William Liang, Kaiyuan Zheng, Ayaan Malik, Seonghyeon Ye, Sihyun Yu, Wei-Cheng Tseng, Yuzhu Dong, Kaichun Mo, Chen-Hsuan Lin, Qianli Ma, Seungjun Nah, Loic Magne, Jiannan Xiang, Yuqi Xie, Ruijie Zheng, Dantong Niu, You Liang Tan, K.R. Zentner, George Kurian, Suneel Indupuru, Pooya Jannaty, Jinwei Gu, Jun Zhang, Jitendra Malik, Pieter Abbeel, Ming-Yu Liu, Yuke Zhu, Joel Jang, Linxi Fan]
 year: 2026
 venue: "ICML 2026"
-tags: [world-models, embodied-ai]
+tags: [world-models, robotics]
 url: "https://arxiv.org/abs/2602.06949"
 date_ingested: 2026-07-29
 ---

@@ -3,7 +3,7 @@ title: "OpenEQA: Embodied Question Answering in the Era of Foundation Models"
 authors: [Anurag Ajay, Xiaohan Zhang, Pranav Putta, Sriram Yenamandra, Mikael Henaff, Sneha Silwal, Paul Mcvay, Oleksandr Maksymets, Sergio Arnaud, Karmesh Yadav, Qiyang Li, Ben Newman, Mohit Sharma, Vincent Berges, Shiqi Zhang, Pulkit Agrawal, Yonatan Bisk, Dhruv Batra, Mrinal Kalakrishnan, Franziska Meier, Chris Paxton, Sasha Sax, Aravind Rajeswaran]
 year: 2024
 venue: "CVPR 2024"
-tags: [embodied-ai]
+tags: [robotics]
 url: ""
 date_ingested: 2026-06-18
 ---

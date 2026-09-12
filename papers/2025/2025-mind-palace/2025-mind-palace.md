@@ -3,7 +3,7 @@ title: "Enter the Mind Palace: Reasoning and Planning for Long-term Active Embod
 authors: [Muhammad Fadhil Ginting, Sung-Kyun Kim, Kevin Meng, Cedric Reinke, Nikhil Krishna, Joshua Kayhani, Jesse Peltzer, David Fan, Ali Shaban, Mykel Kochenderfer, Ali-akbar Agha-mohammadi, Luca Omidshafiei]
 year: 2025
 venue: ""
-tags: [embodied-ai, scene-graphs]
+tags: [robotics, scene-graphs]
 url: "https://arxiv.org/abs/2507.12846"
 date_ingested: 2026-06-18
 ---

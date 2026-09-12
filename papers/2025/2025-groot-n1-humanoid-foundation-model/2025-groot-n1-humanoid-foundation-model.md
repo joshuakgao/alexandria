@@ -3,7 +3,7 @@ title: "GR00T N1: An Open Foundation Model for Generalist Humanoid Robots"
 authors: [NVIDIA]
 year: 2025
 venue: ""
-tags: [embodied-ai, vision-language-action]
+tags: [robotics, vision-language-action]
 url: "https://arxiv.org/abs/2503.14734"
 date_ingested: 2026-07-14
 ---

@@ -2,7 +2,7 @@
 title: "WorldGym: World Model as an Environment for Policy Evaluation"
 authors: [Julian Quevedo, Ansh Kumar Sharma, Yixiang Sun, Varad Suryavanshi, Percy Liang, Sherry Yang]
 year: 2025
-tags: [world-models, embodied-ai]
+tags: [world-models, robotics]
 url: "https://arxiv.org/abs/2506.00613"
 date_ingested: 2026-07-22
 ---

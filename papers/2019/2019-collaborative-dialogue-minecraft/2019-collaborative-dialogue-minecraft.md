@@ -9,7 +9,7 @@ venue: "ACL 2019"
 tags:
   - human-ai-collaboration
   - multi-agent
-  - embodied-ai
+  - robotics
 url: "https://aclanthology.org/P19-1537/"
 date_ingested: 2026-07-17
 ---

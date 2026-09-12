@@ -3,7 +3,7 @@ title: "EmbodiedLGR: Integrating Lightweight Graph Representation and Retrieval 
 authors: [Paolo Riva, Leonardo Gargani, Matteo Frosi, Matteo Matteucci]
 year: 2026
 venue: ""
-tags: [embodied-ai]
+tags: [robotics]
 url: "https://arxiv.org/abs/2604.18271"
 date_ingested: 2026-06-18
 ---

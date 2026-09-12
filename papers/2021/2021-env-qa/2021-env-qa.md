@@ -3,7 +3,7 @@ title: "Env-QA: A Video Question Answering Benchmark for Comprehensive Understan
 authors: [Daniel Gao, Howard Wang, Sai Bai, Hao Chen]
 year: 2021
 venue: "ICCV"
-tags: [embodied-ai, video-understanding]
+tags: [robotics, video-understanding]
 url: ""
 date_ingested: 2026-06-18
 ---

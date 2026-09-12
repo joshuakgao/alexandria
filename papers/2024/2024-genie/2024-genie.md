@@ -3,7 +3,7 @@ title: "Genie: Generative Interactive Environments"
 authors: [Jake Bruce, Michael Dennis, Ashley Edwards, Jack Parker-Holder, Yuge Shi, Edward Hughes, Matthew Lai, Aditi Mavalankar, Richie Steigerwald, Chris Apps, Yusuf Aytar, Sarah Bechtle, Feryal Behbahani, Stephanie Chan, Nicolas Heess, Lucy Gonzalez, Simon Osindero, Sherjil Ozair, Scott Reed, Jingwei Zhang, Konrad Zolna, Jeff Clune, Nando de Freitas, Satinder Singh, Tim Rocktäschel]
 year: 2024
 venue: "ICML 2024"
-tags: [world-models, image-video-generation, embodied-ai, reinforcement-learning]
+tags: [world-models, image-video-generation, robotics, reinforcement-learning]
 url: "https://arxiv.org/abs/2402.15391"
 date_ingested: 2026-06-25
 ---

@@ -16,7 +16,7 @@ year: 2025
 venue: "EMNLP 2025"
 tags:
   - vision-language-action
-  - embodied-ai
+  - robotics
 url: "https://arxiv.org/abs/2502.14420"
 date_ingested: 2026-07-14
 ---

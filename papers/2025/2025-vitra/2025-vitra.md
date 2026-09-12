@@ -3,7 +3,7 @@ title: "VITRA: Scalable Vision-Language-Action Model Pretraining for Robotic Man
 authors: [Qixiu Li, Yu Deng, Yaobo Liang, Lin Luo, Lei Zhou, Chengtang Yao, Lingqi Zeng, Zhiyuan Feng, Huizhi Liang, Sicheng Xu, Yizhong Zhang, Xi Chen, Hao Chen, Lily Sun, Dong Chen, Jiaolong Yang, Baining Guo]
 year: 2025
 venue: "ICRA 2026"
-tags: [vision-language-action, embodied-ai]
+tags: [vision-language-action, robotics]
 url: "https://arxiv.org/abs/2510.21571"
 date_ingested: 2026-07-29
 ---

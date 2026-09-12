@@ -2,7 +2,7 @@
 title: "Humanoid Whole-Body Badminton via Multi-Stage Reinforcement Learning"
 authors: [Chenhao Liu, Leyun Jiang, Yibo Wang, Kairan Yao, Jinchen Fu, Xiaoyu Ren]
 year: 2025
-tags: [robotics, embodied-ai]
+tags: [robotics]
 url: "https://arxiv.org/abs/2511.11218"
 date_ingested: 2026-08-21
 ---

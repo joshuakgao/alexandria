@@ -12,7 +12,7 @@ authors:
   - Arthur Szlam
 year: 2019
 tags:
-  - embodied-ai
+  - robotics
   - multi-agent
 url: https://arxiv.org/abs/1907.08584
 date_ingested: 2026-07-17

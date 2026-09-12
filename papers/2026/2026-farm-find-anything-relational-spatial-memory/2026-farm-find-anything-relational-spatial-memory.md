@@ -2,7 +2,7 @@
 title: "FARM: Find Anything using Relational Spatial Memory"
 authors: [Siming He, Leo Huang, Adam Lilja, Fabio Hübel, Jonas Frey, Marco Pavone, S. Shankar Sastry, Jitendra Malik, Claire Tomlin]
 year: 2026
-tags: [embodied-ai, 3d-scene-understanding]
+tags: [robotics, 3d-scene-understanding]
 url: "https://arxiv.org/abs/2606.15476"
 date_ingested: 2026-08-01
 ---

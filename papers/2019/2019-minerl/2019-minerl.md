@@ -3,7 +3,7 @@ title: "MineRL: A Large-Scale Dataset of Minecraft Demonstrations"
 authors: [William Guss, Brandon Houghton, Nicholay Topin, Phillip Wang, Cayden Codel, Manuela Veloso, Ruslan Salakhutdinov]
 year: 2019
 venue: "IJCAI 2019"
-tags: [embodied-ai]
+tags: [robotics]
 url: "https://arxiv.org/abs/1907.13440"
 date_ingested: 2026-07-17
 ---

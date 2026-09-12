@@ -3,7 +3,7 @@ title: "JARVIS-VLA: Post-Training Large-Scale Vision Language Models to Play Vis
 authors: [Muyao Li, Zihao Wang, Kaichen He, Xiaojian Ma, Yitao Liang]
 year: 2025
 venue: "ACL 2025 Findings"
-tags: [vision-language-action, embodied-ai]
+tags: [vision-language-action, robotics]
 url: "https://arxiv.org/abs/2503.16365"
 date_ingested: 2026-07-18
 ---

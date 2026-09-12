@@ -3,7 +3,7 @@ title: "SONIC: Supersizing Motion Tracking for Natural Humanoid Whole-Body Contr
 authors: [Zhengyi Luo, Ye Yuan, Tingwu Wang, Chenran Li, Fernando Castañeda, Sirui Chen, Zi-Ang Cao, Jiefeng Li, David Minor, Qingwei Ben, Jinhyung Park, David Sami, Zi Wang, Xingye Da, Runyu Ding, Cyrus Hogg, Lina Song, Edy Lim, Eugene Jeong, Tairan He, Haoru Xue, Wenli Xiao, Simon Yuen, Jan Kautz, Yan Chang, Umar Iqbal, Linxi Fan, Yuke Zhu]
 year: 2026
 venue: "Science Robotics"
-tags: [embodied-ai, robotics]
+tags: [robotics]
 url: "https://arxiv.org/abs/2511.07820"
 date_ingested: 2026-08-14
 ---

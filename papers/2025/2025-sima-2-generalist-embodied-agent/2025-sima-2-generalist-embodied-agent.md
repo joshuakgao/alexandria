@@ -2,7 +2,7 @@
 title: "SIMA 2: A Generalist Embodied Agent for Virtual Worlds"
 authors: [SIMA Team, Google DeepMind]
 year: 2025
-tags: [embodied-ai, reinforcement-learning, world-models]
+tags: [robotics, reinforcement-learning, world-models]
 url: "https://arxiv.org/abs/2512.04797"
 date_ingested: 2026-07-04
 ---

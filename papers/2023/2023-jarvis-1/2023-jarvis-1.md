@@ -3,7 +3,7 @@ title: "JARVIS-1: Open-World Multi-task Agents with Memory-Augmented Multimodal 
 authors: [Zihao Wang, Shaofei Cai, Anji Liu, Yonggang Jin, Jinbing Hou, Bowei Zhang, Haowei Lin, Zhaofeng He, Zilong Zheng, Yaodong Yang, Xiaojian Ma, Yitao Liang]
 year: 2023
 venue: "IEEE TPAMI 2025"
-tags: [embodied-ai, multi-agent]
+tags: [robotics, multi-agent]
 url: "https://arxiv.org/abs/2311.05997"
 date_ingested: 2026-07-19
 ---

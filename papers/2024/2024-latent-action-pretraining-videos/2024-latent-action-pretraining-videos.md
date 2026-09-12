@@ -3,7 +3,7 @@ title: "Latent Action Pretraining from Videos"
 authors: [Seonghyeon Ye, Joel Jang, Byeongguk Jeon, Sejune Joo, Jianwei Yang, Baolin Peng, Ajay Mandlekar, Reuben Tan, Yu-Wei Chao, Yuchen Lin, Lars Liden, Kimin Lee, Jianfeng Gao, Luke Zettlemoyer, Dieter Fox, Minjoon Seo]
 year: 2024
 venue: "ICLR 2025"
-tags: [vision-language-action, embodied-ai]
+tags: [vision-language-action, robotics]
 url: "https://arxiv.org/abs/2410.11758"
 date_ingested: 2026-07-29
 ---

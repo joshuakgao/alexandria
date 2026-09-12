@@ -3,7 +3,7 @@ title: "TraceGen: World Modeling in 3D Trace Space Enables Learning from Cross-E
 authors: [Seungjae Lee, Yoonkyo Jung, Inkook Chun, Yao-Chih Lee, Zikui Cai, Hongjia Huang, Aayush Talreja, Tan Dat Dao, Yongyuan Liang, Jia-Bin Huang, Furong Huang]
 year: 2026
 venue: "CVPR 2026"
-tags: [world-models, embodied-ai, point-tracking]
+tags: [world-models, robotics, point-tracking]
 url: "https://tracegen.github.io"
 date_ingested: 2026-07-04
 ---

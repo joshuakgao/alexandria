@@ -3,7 +3,7 @@ title: "Worth Remembering: Surprise-Gated Robot Episodic Memory"
 authors: [Nicolas Gorlo, Derek Wise, Alberto Speranzon, Luca Carlone]
 year: 2026
 venue: ""
-tags: [embodied-ai, scene-graphs]
+tags: [robotics, scene-graphs]
 url: "https://arxiv.org/abs/2606.03787"
 date_ingested: 2026-06-18
 ---

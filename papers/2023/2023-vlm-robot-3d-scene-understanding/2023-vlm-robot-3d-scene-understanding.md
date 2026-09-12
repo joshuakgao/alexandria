@@ -3,7 +3,7 @@ title: "Leveraging Large (Visual) Language Models for Robot 3D Scene Understandi
 authors: [William Chen, Siyi Hu, Rajat Talak, Luca Carlone]
 year: 2023
 venue: ""
-tags: [embodied-ai, vision-language-models, scene-graphs]
+tags: [robotics, vision-language-models, scene-graphs]
 url: "https://arxiv.org/abs/2209.05629"
 date_ingested: 2026-06-18
 ---

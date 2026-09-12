@@ -16,7 +16,7 @@ venue: ""
 tags:
   - spatial-reasoning
   - vision-language-models
-  - embodied-ai
+  - robotics
   - 3d-scene-understanding
 url: https://arxiv.org/abs/2605.29563
 date_ingested: 2026-06-18

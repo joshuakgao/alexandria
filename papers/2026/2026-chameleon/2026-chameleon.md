@@ -3,7 +3,7 @@ title: "Chameleon: Episodic Memory for Long-Horizon Robotic Manipulation"
 authors: [Robotic Manipulation Xinying Guo, Chenxi Jiang, Hyun Bin Kim, Ying Sun, Yang Xiao, Yuhang Han, Jianfei Yang]
 year: 2026
 venue: ""
-tags: [embodied-ai]
+tags: [robotics]
 url: "https://arxiv.org/abs/2603.24576"
 date_ingested: 2026-06-18
 ---

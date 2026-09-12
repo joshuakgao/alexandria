@@ -3,7 +3,7 @@ title: "Kimera: an Open-Source Library for Real-Time Metric-Semantic Localizatio
 authors: [Antoni Rosinol, Marcus Abate, Yun Chang, Luca Carlone]
 year: 2020
 venue: "ICRA 2020"
-tags: [embodied-ai, slam, 3d-scene-reconstruction]
+tags: [robotics, slam, 3d-scene-reconstruction]
 url: "https://arxiv.org/abs/1910.02490"
 date_ingested: 2026-06-18
 ---
